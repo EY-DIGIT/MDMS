@@ -20857,6 +20857,29 @@
     "serviceCode": "trackingservice",
     "code": "null",
     "path": ""
-}
+},
+{
+        "id": 5551,
+        "name": "Update Property Registry Content",
+        "url": "/property-services/property/content/_update",
+        "displayName": "CUpdate Property Registry Content",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+},
+{
+        "id": 5552,
+        "name": "PGService Transaction Redirect",
+        "url": "/pg-service/transaction/v1/_redirect",
+        "displayName": "Transaction Redirect",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "pg-service",
+        "code": "null",
+        "path": ""
+    }    
   ]
 }
