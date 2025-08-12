@@ -5,6 +5,7 @@
     {
       "name": "Demo",
       "code": "mp",
+      "mainCity": "Indore",
       "qrCodeURL": "",
       "bannerUrl": "",
       "logoUrl": "https://tfstate8auyj.blob.core.windows.net/egov-dev-assets/image%2014.svg",
