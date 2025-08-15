@@ -32850,7 +32850,24 @@
       "actionid": 4945,
       "actioncode": "",
       "tenantId": "mp"
-  }
-    
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4895,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4897,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4898,
+      "actioncode": "",
+      "tenantId": "mp"
+  } 
   ]
 }
