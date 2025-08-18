@@ -1027,6 +1027,26 @@
       "code": "THIRD_PARTY_SUPERUSER",
       "name": "Third Party Superuser",
       "description": "Third Party Superuser"
+    },
+    {
+      "code": "REGISTRAR",
+      "name": "Registrar",
+      "description": "Registrar"
+    },
+    {
+      "code": "DC_RENTAL",
+      "name": "DC Rental",
+      "description": "DC Rental"
+    },
+    {
+      "code": "APPROVER",
+      "name": "Approver",
+      "description": "Approver"
+    },
+    {
+      "code": "BAP_COUNTER_EMPLOYEE",
+      "name": "BAP Counter Employee",
+      "description": "BAP Counter Employee"
     }
   ]
 }
