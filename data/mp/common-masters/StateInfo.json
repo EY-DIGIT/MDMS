@@ -6,6 +6,7 @@
       "name": "Demo",
       "code": "mp",
       "mainCity": "Indore",
+      "BAPURL": "https://citizenservicesdev.eydemoapp.in/",
       "qrCodeURL": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
       "bannerUrl": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
       "logoUrl": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
