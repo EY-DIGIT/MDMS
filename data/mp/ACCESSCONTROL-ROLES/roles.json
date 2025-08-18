@@ -1047,6 +1047,11 @@
       "code": "BAP_COUNTER_EMPLOYEE",
       "name": "BAP Counter Employee",
       "description": "BAP Counter Employee"
+    },
+    {
+      "code": "ARO_RENTAL",
+      "name": "ARO Rental",
+      "description": "ARO Rental"
     }
   ]
 }
