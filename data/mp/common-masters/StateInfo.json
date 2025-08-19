@@ -123,7 +123,9 @@
         "rentallogo": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/passkey.svg",
         "propertyTax": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/real_estate_agent.svg",
         "waterTax": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/water_ph.svg",
-        "downloadIcon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/feather_upload-cloud.svg"
+        "downloadIcon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/feather_upload-cloud.svg",
+        "bap_rental": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental%20icon%20bg%20landing.svg",
+        "bap_marriage" "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental%20marriage%20bg%20landing.svg"
       }
     }
   ]
