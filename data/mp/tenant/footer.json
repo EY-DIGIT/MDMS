@@ -59,7 +59,7 @@
           ]
       },
       {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -403,7 +403,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -451,7 +451,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -595,7 +595,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "ADVT.Unipolls",
       "receiptFooterContent": [
         {
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "receiptFooterContent": [
         {
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "ADVT.Wall_Paint_Advertisement",
       "receiptFooterContent": [
         {
@@ -739,7 +739,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "ADVT.Light_Wala_Board",
       "receiptFooterContent": [
         {
@@ -775,7 +775,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -811,7 +811,7 @@
       ]
     },
     {
-      "code": "mp.Indore",
+      "code": "mp.indore",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {

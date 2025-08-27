@@ -4,8 +4,8 @@
     "PayerList": [
       {
         "id": "001",
-        "tenantId": "mp.Indore",
-        "code": "mp.Indore",
+        "tenantId": "mp.indore",
+        "code": "mp.indore",
         "type": "ULB",
         "active": true
       }

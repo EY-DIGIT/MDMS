@@ -3,7 +3,7 @@
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "mp.Indore",
+        "tenantId": "mp.indore",
         "reminderInterval": 691200000
       }
     ]

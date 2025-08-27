@@ -3,14 +3,14 @@
     "moduleName": "Chatbot",
     "CityLocaleMasterData": [
         {
-            "cityName": "Indore",
+            "cityName": "indore",
             "locale": "in_en",
-            "tenantId": "mp.Indore"
+            "tenantId": "mp.indore"
         },
         {
             "cityName": "इंदौर",
             "locale": "in_hi",
-            "tenantId": "mp.Indore"
+            "tenantId": "mp.indore"
         }
     ]
 }
