@@ -32880,6 +32880,12 @@
       "actionid": 65,
       "actioncode": "",
       "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "mp"
   }
   ]
 }
