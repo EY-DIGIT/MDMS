@@ -16,6 +16,12 @@
         "name": "Wife of",
         "code": "Wife of",
         "active": true
+      },
+         {
+        "name": "Not applicable",
+        "code": "Not applicable",
+        "active": true
       }
+
     ]
 }
