@@ -9,7 +9,7 @@
             "order": 1,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -20,7 +20,7 @@
             "order": 4,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -31,7 +31,7 @@
             "order": 5,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -42,7 +42,7 @@
             "order": 7,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -53,7 +53,7 @@
             "order": 3,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -64,7 +64,7 @@
             "order": 6,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -75,7 +75,7 @@
             "order": 8,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -86,7 +86,7 @@
             "order": 9,
             "tenants": [
                 {
-                    "code": "mp.Indore"
+                    "code": "mp.indore"
                 }
             ]
         },
@@ -97,7 +97,7 @@
            "order": 11,
            "tenants": [
                {
-                   "code": "mp.Indore"
+                   "code": "mp.indore"
                }
            ]
        },
@@ -108,7 +108,7 @@
         "order": 13,
         "tenants": [
             {
-                "code": "mp.Indore"
+                "code": "mp.indore"
             }
         ]
     },{
@@ -118,7 +118,7 @@
         "order": 13,
         "tenants": [
             {
-                "code": "mp.Indore"
+                "code": "mp.indore"
             }
         ]
     },
@@ -129,7 +129,7 @@
            "order": 12,
            "tenants": [
                {
-                   "code": "mp.Indore"
+                   "code": "mp.indore"
                }
            ]
        },
@@ -141,7 +141,7 @@
         "additionalComponent": "TqmAdminNotification",
         "tenants": [
             {
-                "code": "mp.Indore"
+                "code": "mp.indore"
             }
         ]
       },
@@ -152,7 +152,7 @@
        "order": 14,
        "tenants": [
             {
-                "code": "mp.Indore"
+                "code": "mp.indore"
             }
       ]
     },
@@ -163,7 +163,7 @@
         "order": 15,
         "tenants": [
             {
-                "code": "mp.Indore"
+                "code": "mp.indore"
             }
         ]
     },
@@ -175,7 +175,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -187,7 +187,7 @@
       "order":1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "order":1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -209,7 +209,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -232,7 +232,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -243,7 +243,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -255,7 +255,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -267,7 +267,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -278,7 +278,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -302,7 +302,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -313,7 +313,7 @@
       "order":1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -324,7 +324,7 @@
       "order":3,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -335,7 +335,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -346,7 +346,7 @@
       "order":3,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -357,7 +357,7 @@
       "order":1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -368,7 +368,7 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -379,7 +379,7 @@
       "order":3,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -390,7 +390,7 @@
       "order":5,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -402,7 +402,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -413,7 +413,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -424,7 +424,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -436,7 +436,7 @@
       "order": 3,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -448,7 +448,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -460,7 +460,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     },
@@ -471,7 +471,7 @@
       "order":6,
       "tenants": [
         {
-          "code": "mp.Indore"
+          "code": "mp.indore"
         }
       ]
     }

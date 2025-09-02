@@ -104,7 +104,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -172,6 +172,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "1997-98",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -224,6 +237,19 @@
       "postAction": null
     },
     {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "1998-99",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
       "name": "136 (d): Public Parks and Playgrounds",
       "code": "PARKS",
       "active": true,
@@ -260,7 +286,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -328,6 +354,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "1998-99",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -379,7 +418,6 @@
       "appliesOn": "PROPERTY_TAX",
       "postAction": null
     },
-
     {
       "name": "136 (c): Buildings/lands owned and used for Educational purposes",
       "code": "EDUCATION",
@@ -430,7 +468,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -495,6 +533,19 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "1999-00",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     },
     {
@@ -599,7 +650,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -667,6 +718,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2000-01",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -768,7 +832,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -836,6 +900,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2001-02",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -937,7 +1014,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -1005,6 +1082,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2002-03",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -1106,7 +1196,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -1174,6 +1264,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2003-04",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -1275,7 +1378,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -1343,6 +1446,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2004-05",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -1394,7 +1510,7 @@
       "appliesOn": "PROPERTY_TAX",
       "postAction": null
     },
-  {
+    {
       "name": "136 (c): Buildings/lands owned and used for Educational purposes",
       "code": "EDUCATION",
       "active": true,
@@ -1444,7 +1560,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -1512,6 +1628,19 @@
       "postAction": null
     },
     {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2005-06",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
       "name": "Central Government Property (33.33%)",
       "code": "CENTGOV33",
       "active": true,
@@ -1613,7 +1742,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -1678,6 +1807,19 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2006-07",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     },
     {
@@ -1782,7 +1924,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -1847,6 +1989,19 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2007-08",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     },
     {
@@ -1951,7 +2106,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -2016,6 +2171,19 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2008-09",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     },
     {
@@ -2120,7 +2288,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -2185,6 +2353,19 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2009-10",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     },
     {
@@ -2289,7 +2470,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -2354,6 +2535,2567 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2010-11",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2011-12",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2012-13",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2014-15",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2016-17",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2017-18",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2018-19",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2019-20",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2021-22",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2022-23",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2023-24",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
+      "postAction": null
+    },
+    {
+      "name": "Central Government Property (33.33%)",
+      "code": "CENTGOV33",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 33.33,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (50%)",
+      "code": "CENTGOV50",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 50.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "Central Government Property (75%)",
+      "code": "CENTGOV75",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 75.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "TOTAL_TAX",
+      "postAction": "CENTER_GOV_RULE"
+    },
+    {
+      "name": "136 (a): Union Govt./ State Govt./ ULB Property",
+      "code": "GOVTPROP",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (c): Buildings/lands owned and used for Educational purposes",
+      "code": "EDUCATION",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (d): Public Parks and Playgrounds",
+      "code": "PARKS",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (e): Public Worship or Public Charity",
+      "code": "WORSHIPCHARITY",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (f): Widows/Minors/Physical Disability/Mental Infirmity",
+      "code": "WIDOWSMINORSHANDICAP",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 12000
+      },
+      "appliesOn": "TPV",
+      "postAction": "Rule_136F"
+    },
+    {
+      "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
+      "code": "FREEDOMFIGHTDEFWIDOW",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (h): Blind Persons/ Abandoned Women/ Mentally Incapacitated Persons",
+      "code": "SPECIALCASE",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (j): Electric Poles by MPEB or its successor companies",
+      "code": "ELECTRIC",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "136 (k): Property owned by Political Party recognized by Election Commission of India",
+      "code": "POLITICAL",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "PROPERTY_TAX",
+      "postAction": null
+    },
+    {
+      "name": "Dharamshalas",
+      "code": "DHARAMSHALA",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2024-25",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     },
     {
@@ -2458,7 +5200,7 @@
         "flatAmount": 12000
       },
       "appliesOn": "TPV",
-      "postAction": null
+      "postAction": "Rule_136F"
     },
     {
       "name": "136 (g): Freedom Fighters/ Ex- Defence Servicemen/ Widows of Ex- Defence Servicemen",
@@ -2523,6 +5265,19 @@
         "flatAmount": null
       },
       "appliesOn": "ZERO",
+      "postAction": null
+    },
+    {
+      "name": "Not Applicable",
+      "code": "N/A",
+      "active": true,
+      "fromFY": "2025-26",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      },
+      "appliesOn": null,
       "postAction": null
     }
   ]

@@ -1,0 +1,31 @@
+{
+  "tenantId": "mp",
+  "moduleName": "common-masters",
+  "SalutationsHindi": [
+    {
+      "name": "डॉ.",
+      "code": "डॉ.",
+      "active": true
+    },
+    {
+      "name": "श्री",
+      "code": "श्री",
+      "active": true
+    },
+    {
+      "name": "श्रीमती",
+      "code": "श्रीमती",
+      "active": true
+    },
+    {
+      "name": "सुश्री",
+      "code": "सुश्री",
+      "active": true
+    },
+    {
+      "name": "M/S",
+      "code": "M/S",
+      "active": true
+    }
+  ]
+}

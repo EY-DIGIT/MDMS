@@ -4,18 +4,24 @@
     "Relationship": [
       {
         "name": "Son of",
-        "code": "SONOF",
+        "code": "Son of",
         "active": true
       },
       {
         "name": "Daughter of",
-        "code": "DAUGHTEROF",
+        "code": "Daughter of",
         "active": true
       },
       {
         "name": "Wife of",
-        "code": "WIFEOF",
+        "code": "Wife of",
+        "active": true
+      },
+         {
+        "name": "Not applicable",
+        "code": "Not applicable",
         "active": true
       }
+
     ]
 }
