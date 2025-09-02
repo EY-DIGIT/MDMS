@@ -125,7 +125,8 @@
         "waterTax": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/water_ph.svg",
         "downloadIcon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/feather_upload-cloud.svg",
         "bap_rental": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20icon%20bg%20landing.svg",
-        "bap_marriage": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20marriage%20bg%20landing.svg"
+        "bap_marriage": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20marriage%20bg%20landing.svg",
+        "action_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Icon%201.svg"
       }
     }
   ]
