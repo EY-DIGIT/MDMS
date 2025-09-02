@@ -173,7 +173,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "1997-98",
       "exemption": {
@@ -355,7 +355,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "1998-99",
       "exemption": {
@@ -537,7 +537,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "1999-00",
       "exemption": {
@@ -719,7 +719,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2000-01",
       "exemption": {
@@ -901,7 +901,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2001-02",
       "exemption": {
@@ -1083,7 +1083,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2002-03",
       "exemption": {
@@ -1265,7 +1265,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2003-04",
       "exemption": {
@@ -1447,7 +1447,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2004-05",
       "exemption": {
@@ -1629,7 +1629,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2005-06",
       "exemption": {
@@ -1811,7 +1811,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2006-07",
       "exemption": {
@@ -1993,7 +1993,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2007-08",
       "exemption": {
@@ -2175,7 +2175,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2008-09",
       "exemption": {
@@ -2357,7 +2357,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2009-10",
       "exemption": {
@@ -2539,7 +2539,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2010-11",
       "exemption": {
@@ -2721,7 +2721,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2011-12",
       "exemption": {
@@ -2903,7 +2903,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2012-13",
       "exemption": {
@@ -3085,7 +3085,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2013-14",
       "exemption": {
@@ -3267,7 +3267,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2014-15",
       "exemption": {
@@ -3449,7 +3449,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
@@ -3631,7 +3631,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2016-17",
       "exemption": {
@@ -3813,7 +3813,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2017-18",
       "exemption": {
@@ -3995,7 +3995,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2018-19",
       "exemption": {
@@ -4177,7 +4177,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2019-20",
       "exemption": {
@@ -4359,7 +4359,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2020-21",
       "exemption": {
@@ -4541,7 +4541,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2021-22",
       "exemption": {
@@ -4723,7 +4723,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2022-23",
       "exemption": {
@@ -4905,7 +4905,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2023-24",
       "exemption": {
@@ -5087,7 +5087,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2024-25",
       "exemption": {
@@ -5269,7 +5269,7 @@
     },
     {
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "fromFY": "2025-26",
       "exemption": {
