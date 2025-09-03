@@ -41,7 +41,7 @@
              {
       "id": "6",
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "applicableRateZone": null
     }
