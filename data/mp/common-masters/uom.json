@@ -1,7 +1,7 @@
 {
     "tenantId": "mp",
     "moduleName": "common-masters",
-    "uom": [
+    "UOM": [
         {
             "code":"KG",
             "description":"Kilogram",
