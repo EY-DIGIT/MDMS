@@ -32904,6 +32904,18 @@
       "actionid": 5009,
       "actioncode": "",
       "tenantId": "mp"
+  },
+  {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 4690,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 4690,
+      "actioncode": "",
+      "tenantId": "mp"
   }
   ]
 }
