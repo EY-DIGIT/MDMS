@@ -430,7 +430,7 @@
     "allowedSearchCriteria": [
       {
         "name": "tenantId",
-        "path": "Data.tenantId.keyword",
+        "path": "Data.tradelicense.tenantId.keyword",
         "isMandatory": false,
         "operator": "EQUAL"
       },
@@ -487,7 +487,7 @@
     "Data.tradelicense.processInstance",
     "Data.tradelicense.auditDetails",
     "Data.tradelicense.tradeLicenseDetail",
-    "Data.tenantId",
+    "Data.tradelicense.tenantId",
     "Data.tradelicense.applicationNumber",
     "Data.tradelicense.applicationDate"
   ]
