@@ -127,7 +127,9 @@
         "bap_rental": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental%20icon%20bg%20landing.svg",
         "bap_marriage": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental%20marriage%20bg%20landing.svg",
         "action_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Icon%201.svg",
-        "landingpage": "https://citizenservicesuat.eydemoapp.in/landing/index.html"
+        "landingpage": "https://citizenservicesuat.eydemoapp.in/landing/index.html",
+        "indoremap": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/image%201807%20(1).svg",
+        "downloadiconsmall": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Vector%20(3).svg"
       }
     }
   ]

@@ -1,0 +1,191 @@
+{
+  "tenantId": "mp",
+  "moduleName": "common-masters",
+  "PropertyCategory": [
+    {
+      "name": "Flat",
+      "code": "FLAT",
+      "active": true
+    },
+    {
+      "name": "Open Plot",
+      "code": "OPEN_PLOT",
+      "active": true
+    },
+    {
+      "name": "Institution - Public",
+      "code": "INSTITUTION_PUBLIC",
+      "active": true
+    },
+    {
+      "name": "Institution - Private",
+      "code": "INSTITUTION_PRIVATE",
+      "active": true
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Independent House/Villa",
+      "code": "INDEPENDENT_HOUSE_VILLA",
+      "active": true
+    },
+    {
+      "name": "Building",
+      "code": "BUILDING",
+      "active": true
+    },
+    {
+      "name": "Colony",
+      "code": "COLONY",
+      "active": true
+    },
+    {
+      "name": "Hospital (Govt.)",
+      "code": "HOSPITAL_GOVT",
+      "active": true
+    },
+    {
+      "name": "Hospital (Private)",
+      "code": "HOSPITAL_PRIVATE",
+      "active": true
+    },
+    {
+      "name": "Mall/Multiplex",
+      "code": "MALL_MULTIPLEX",
+      "active": true
+    },
+    {
+      "name": "Cinema Hall",
+      "code": "CINEMA_HALL",
+      "active": true
+    },
+    {
+      "name": "Shop",
+      "code": "SHOP",
+      "active": true
+    },
+    {
+      "name": "Garden",
+      "code": "GARDEN",
+      "active": true
+    },
+    {
+      "name": "Bank",
+      "code": "BANK",
+      "active": true
+    },
+    {
+      "name": "ATM",
+      "code": "ATM",
+      "active": true
+    },
+    {
+      "name": "Hostel",
+      "code": "HOSTEL",
+      "active": true
+    },
+    {
+      "name": "State Government Property",
+      "code": "STATE_GOVERNMENT_PROPERTY",
+      "active": true
+    },
+    {
+      "name": "Central Government Property",
+      "code": "CENTRAL_GOVERNMENT_PROPERTY",
+      "active": true
+    },
+    {
+      "name": "School (Govt.)",
+      "code": "SCHOOL_GOVT",
+      "active": true
+    },
+    {
+      "name": "School (Private)",
+      "code": "SCHOOL_PRIVATE",
+      "active": true
+    },
+    {
+      "name": "College (Govt.)",
+      "code": "COLLEGE_GOVT",
+      "active": true
+    },
+    {
+      "name": "College (Private)",
+      "code": "COLLEGE_PRIVATE",
+      "active": true
+    },
+    {
+      "name": "Coaching Centre",
+      "code": "COACHING_CENTRE",
+      "active": true
+    },
+    {
+      "name": "Dharamshala",
+      "code": "DHARAMSHALA",
+      "active": true
+    },
+    {
+      "name": "Temple",
+      "code": "TEMPLE",
+      "active": true
+    },
+    {
+      "name": "Mosque",
+      "code": "MOSQUE",
+      "active": true
+    },
+    {
+      "name": "Church",
+      "code": "CHURCH",
+      "active": true
+    },
+    {
+      "name": "Gurudwara",
+      "code": "GURUDWARA",
+      "active": true
+    },
+    {
+      "name": "Cremation Ground",
+      "code": "CREMATION_GROUND",
+      "active": true
+    },
+    {
+      "name": "Burial Ground",
+      "code": "BURIAL_GROUND",
+      "active": true
+    },
+    {
+      "name": "Circus",
+      "code": "CIRCUS",
+      "active": true
+    },
+    {
+      "name": "Cantonment Area",
+      "code": "CANTONMENT_AREA",
+      "active": true
+    },
+    {
+      "name": "Club",
+      "code": "CLUB",
+      "active": true
+    },
+    {
+      "name": "Restaurant",
+      "code": "RESTAURANT",
+      "active": true
+    },
+    {
+      "name": "Clinic",
+      "code": "CLINIC",
+      "active": true
+    },
+    {
+      "name": "Community Hall",
+      "code": "COMMUNITY_HALL",
+      "active": true
+    }
+  ]
+}
