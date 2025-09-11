@@ -21,6 +21,12 @@
       "name": "Ms.",
       "code": "MS",
       "active": true
+    },
+    {
+      "name": "M/S",
+      "code": "M/S",
+      "active": true
     }
+
   ]
 }
