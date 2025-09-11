@@ -32886,6 +32886,36 @@
       "actionid": 5551,
       "actioncode": "",
       "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5007,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 4690,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 4690,
+      "actioncode": "",
+      "tenantId": "mp"
   }
   ]
 }

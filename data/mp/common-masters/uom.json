@@ -1,7 +1,7 @@
 {
     "tenantId": "mp",
     "moduleName": "common-masters",
-    "uom": [
+    "UOM": [
         {
             "code":"KG",
             "description":"Kilogram",
@@ -57,7 +57,19 @@
             "active": true,
             "effectiveFrom": 1677044852,
             "effectiveTo": null
-        }
+        },
+        {
+      "code": "GALLONS",
+      "active": true
+    },
+    {
+      "code": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "HP",
+      "active": true
+    }
        
     ]
 }

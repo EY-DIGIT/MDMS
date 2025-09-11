@@ -126,7 +126,10 @@
         "downloadIcon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/feather_upload-cloud.svg",
         "bap_rental": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20icon%20bg%20landing.svg",
         "bap_marriage": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20marriage%20bg%20landing.svg",
-        "action_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Icon%201.svg"
+        "action_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Icon%201.svg",
+        "landingpage": "https://citizenservicesdev.eydemoapp.in/landing/index.html",
+        "indoremap": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%201807%20(1).svg",
+        "downloadiconsmall": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Vector%20(3).svg"
       }
     }
   ]
