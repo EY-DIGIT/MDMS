@@ -3,86 +3,86 @@
   "moduleName": "PropertyTax",
   "Floor": [
     {
-      "name": "BASEMENT",
-      "code": "-1",
+      "name": "Basement",
+      "code": "13",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "MEZZANINE",
-      "code": "MEZZANINE",
+      "name": "Mezzanine",
+      "code": "12",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "GROUND FLOOR",
-      "code": "0",
+      "name": "Ground Floor",
+      "code": "14",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "1ST FLOOR",
+      "name": "1st Floor",
       "code": "1",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "2ND FLOOR",
+      "name": "2nd Floor",
       "code": "2",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "3RD  FLOOR",
+      "name": "3rd Floor",
       "code": "3",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "4TH FLOOR",
+      "name": "4th Floor",
       "code": "4",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "5TH FLOOR",
+      "name": "5th Floor",
       "code": "5",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "6TH FLOOR",
+      "name": "6th Floor",
       "code": "6",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "7TH FLOOR",
+      "name": "7th Floor",
       "code": "7",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "8TH FLOOR",
+      "name": "8th Floor",
       "code": "8",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "9TH FLOOR",
+      "name": "9th Floor",
       "code": "9",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "10TH FLOOR",
+      "name": "10th Floor",
       "code": "10",
       "description": "floor number of the floor",
       "active": true
     },
     {
-      "name": "10TH FLOOR & ABOVE",
-      "code": "10ABOVE",
+      "name": "10th Floor & Above",
+      "code": "11",
       "description": "floor number of the floor",
       "active": true
     }
