@@ -32916,6 +32916,42 @@
       "actionid": 4690,
       "actioncode": "",
       "tenantId": "mp"
-  }
+  },
+  {
+      "rolecode": "REGISTRAR",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "DC_RENTAL",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "APPROVER",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "BAP_COUNTER_EMPLOYEE",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "ARO_RENTAL",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "Bill_Collector_Rental",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  } 
   ]
 }
