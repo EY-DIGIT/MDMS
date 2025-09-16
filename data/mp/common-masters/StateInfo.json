@@ -147,7 +147,11 @@
   "birth_certificate": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/birth%20certificate%20icon.svg",
   "death_certificate": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/death%20certificate%20icon.svg",
   "marriage_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/marriage%20icon.svg",
-  "rental_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20icon.svg"
+  "rental_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20icon.svg",
+  "amusement_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/amusement%20icon.svg",
+  "litter_collection_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/litter%20collection%20icon.svg",
+  "debris_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Debris%20icon.svg",
+  "funeral_van_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/funeral%20van%20icon.svg"
       }
     }
   ]
