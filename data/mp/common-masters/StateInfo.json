@@ -129,7 +129,25 @@
         "action_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Icon%201.svg",
         "landingpage": "https://citizenservicesdev.eydemoapp.in/landing/index.html",
         "indoremap": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%201807%20(1).svg",
-        "downloadiconsmall": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Vector%20(3).svg"
+        "downloadiconsmall": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Vector%20(3).svg",
+         "property_1": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Property.svg",
+  "rental_1": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Rental.svg",
+  "vector": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Vector.svg",
+  "water_1": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Water.svg",
+  "approved_1": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/approved.svg",
+  "created": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/created.svg",
+  "file_search": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/file-search.svg",
+  "forwarded": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/forwarded.svg",
+  "my_properties": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/my-properties.svg",
+  "new_application": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/new%20application.svg",
+  "inr_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/ph_currency-inr-duotone.svg",
+  "rejected_1": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rejected.svg",
+  "sent_back": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/sentback.svg",
+  "total_applied": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/total%20applied.svg",
+  "birth_certificate": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/birth%20certificate%20icon.svg",
+  "death_certificate": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/death%20certificate%20icon.svg",
+  "marriage_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/marriage%20icon.svg",
+  "rental_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental%20icon.svg"
       }
     }
   ]
