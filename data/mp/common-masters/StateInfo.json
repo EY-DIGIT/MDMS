@@ -129,7 +129,29 @@
         "action_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Icon%201.svg",
         "landingpage": "https://citizenservicesuat.eydemoapp.in/landing/index.html",
         "indoremap": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/image%201807%20(1).svg",
-        "downloadiconsmall": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Vector%20(3).svg"
+        "downloadiconsmall": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Vector%20(3).svg",
+        "property_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Property.svg",
+  "rental_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Rental.svg",
+  "water_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Water.svg",
+  "created_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/created.svg",
+  "forwarded": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/forwarded.svg",
+  "rejected_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rejected.svg",
+  "total_applied": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/total%20applied.svg",
+  "vector": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Vector.svg",
+  "approved_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/approved.svg",
+  "file_search": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/file-search.svg",
+  "my_properties": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/my-properties.svg",
+  "new_application": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/new%20application.svg",
+  "inr_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/ph_currency-inr-duotone.svg",
+  "sent_back": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/sentback.svg",
+  "birth_certificate": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/birth%20certificate%20icon.svg",
+  "death_certificate": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/death%20certificate%20icon.svg",
+  "marriage_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/marriage%20icon.svg",
+  "rental_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental%20icon.svg",
+  "amusement_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/amusement%20icon.svg",
+  "litter_collection_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/litter%20collection%20icon.svg",
+  "debris_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Debris%20icon.svg",
+  "funeral_van_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/funeral%20van%20icon.svg"
       }
     }
   ]
