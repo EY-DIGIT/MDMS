@@ -12,7 +12,7 @@
       "logoUrl": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
       "logoUrlWhite": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
       "statelogo": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/state_logo.png",
-      "statelogobgpng": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
+      "statelogobgpng": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/state_logo.png",
       "enableWhatsApp": true,
       "defaultUrl": {
         "citizen": "/user/register",
