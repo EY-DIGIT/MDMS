@@ -151,7 +151,15 @@
   "amusement_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/amusement%20icon.svg",
   "litter_collection_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/litter%20collection%20icon.svg",
   "debris_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Debris%20icon.svg",
-  "funeral_van_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/funeral%20van%20icon.svg"
+  "funeral_van_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/funeral%20van%20icon.svg",
+  "citizen_selected": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/citizen%20selected.svg",
+  "citizen": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/citizen.svg",
+  "home_selected": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/home%20selected.svg",
+  "home_selected_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/home.svg",
+  "inr": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/ph_currency-inr.svg",
+  "revenue_selected": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/revenue%20selected.svg",
+  "revenue": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/revenue.svg",
+  "water_tanker_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/water%20tanker%20icon%20(2).svg"
       }
     }
   ]
