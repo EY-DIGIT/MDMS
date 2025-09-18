@@ -151,7 +151,15 @@
   "amusement_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/amusement%20icon.svg",
   "litter_collection_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/litter%20collection%20icon.svg",
   "debris_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Debris%20icon.svg",
-  "funeral_van_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/funeral%20van%20icon.svg"
+  "funeral_van_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/funeral%20van%20icon.svg",
+  "citizen_selected": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/citizen%20selected.svg",
+  "citizen": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/citizen.svg",
+  "home_selected": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/home%20selected.svg",
+  "home_selected_1": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/home.svg",
+  "inr": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/ph_currency-inr.svg",
+  "revenue_selected": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/revenue%20selected.svg",
+  "revenue": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/revenue.svg",
+  "water_tanker_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/water%20tanker%20icon%20(2).svg"
       }
     }
   ]
