@@ -850,6 +850,10 @@
 	 {
       "format": "[ULB][YY][ZONE][WARD][SEQ_EG_PT_PTID]",
       "idname": "pt.propertyid.imc"
+    },
+	{
+      "format": "IM-PT-[YY]-[MM]-[DD]-[SEQ_EG_PT_ACK]",
+      "idname": "pt.acknowledgementnumber.imc"
     }
   ]
 }
