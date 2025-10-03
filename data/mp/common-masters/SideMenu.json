@@ -81,7 +81,42 @@
                         "URL": "/revenue/water",
                         "other_data": "Water services",
                         "META_Data": "Water metadata",
-                        "SUB_MENU":[]
+                  
+
+                           "SUB_MENU": [
+                          {
+                           
+                              "Name": "Water Bill",
+                              "ROLE": "citizen",
+                              "URL": "/water-bill",
+                              "Icon": "newPropertyIcon"
+                            
+                          },
+                          {
+                            
+                              "Name": "Usage History",
+                              "ROLE": "citizen",
+                              "URL": "/usage-history",
+                              "Icon": "newPropertyIcon"
+                            
+                          },
+                          {
+                           
+                              "Name": "Connection Request",
+                              "ROLE": "citizen",
+                              "URL": "/connection-request",
+                              "Icon": "newPropertyIcon"
+                            
+                          },
+                          {
+                           
+                              "Name": t("COMPLAINT") ,
+                              "ROLE": "citizen",
+                              "URL": "/complaint",
+                              "Icon": "newPropertyIcon"
+                            
+                          }
+                        ]
                       
                     }
                   ]
@@ -175,15 +210,16 @@
                     "other_data": "Additional metadata for revenue services",
                     "meta_data": "Metadata for revenue"
                   },
-                  "SUB_MENU": [
+                     "SUB_MENU": [
                     {
-                     
+                    
+                        "Name": "Property",
                         "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental, CITIZEN",
-                        "Icon": "propertyIcon",
+                        "Icon": "property_1",
                         "URL": "/revenue/property",
                         "other_data": "Property related services",
                         "META_Data": "Property metadata",
-                        "SUB_MENU": [
+                             "SUB_MENU": [
                           {
                            
                               "Name": "New Property Application",
@@ -217,31 +253,67 @@
                             
                           }
                         ]
+                  
                       
                     },
                     {
-                      
                         "Name": "Rental",
                         "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental, CITIZEN",
-                        "Icon": "rentalIcon",
+                        "Icon": "rental_1",
                         "URL": "/revenue/rental",
                         "other_data": "Rental services",
                         "META_Data": "Rental metadata",
-                         "SUB_MENU": []
+                        "SUB_MENU":[]
                       
                     },
                     {
                      
                         "Name": "Water",
                         "ROLE": "SUPERUSER, EMPLOYEE, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP, CITIZEN",
-                        "Icon": "waterIcon",
+                        "Icon": "water_1",
                         "URL": "/revenue/water",
                         "other_data": "Water services",
                         "META_Data": "Water metadata",
-                        "SUB_MENU": []
+                  
+
+                           "SUB_MENU": [
+                          {
+                           
+                              "Name": "Water Bill",
+                              "ROLE": "citizen",
+                              "URL": "/water-bill",
+                              "Icon": "newPropertyIcon"
+                            
+                          },
+                          {
+                            
+                              "Name": "Usage History",
+                              "ROLE": "citizen",
+                              "URL": "/usage-history",
+                              "Icon": "newPropertyIcon"
+                            
+                          },
+                          {
+                           
+                              "Name": "Connection Request",
+                              "ROLE": "citizen",
+                              "URL": "/connection-request",
+                              "Icon": "newPropertyIcon"
+                            
+                          },
+                          {
+                           
+                              "Name": t("COMPLAINT") ,
+                              "ROLE": "citizen",
+                              "URL": "/complaint",
+                              "Icon": "newPropertyIcon"
+                            
+                          }
+                        ]
                       
                     }
-                  ]
+                  ],
+            
                 }
               },
               {
