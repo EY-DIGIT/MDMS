@@ -132,13 +132,15 @@
                     "other_data": "Citizen related requests",
                     "meta_data": "Citizen metadata"
                   },
+
+
                   "SUB_MENU": [
                     {
                      
                         "Name": "Marriage",
                         "ROLE": "CITIZEN, REGISTRAR",
-                        "Icon": "marriageIcon",
-                        "URL": "/citizen/marriage",
+                        "Icon": "marriage_icon",
+                        "URL": "dashboard/marriage",
                         "other_data": "Marriage registration",
                         "META_Data": "Marriage metadata"
                       
@@ -147,8 +149,8 @@
                     
                         "Name": "Request for Funeral Van",
                         "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                        "Icon": "funeralIcon",
-                        "URL": "/citizen/funeral-van",
+                        "Icon": "funeral_van_icon",
+                        "URL": "service/6",
                         "other_data": "Funeral van request",
                         "META_Data": "Funeral metadata"
                       
@@ -157,8 +159,8 @@
                      
                         "Name": "Request For Water Tanker",
                         "ROLE": "CITIZEN, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP",
-                        "Icon": "tankerIcon",
-                        "URL": "/citizen/water-tanker",
+                        "Icon": "water_tanker_icon",
+                        "URL": "service/5",
                         "other_data": "Water tanker request",
                         "META_Data": "Tanker metadata"
                       
@@ -167,8 +169,8 @@
                      
                         "Name": "Request For Litter Connection",
                         "ROLE": "CITIZEN, SW_CLERK, SW_APPROVER, SW_FIELD_INSPECTOR, SW_DOC_VERIFIER, SW_CEMP",
-                        "Icon": "litterIcon",
-                        "URL": "/citizen/litter-connection",
+                        "Icon": "litter_collection_icon",
+                        "URL": "service/18",
                         "other_data": "Litter connection request",
                         "META_Data": "Litter metadata"
                       
@@ -177,8 +179,8 @@
                      
                         "Name": "Request For Debris Collection",
                         "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                        "Icon": "debrisIcon",
-                        "URL": "/citizen/debris-collection",
+                        "Icon": "debris_icon",
+                        "URL": "service/19",
                         "other_data": "Debris collection request",
                         "META_Data": "Debris metadata"
                       
@@ -187,8 +189,8 @@
                      
                         "Name": "Request for Auditorium Public",
                         "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                        "Icon": "auditoriumIcon",
-                        "URL": "/citizen/auditorium",
+                        "Icon": "amusement_icon",
+                        "URL": "service/20",
                         "other_data": "Auditorium public request",
                         "META_Data": "Auditorium metadata"
                       
@@ -326,33 +328,33 @@
                     "other_data": "Citizen related requests",
                     "metadata": "Citizen metadata"
                   },
-                  "SUB_MENU": [
+               "SUB_MENU": [
                     {
-                    
+                     
                         "Name": "Marriage",
                         "ROLE": "CITIZEN, REGISTRAR",
-                        "Icon": "marriageIcon",
-                        "URL": "/citizen/marriage",
+                        "Icon": "marriage_icon",
+                        "URL": "dashboard/marriage",
                         "other_data": "Marriage registration",
                         "META_Data": "Marriage metadata"
                       
                     },
                     {
-                     
+                    
                         "Name": "Request for Funeral Van",
                         "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                        "Icon": "funeralIcon",
-                        "URL": "/citizen/funeral-van",
+                        "Icon": "funeral_van_icon",
+                        "URL": "service/6",
                         "other_data": "Funeral van request",
                         "META_Data": "Funeral metadata"
                       
                     },
                     {
-                    
+                     
                         "Name": "Request For Water Tanker",
                         "ROLE": "CITIZEN, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP",
-                        "Icon": "tankerIcon",
-                        "URL": "/citizen/water-tanker",
+                        "Icon": "water_tanker_icon",
+                        "URL": "service/5",
                         "other_data": "Water tanker request",
                         "META_Data": "Tanker metadata"
                       
@@ -361,18 +363,18 @@
                      
                         "Name": "Request For Litter Connection",
                         "ROLE": "CITIZEN, SW_CLERK, SW_APPROVER, SW_FIELD_INSPECTOR, SW_DOC_VERIFIER, SW_CEMP",
-                        "Icon": "litterIcon",
-                        "URL": "/citizen/litter-connection",
+                        "Icon": "litter_collection_icon",
+                        "URL": "service/18",
                         "other_data": "Litter connection request",
                         "META_Data": "Litter metadata"
                       
                     },
                     {
-                      
+                     
                         "Name": "Request For Debris Collection",
                         "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                        "Icon": "debrisIcon",
-                        "URL": "/citizen/debris-collection",
+                        "Icon": "debris_icon",
+                        "URL": "service/19",
                         "other_data": "Debris collection request",
                         "META_Data": "Debris metadata"
                       
@@ -381,8 +383,8 @@
                      
                         "Name": "Request for Auditorium Public",
                         "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                        "Icon": "auditoriumIcon",
-                        "URL": "/citizen/auditorium",
+                        "Icon": "amusement_icon",
+                        "URL": "service/20",
                         "other_data": "Auditorium public request",
                         "META_Data": "Auditorium metadata"
                       
