@@ -5,19 +5,16 @@
     {
       "name": "Residential",
       "code": "RESIDENTIAL",
-      "unitCost" : 20,
       "isActive": true
     },
 {
      "name": "Commercial",
-      "code": "NONRESIDENTIAL.COMMERCIAL",
-      "unitCost" : 30,
+      "code": "COMMERCIAL",
       "isActive": true
     },
 {
       "name": "Industrial",
-      "code": "NONRESIDENTIAL.INDUSTRIAL",
-      "unitCost" : 15,
+      "code": "INDUSTRIAL",
       "isActive": true
     }
   ]
