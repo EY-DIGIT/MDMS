@@ -81,8 +81,7 @@
                         "URL": "/revenue/water",
                         "other_data": "Water services",
                         "META_Data": "Water metadata",
-                  
-
+    
                            "SUB_MENU": [
                           {
                            
@@ -97,24 +96,20 @@
                               "Name": "Usage History",
                               "ROLE": "citizen",
                               "URL": "/usage-history",
-                              "Icon": "newPropertyIcon"
-                            
+                              "Icon": "newPropertyIcon" 
                           },
                           {
-                           
                               "Name": "Connection Request",
                               "ROLE": "citizen",
                               "URL": "/connection-request",
                               "Icon": "newPropertyIcon"
-                            
                           },
                           {
                            
                               "Name": "Complaint" ,
                               "ROLE": "citizen",
                               "URL": "/complaint",
-                              "Icon": "newPropertyIcon"
-                            
+                              "Icon": "newPropertyIcon" 
                           }
                         ]
                       
@@ -305,7 +300,7 @@
                           },
                           {
                            
-                              "Name": t("COMPLAINT") ,
+                              "Name": "COMPLAINT",
                               "ROLE": "citizen",
                               "URL": "/complaint",
                               "Icon": "newPropertyIcon"
