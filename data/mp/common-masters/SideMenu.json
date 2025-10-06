@@ -110,7 +110,7 @@
                           },
                           {
                            
-                              "Name": t("COMPLAINT") ,
+                              "Name": "Complaint" ,
                               "ROLE": "citizen",
                               "URL": "/complaint",
                               "Icon": "newPropertyIcon"
