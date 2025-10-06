@@ -53,7 +53,7 @@
       "startingDate": 1743445800000,
       "endingDate": 1774896999000,
       "active": true,
-      "isActiveForPosting": false,
+      "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
@@ -71,6 +71,34 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
+    },
+    {
+      "id": "37",
+      "tenantId": "mp",
+      "finYearRange":  "2026-27",
+      "name":  "2026-27",
+      "code":  "2026-27",
+      "startingDate": 1751645399000,
+      "endingDate": 1783170600000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
+      "id": "36",
+      "tenantId": "mp",
+      "finYearRange":  "2025-26",
+      "name":  "2025-26",
+      "code":  "2025-26",
+      "startingDate": 1711920000000,
+      "endingDate": 1714473600000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     },
     {
       "id": "31",
@@ -473,7 +501,7 @@
       "startingDate": 1491004800000,
       "endingDate": 1522540799000,
       "active": true,
-      "isActiveForPosting": true,
+      "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
@@ -487,7 +515,7 @@
       "startingDate": 1459468800000,
       "endingDate": 1491004799000,
       "active": true,
-      "isActiveForPosting": true,
+      "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
@@ -501,7 +529,7 @@
       "startingDate": 1427846400000,
       "endingDate": 1459468799000,
       "active": true,
-      "isActiveForPosting": true,
+      "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"

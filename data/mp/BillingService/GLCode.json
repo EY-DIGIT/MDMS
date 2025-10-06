@@ -5,12 +5,12 @@
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "mp.Indore"
+		"cb": "mp.indore"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "mp.Indore"
+		"cb": "mp.indore"
 	}
 	]
 }

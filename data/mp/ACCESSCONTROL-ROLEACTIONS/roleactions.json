@@ -32850,7 +32850,108 @@
       "actionid": 4945,
       "actioncode": "",
       "tenantId": "mp"
-  }
-    
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4895,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4897,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 4898,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 65,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_APPROVER",
+      "actionid": 65,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 5551,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5007,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 4690,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 4690,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "REGISTRAR",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "DC_RENTAL",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "APPROVER",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "BAP_COUNTER_EMPLOYEE",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "ARO_RENTAL",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
+      "rolecode": "Bill_Collector_Rental",
+      "actionid": 3701,
+      "actioncode": "",
+      "tenantId": "mp"
+  } 
   ]
 }
