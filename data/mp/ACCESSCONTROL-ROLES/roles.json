@@ -1057,6 +1057,16 @@
       "code": "Bill_Collector_Rental",
       "name": "Bill Collector Rental",
       "description": "Bill Collector Rental"
+    },
+     {
+      "code": "Ward_Officer",
+      "name": "Ward Officer",
+      "description": "Ward Officer"
+    },
+     {
+      "code": "Health_Officer",
+      "name": "Health Officer",
+      "description": "Health Officer"
     }
   ]
 }
