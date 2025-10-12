@@ -8,6 +8,7 @@
       "subType": "",
       "connectionSize": "0.50",
       "charges": 2500,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -16,6 +17,7 @@
       "subType": "",
       "connectionSize": "0.75",
       "charges": 3750,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -24,6 +26,7 @@
       "subType": "",
       "connectionSize": "1",
       "charges": 5000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -32,6 +35,7 @@
       "subType": "",
       "connectionSize": "1.50",
       "charges": 15000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -40,6 +44,7 @@
       "subType": "",
       "connectionSize": "2",
       "charges": 20000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -48,6 +53,7 @@
       "subType": "",
       "connectionSize": "3",
       "charges": 30000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -56,6 +62,7 @@
       "subType": "",
       "connectionSize": "4",
       "charges": 45000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -64,6 +71,7 @@
       "subType": "",
       "connectionSize": "6",
       "charges": 90000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -72,6 +80,7 @@
       "subType": "BUC",
       "connectionSize": "0.50",
       "charges": 2500,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -80,6 +89,7 @@
       "subType": "RateZone",
       "connectionSize": "0.50",
       "charges": 1000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -88,6 +98,7 @@
       "subType": "",
       "connectionSize": "0.50",
       "charges": 2500,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -96,6 +107,7 @@
       "subType": "",
       "connectionSize": "0.75",
       "charges": 3750,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -104,6 +116,7 @@
       "subType": "",
       "connectionSize": "1",
       "charges": 10000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -112,6 +125,7 @@
       "subType": "",
       "connectionSize": "1.50",
       "charges": 22500,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -120,6 +134,7 @@
       "subType": "",
       "connectionSize": "2",
       "charges": 40000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -128,6 +143,7 @@
       "subType": "",
       "connectionSize": "3",
       "charges": 90000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -136,6 +152,7 @@
       "subType": "",
       "connectionSize": "4",
       "charges": 160000,
+	  "serviceCharges": 5,
       "formCharges": 50
     },
     {
@@ -144,6 +161,7 @@
       "subType": "",
       "connectionSize": "6",
       "charges": 360000,
+	  "serviceCharges": 5,
       "formCharges": 50
     }
   ]
