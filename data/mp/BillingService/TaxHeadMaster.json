@@ -2059,17 +2059,6 @@
       "IsBillamend": false
     },
     {
-      "category": "SERVICECHARGES",
-      "service": "WS",
-      "name": "Service Charges",
-      "code": "WS_SERVICE_CHARGES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "6",
-      "isRequired": false,
-      "IsBillamend": false
-    },
-    {
       "category": "CHARGES",
       "service": "SW",
       "name": "Sewerage Charges",
