@@ -640,11 +640,11 @@
 	    "idname": "pt.mutation.number"
 	},
 	{
-	    "format": "[YY][MM][ZONE][WARD][SEQ_EG_WS_CON_ID]",
-	    "idname": "ws.connection.id"
+	    "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
+	    "idname": "waterservice.connection.id"
 	},
 	{
-	    "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_CON_APP_WSID]",
+	    "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_CON_[TENANT_ID]]",
 	    "idname": "sewerageservice.connection.id"
 	},
 	{
@@ -656,8 +656,8 @@
 	    "idname": "sw.receipt.id"
 	},
 	{
-	    "format": "IM-WNC-[cy:yyyy-MM-dd]-[SEQ_EG_WS_APP_CON_ID]",
-	    "idname": "ws.application.id"
+	    "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
+	    "idname": "waterservice.application.id"
 	},
 	{
 	    "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_APP_[TENANT_ID]]",
