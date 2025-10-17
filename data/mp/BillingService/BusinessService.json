@@ -6,7 +6,7 @@
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
-        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
+        "DD","POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
       "minAmountPayable":100,
@@ -1701,7 +1701,7 @@
       "businessService": "PT.MUTATION",
       "code": "PT.MUTATION",
       "collectionModesNotAllowed": [
-        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
+        "DD","POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
