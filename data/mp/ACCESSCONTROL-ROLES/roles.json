@@ -1067,6 +1067,11 @@
       "code": "Health_Officer",
       "name": "Health Officer",
       "description": "Health Officer"
+    },
+     {
+      "code": "Kotak_User",
+      "name": "Kotak_User",
+      "description": "Kotak User"
     }
   ]
 }
