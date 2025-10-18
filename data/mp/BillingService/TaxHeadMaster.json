@@ -2294,13 +2294,13 @@
       "isRequired": false
     },
     {
-      "category": "SERVICECHARGE",
+      "category": "SERVICECHARGES",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application service charge",
       "code": "WS_SERVICE_CHARGE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "8",
+      "order": "6",
       "isRequired": false
     },
     {
@@ -2310,7 +2310,7 @@
       "code": "WS_OTHER_CHARGE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "6",
+      "order": "7",
       "isRequired": false
     },
     {
@@ -2320,7 +2320,7 @@
       "code": "WS_TAX_AND_CESS",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "7",
+      "order": "8",
       "isRequired": false
     },
     {
@@ -2420,7 +2420,7 @@
       "code": "SW_FEE_ROUND_OFF",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "8",
+      "order": "9",
       "isRequired": false
     },
     {
@@ -2430,7 +2430,7 @@
       "code": "WS_ADHOC_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "9",
+      "order": "10",
       "isRequired": false
     },
     {
@@ -2440,7 +2440,7 @@
       "code": "WS_ADHOC_REBATE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "10",
+      "order": "11",
       "isRequired": false
     },
     {
