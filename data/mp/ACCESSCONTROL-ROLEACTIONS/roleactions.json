@@ -33270,6 +33270,18 @@
       "actionid": 5555,
       "actioncode": "",
       "tenantId": "mp"
-	}
+	},
+  {
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 4966,
+	  "actioncode": "",
+	  "tenantId": "mp"
+  },
+  {
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 4937,
+	  "actioncode": "",
+	  "tenantId": "mp"
+  }
   ]
 }
