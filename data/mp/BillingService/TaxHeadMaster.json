@@ -2294,10 +2294,10 @@
       "isRequired": false
     },
     {
-      "category": "SERVICECHARGES",
+      "category": "SERVICECHARGE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application service charge",
-      "code": "WS_SERVICE_CHARGES",
+      "code": "WS_SERVICE_CHARGE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "8",
