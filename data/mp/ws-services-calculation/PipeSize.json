@@ -5,56 +5,56 @@
     {
       "id": "1",
 	  "value": "1/2",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "0.50",
       "isActive": true
     },
     {
       "id": "2",
 	  "value": "3/4",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "0.75",
       "isActive": true
     },
     {
       "id": "3",
 	  "value": "1",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "1",
       "isActive": true
     },
     {
       "id": "4",
 	  "value": "3/2",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "1.50",
       "isActive": true
     },
     {
       "id": "5",
 	  "value": "2",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "2",
       "isActive": true
     },
     {
       "id": "6",
 	  "value": "3",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "3",
       "isActive": true
     },
     {
       "id": "7",
 	  "value": "4",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "4",
       "isActive": true
     },
     {
       "id": "8",
 	  "value": "6",
-	  "unit": "inch"
+	  "unit": "inch",
       "size": "6",
       "isActive": true
     }
