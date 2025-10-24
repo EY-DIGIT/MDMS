@@ -33271,17 +33271,29 @@
       "actioncode": "",
       "tenantId": "mp"
 	},
-  {
-	  "rolecode": "EMPLOYEE",
-	  "actionid": 4966,
-	  "actioncode": "",
-	  "tenantId": "mp"
-  },
-  {
-	  "rolecode": "EMPLOYEE",
-	  "actionid": 4937,
-	  "actioncode": "",
-	  "tenantId": "mp"
-  }
+	  {
+		  "rolecode": "EMPLOYEE",
+		  "actionid": 4966,
+		  "actioncode": "",
+		  "tenantId": "mp"
+	  },
+	  {
+		  "rolecode": "EMPLOYEE",
+		  "actionid": 4937,
+		  "actioncode": "",
+		  "tenantId": "mp"
+	  },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5553,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4900,
+      "actioncode": "",
+      "tenantId": "mp"
+    }
   ]
 }
