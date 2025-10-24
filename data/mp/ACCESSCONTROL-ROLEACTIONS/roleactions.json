@@ -33294,6 +33294,12 @@
       "actionid": 4900,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "Kotak_User",
+      "actionid": 4863,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }
