@@ -2266,16 +2266,6 @@
     {
       "category": "CHARGES",
       "service": "WS.ONE_TIME_FEE",
-      "name": "Water application road cutting charge",
-      "code": "WS_CONNECTION_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS.ONE_TIME_FEE",
       "name": "Water application meter charge",
       "code": "WS_METER_CHARGE",
       "isDebit": false,
