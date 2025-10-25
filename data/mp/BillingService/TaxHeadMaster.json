@@ -2236,16 +2236,6 @@
     {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
-      "name": "Water application form fee",
-      "code": "WS_FORM_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS.ONE_TIME_FEE",
       "name": "Water application scrutiny fee",
       "code": "WS_SCRUTINY_FEE",
       "isDebit": false,
@@ -2281,16 +2271,6 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "5",
-      "isRequired": false
-    },
-    {
-      "category": "SERVICECHARGES",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application service charge",
-      "code": "WS_SERVICE_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "6",
       "isRequired": false
     },
     {
@@ -5962,7 +5942,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "SERVICECHARGES",
       "service": "WS",
       "name": "Water New Connection Service Charges",
       "code": "WS_SERVICE_CHARGE",
@@ -5973,7 +5953,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "WS",
       "name": "Water New Connection Form Charges",
       "code": "WS_FORM_FEE",
