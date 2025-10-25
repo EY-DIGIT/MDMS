@@ -5959,6 +5959,39 @@
       "order": "3",
       "isRequired": false,
       "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Charges",
+      "code": "WS_CONNECTION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Service Charges",
+      "code": "WS_SERVICE_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Form Charges",
+      "code": "WS_FORM_FEE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
     }
   ]
 }
