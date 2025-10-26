@@ -5937,7 +5937,7 @@
       "code": "WS_CONNECTION_CHARGE",
       "isDebit": true,
       "isActualDemand": false,
-      "order": "3",
+      "order": "1",
       "isRequired": false,
       "IsBillamend": true
     },
@@ -5959,7 +5959,7 @@
       "code": "WS_FORM_FEE",
       "isDebit": true,
       "isActualDemand": false,
-      "order": "3",
+      "order": "2",
       "isRequired": false,
       "IsBillamend": true
     }
