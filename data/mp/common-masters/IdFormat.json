@@ -858,6 +858,10 @@
 	{
       "format": "RN-PT-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
       "idname": "receipt.id.imc"
+    },
+	{
+      "format": "RN-WS-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
+      "idname": "ws.receipt.id.imc"
     }
   ]
 }
