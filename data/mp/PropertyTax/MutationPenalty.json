@@ -42,6 +42,14 @@
       "fromFY": "2020-21",
       "startingDay": "26/09/2020",
       "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "01/12/2025",
+      "mutationPaymentPeriodInMonth": "06"
     }
   ]
 }
