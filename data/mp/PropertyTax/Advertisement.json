@@ -1,0 +1,36 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "Advertisement": {
+    "PerSqCmRates": [
+      { "newspaper": "Dainik Bhaskar", "category": "Morning Daily", "rate": 260 },
+      { "newspaper": "Nayi Duniya", "category": "Morning Daily", "rate": 250 },
+      { "newspaper": "Patrika", "category": "Morning Daily", "rate": 325 },
+      { "newspaper": "Raj Express", "category": "Morning Daily", "rate": 250 },
+      { "newspaper": "Swadesh", "category": "Morning Daily", "rate": 85 },
+      { "newspaper": "Chautha Sansar", "category": "Morning Daily", "rate": 175 },
+      { "newspaper": "Indore Samachar", "category": "Morning Daily", "rate": 80 },
+      { "newspaper": "Dainik Avantika", "category": "Morning Daily", "rate": 125 },
+      { "newspaper": "Navbharat", "category": "Morning Daily", "rate": 75 },
+      { "newspaper": "People's Samachar", "category": "Morning Daily", "rate": 80 },
+      { "newspaper": "Dastak", "category": "Morning Daily", "rate": 125 },
+      { "newspaper": "Free Press", "category": "Morning Daily", "rate": 237 },
+      { "newspaper": "Dainik Dabang Duniya", "category": "Morning Daily", "rate": 105 },
+      { "newspaper": "Vinay Ujala", "category": "Morning Daily", "rate": 90 },
+      { "newspaper": "Pradesh Today", "category": "Morning Daily", "rate": 135 },
+      { "newspaper": "Agnibaan", "category": "Evening Daily", "rate": 225 },
+      { "newspaper": "Prabhat Kiran", "category": "Evening Daily", "rate": 270 },
+      { "newspaper": "Dainik Dophar", "category": "Evening Daily", "rate": 80 },
+      { "newspaper": "6 PAM", "category": "Evening Daily", "rate": 60 },
+      { "newspaper": "Citi Blast", "category": "Evening Daily", "rate": 90 }
+    ],
+    "PerNoticeRates": [
+      { "newspaper": "Akshar Visav", "category": "Others", "rate": 280 },
+      { "newspaper": "Dainik Chaitnay Lok", "category": "Others", "rate": 300 },
+      { "newspaper": "Khulasa First", "category": "Others", "rate": 1000 },
+      { "newspaper": "Rajiv Times", "category": "Others", "rate": 280 },
+      { "newspaper": "Hindustan Mail", "category": "Others", "rate": 300 },
+      { "newspaper": "Midrubhasi", "category": "Others", "rate": 600 }
+    ]
+  }
+}
