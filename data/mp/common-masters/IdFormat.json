@@ -865,7 +865,7 @@
     },
 	{
       "format": "RN-PT-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
-      "idname": "receipt.id.imc"
+      "idname": "pt.receipt.id.imc"
     }
   ]
 }
