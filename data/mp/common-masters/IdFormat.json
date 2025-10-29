@@ -857,7 +857,7 @@
     },
 	{
       "format": "RN/WS_AP/[CITY.CODE]/[fy:yyyy-yy]/DC-[SEQ_WS_APP_[TENANT_ID]]",
-      "idname": "ws.receipt.id.imc"
+      "idname": "ws.pt.receipt.id.imc"
     },
 	{
       "format": "RN-PT-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
