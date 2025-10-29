@@ -33342,6 +33342,30 @@
 		  "actionid": 5033,
 		  "actioncode": "",
 		  "tenantId": "mp"
-	  }
+	  },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5361,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5362,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5365,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5366,
+      "actioncode": "",
+      "tenantId": "mp"
+    }
   ]
 }
