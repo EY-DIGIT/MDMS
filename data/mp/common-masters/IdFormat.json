@@ -640,7 +640,7 @@
 	    "idname": "pt.mutation.number"
 	},
 	{
-	    "format": "[YY][MM]{ZONE}{WARD}-[SEQ_EG_WC_CON]",
+	    "format": "[YY][MM]{ZONE}{WARD}[SEQ_EG_WC_CON]",
 	    "idname": "waterservice.connection.id"
 	},
 	{
