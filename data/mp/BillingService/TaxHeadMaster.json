@@ -5966,8 +5966,8 @@
      {
       "category": "FEE",
       "service": "PT.MUTATION",
-      "name": "PT Mutation Fee Initial Doc",
-      "code": "PT_MUTATION_FEE_INITIAL_DOC",
+      "name": "PT Mutation Fee Registry Doc",
+      "code": "PT_MUTATION_FEE_REGISTRY_DOC",
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
