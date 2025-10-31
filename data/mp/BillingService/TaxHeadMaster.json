@@ -5962,6 +5962,45 @@
       "order": "2",
       "isRequired": false,
       "IsBillamend": true
+    },
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Initial Doc",
+      "code": "PT_MUTATION_FEE_INITIAL_DOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Registry Vikray Patra",
+      "code": "PT_MUTATION_FEE_REGISTRY_VIKRAY_PATRA",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Registry Abhilekh",
+      "code": "PT_MUTATION_FEE_REGISTRY_ABHILEKH",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    }, {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Advertiesment",
+      "code": "PT_MUTATION_FEE_ADVERTIESMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
     }
   ]
 }
