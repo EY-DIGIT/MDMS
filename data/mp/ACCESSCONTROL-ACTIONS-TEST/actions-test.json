@@ -20913,6 +20913,18 @@
         "serviceCode": "ws-calculator",
         "code": "null",
         "path": ""
-    }  
+    },
+    {
+        "id": 5556,
+        "name": "Mutation Document Fees Calculation",
+        "url": "/pt-calculator-v2/propertytax/v2/document/_estimate",
+        "displayName": "Mutation Document Fees Calculation",
+        "orderNumber": 0,
+        "parentModule": null,
+        "enabled": false,
+        "serviceCode": "PropertytaxCalculatorV2",
+        "code": "null",
+        "path": "null"
+    }
   ]
 }
