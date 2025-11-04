@@ -20913,6 +20913,17 @@
         "serviceCode": "ws-calculator",
         "code": "null",
         "path": ""
-    }  
+    },
+    {
+        "id": 5556,
+        "name": "Apply New water Connection",
+        "url": "/ws-services/wc/_ismissingconnectionexist",
+        "displayName": "Check connection exists",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-services",
+        "code": "null",
+        "path": ""
+    } 
   ]
 }
