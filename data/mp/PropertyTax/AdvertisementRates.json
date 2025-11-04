@@ -1,0 +1,214 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "AdvertisementRates": [
+    {
+      "name": "Dainik Bhaskar",
+      "code": "DAINIKBHASKAR",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 260,
+      "active": true
+    },
+    {
+      "name": "Nayi Duniya",
+      "code": "NAYIDUNIYA",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 250,
+      "active": true
+    },
+    {
+      "name": "Patrika",
+      "code": "PATRIKA",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 325,
+      "active": true
+    },
+    {
+      "name": "Raj Express",
+      "code": "RAJEXPRESS",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 250,
+      "active": true
+    },
+    {
+      "name": "Swadesh",
+      "code": "SWADESH",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 85,
+      "active": true
+    },
+    {
+      "name": "Chautha Sansar",
+      "code": "CHAUTHASANSAR",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 175,
+      "active": true
+    },
+    {
+      "name": "Indore Samachar",
+      "code": "INDORESAMACHAR",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 80,
+      "active": true
+    },
+    {
+      "name": "Dainik Avantika",
+      "code": "DAINIKAVANTIKA",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 125,
+      "active": true
+    },
+    {
+      "name": "Navbharat",
+      "code": "NAVBHARAT",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 75,
+      "active": true
+    },
+    {
+      "name": "People's Samachar",
+      "code": "PEOPLESSAMACHAR",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 80,
+      "active": true
+    },
+    {
+      "name": "Dastak",
+      "code": "DASTAK",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 125,
+      "active": true
+    },
+    {
+      "name": "Free Press",
+      "code": "FREEPRESS",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 237,
+      "active": true
+    },
+    {
+      "name": "Dainik Dabang Duniya",
+      "code": "DAINIKDABANGDUNIYA",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 105,
+      "active": true
+    },
+    {
+      "name": "Vinay Ujala",
+      "code": "VINAYUJALA",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 90,
+      "active": true
+    },
+    {
+      "name": "Pradesh Today",
+      "code": "PRADESHTODAY",
+      "category": "Morning Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 135,
+      "active": true
+    },
+    {
+      "name": "Agnibaan",
+      "code": "AGNIBAAN",
+      "category": "Evening Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 225,
+      "active": true
+    },
+    {
+      "name": "Prabhat Kiran",
+      "code": "PRABHATKIRAN",
+      "category": "Evening Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 270,
+      "active": true
+    },
+    {
+      "name": "Dainik Dophar",
+      "code": "DAINIKDOPHAR",
+      "category": "Evening Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 80,
+      "active": true
+    },
+    {
+      "name": "6 PAM",
+      "code": "SIXPAM",
+      "category": "Evening Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 60,
+      "active": true
+    },
+    {
+      "name": "Citi Blast",
+      "code": "CITIBLAST",
+      "category": "Evening Daily",
+      "rateType": "PER_SQ_CM",
+      "rate": 90,
+      "active": true
+    },
+    {
+      "name": "Akshar Visav",
+      "code": "AKSHARVISAV",
+      "category": "Others",
+      "rateType": "PER_NOTICE",
+      "rate": 280,
+      "active": true
+    },
+    {
+      "name": "Dainik Chaitnay Lok",
+      "code": "DAINIKCHAITNAYLOK",
+      "category": "Others",
+      "rateType": "PER_NOTICE",
+      "rate": 300,
+      "active": true
+    },
+    {
+      "name": "Khulasa First",
+      "code": "KHULASAFIRST",
+      "category": "Others",
+      "rateType": "PER_NOTICE",
+      "rate": 1000,
+      "active": true
+    },
+    {
+      "name": "Rajiv Times",
+      "code": "RAJIVTIMES",
+      "category": "Others",
+      "rateType": "PER_NOTICE",
+      "rate": 280,
+      "active": true
+    },
+    {
+      "name": "Hindustan Mail",
+      "code": "HINDUSTANMAIL",
+      "category": "Others",
+      "rateType": "PER_NOTICE",
+      "rate": 300,
+      "active": true
+    },
+    {
+      "name": "Midrubhasi",
+      "code": "MIDRUBHASI",
+      "category": "Others",
+      "rateType": "PER_NOTICE",
+      "rate": 600,
+      "active": true
+    }
+  ]
+}
