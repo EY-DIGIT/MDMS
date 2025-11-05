@@ -11,7 +11,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 200,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "2",
@@ -22,7 +23,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 100,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "3",
@@ -33,7 +35,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 200,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "4",
@@ -44,7 +47,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 100,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "5",
@@ -55,7 +59,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 300,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "6",
@@ -66,7 +71,8 @@
       "connectionSize": "0.75",
       "monthlyRate": 450,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "7",
@@ -77,7 +83,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 300,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "8",
@@ -88,7 +95,8 @@
       "connectionSize": "1",
       "monthlyRate": 3000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "9",
@@ -99,7 +107,8 @@
       "connectionSize": "1.50",
       "monthlyRate": 5500,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "10",
@@ -110,7 +119,8 @@
       "connectionSize": "2",
       "monthlyRate": 10000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "11",
@@ -121,7 +131,8 @@
       "connectionSize": "3",
       "monthlyRate": 29000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "12",
@@ -132,7 +143,8 @@
       "connectionSize": "4",
       "monthlyRate": 560000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "12",
@@ -143,7 +155,8 @@
       "connectionSize": "6",
       "monthlyRate": 105000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "13",
@@ -154,7 +167,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 1000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "14",
@@ -165,7 +179,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 1000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "15",
@@ -176,7 +191,8 @@
       "connectionSize": "0.75",
       "monthlyRate": 2800,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "16",
@@ -187,7 +203,8 @@
       "connectionSize": "1",
       "monthlyRate": 5000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "17",
@@ -198,7 +215,8 @@
       "connectionSize": "1.50",
       "monthlyRate": 7000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "18",
@@ -209,7 +227,8 @@
       "connectionSize": "2",
       "monthlyRate": 20000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "19",
@@ -220,7 +239,8 @@
       "connectionSize": "3",
       "monthlyRate": 33000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "20",
@@ -231,7 +251,8 @@
       "connectionSize": "4",
       "monthlyRate": 64000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "21",
@@ -242,7 +263,8 @@
       "connectionSize": "6",
       "monthlyRate": 120000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "22",
@@ -253,7 +275,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 1500,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "23",
@@ -264,7 +287,8 @@
       "connectionSize": "0.75",
       "monthlyRate": 3000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "24",
@@ -275,7 +299,8 @@
       "connectionSize": "1",
       "monthlyRate": 6000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "25",
@@ -286,7 +311,8 @@
       "connectionSize": "1.50",
       "monthlyRate": 15000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "26",
@@ -297,7 +323,8 @@
       "connectionSize": "2",
       "monthlyRate": 30000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "27",
@@ -308,7 +335,8 @@
       "connectionSize": "3",
       "monthlyRate": 66000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "28",
@@ -319,7 +347,8 @@
       "connectionSize": "4",
       "monthlyRate": 128000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "29",
@@ -330,7 +359,8 @@
       "connectionSize": "6",
       "monthlyRate": 241000,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "30",
@@ -341,7 +371,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "31",
@@ -352,7 +383,8 @@
       "connectionSize": "0.75",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "32",
@@ -363,7 +395,8 @@
       "connectionSize": "1",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "33",
@@ -374,7 +407,8 @@
       "connectionSize": "1.50",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "34",
@@ -385,7 +419,8 @@
       "connectionSize": "2",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "35",
@@ -396,7 +431,8 @@
       "connectionSize": "3",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "36",
@@ -407,7 +443,8 @@
       "connectionSize": "4",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "37",
@@ -418,7 +455,8 @@
       "connectionSize": "6",
       "monthlyRate": 28,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "38",
@@ -429,7 +467,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "39",
@@ -440,7 +479,8 @@
       "connectionSize": "0.75",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "40",
@@ -451,7 +491,8 @@
       "connectionSize": "1",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "41",
@@ -462,7 +503,8 @@
       "connectionSize": "1.50",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "42",
@@ -473,7 +515,8 @@
       "connectionSize": "2",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "43",
@@ -484,7 +527,8 @@
       "connectionSize": "3",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "44",
@@ -495,7 +539,8 @@
       "connectionSize": "4",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "45",
@@ -506,7 +551,8 @@
       "connectionSize": "6",
       "monthlyRate": 44,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "46",
@@ -517,7 +563,8 @@
       "connectionSize": "0.50",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "47",
@@ -528,7 +575,8 @@
       "connectionSize": "0.75",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "48",
@@ -539,7 +587,8 @@
       "connectionSize": "1",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "49",
@@ -550,7 +599,8 @@
       "connectionSize": "1.50",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "50",
@@ -561,7 +611,8 @@
       "connectionSize": "2",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "51",
@@ -572,7 +623,8 @@
       "connectionSize": "3",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "53",
@@ -583,7 +635,8 @@
       "connectionSize": "4",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     },
     {
       "id": "54",
@@ -594,7 +647,8 @@
       "connectionSize": "6",
       "monthlyRate": 55,
       "serviceCharges": 5,
-      "penaltyPercent": 10
+      "penaltyPercent": 10,
+      "financialYear": "2025-26"
     }
   ]
 }
