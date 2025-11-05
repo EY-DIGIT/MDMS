@@ -20914,7 +20914,7 @@
         "code": "null",
         "path": ""
     },
-    {
+    { 
         "id": 5556,
         "name": "Mutation Document Fees Calculation",
         "url": "/pt-calculator-v2/propertytax/v2/document/_estimate",
@@ -20925,6 +20925,17 @@
         "serviceCode": "PropertytaxCalculatorV2",
         "code": "null",
         "path": "null"
+    },
+    {
+        "id": 5557,
+        "name": "Apply New water Connection",
+        "url": "/ws-services/wc/_ismissingconnectionexist",
+        "displayName": "Check connection exists",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }

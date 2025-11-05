@@ -1097,6 +1097,11 @@
       "code": "CASHIER",
       "name": "CASHIER",
       "description": "CASHIER"
+    },
+    {
+      "code": "BND_APPROVER",
+      "name": "Birth & Death Approver",
+      "description": "Birth & Death Approver"
     }
   ]
 }
