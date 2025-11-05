@@ -1073,6 +1073,31 @@
       "name": "Kotak_User",
       "description": "Kotak User"
     },
+     {
+      "code": "IMCCOUNTER",
+      "name": "IMCCOUNTER",
+      "description": "IMC COUNTER USER"
+    },
+     {
+      "code": "AE_DEV",
+      "name": "AE_DEV",
+      "description": "ASISTANT ENGINEER"
+    },
+     {
+      "code": "SE_DEV",
+      "name": "SE_DEV",
+      "description": "SERVICE ENGINEER"
+    },
+     {
+      "code": "ADDCOM_DEV",
+      "name": "ADDCOM_DEV",
+      "description": "ADDITIONAL COMMISSIONER"
+    },
+    {
+      "code": "CASHIER",
+      "name": "CASHIER",
+      "description": "CASHIER"
+    },
     {
       "code": "BND_APPROVER",
       "name": "Birth & Death Approver",

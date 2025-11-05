@@ -862,6 +862,14 @@
 	{
       "format": "RN-PT-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
       "idname": "pt.receipt.id.imc"
+    },
+	{
+      "format": "PB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+      "idname": "pg.txnid"
+    },
+	{
+      "format": "RN-PT-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
+      "idname": "pt.mutation.receipt.id.imc"
     }
   ]
 }
