@@ -1072,6 +1072,11 @@
       "code": "Kotak_User",
       "name": "Kotak_User",
       "description": "Kotak User"
+    },
+    {
+      "code": "BND_APPROVER",
+      "name": "Birth & Death Approver",
+      "description": "Birth & Death Approver"
     }
   ]
 }
