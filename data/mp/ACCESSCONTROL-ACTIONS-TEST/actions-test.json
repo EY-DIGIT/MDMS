@@ -20880,6 +20880,62 @@
         "serviceCode": "pg-service",
         "code": "null",
         "path": ""
-    }    
+    },
+    {
+        "id": 5553,
+        "name": "Update Water Connection",
+        "url": "/ws-services/wc/_updatestatus",
+        "displayName": "Update Water COnnection",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-services",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5554,
+        "name": "Apply New water Connection Estimate",
+        "url": "/ws-calculator/water/_estimate",
+        "displayName": "Enter Meter Estimate",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5555,
+        "name": "Apply New water Connection Calculate",
+        "url": "/ws-calculator/water/_calculate",
+        "displayName": "Enter Meter Estimate",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
+    },
+    { 
+        "id": 5556,
+        "name": "Mutation Document Fees Calculation",
+        "url": "/pt-calculator-v2/propertytax/v2/document/_estimate",
+        "displayName": "Mutation Document Fees Calculation",
+        "orderNumber": 0,
+        "parentModule": null,
+        "enabled": false,
+        "serviceCode": "PropertytaxCalculatorV2",
+        "code": "null",
+        "path": "null"
+    },
+    {
+        "id": 5557,
+        "name": "Apply New water Connection",
+        "url": "/ws-services/wc/_ismissingconnectionexist",
+        "displayName": "Check connection exists",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-services",
+        "code": "null",
+        "path": ""
+    }
   ]
 }

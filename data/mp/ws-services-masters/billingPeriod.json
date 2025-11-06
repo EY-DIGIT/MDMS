@@ -5,26 +5,22 @@
     {
       "active": true,
       "connectionType": "Metered",
-      "billingCycle": "quarterly",
+      "billingCycle": "monthly",
       "demandEndDateMillis": 2592000000,
-      "demandExpiryDate": 0,
-      "demandGenerationDateMillis": 345600000
+      "demandExpiryDate": 2592000000,
+      "demandGenerationDateMillis": 345600000,
+	  "startDate": 1743445800000,
+	  "endDate": 1774908703000
     },
     {
       "active": true,
       "connectionType": "Non Metered",
       "billingCycle": "monthly",
       "demandEndDateMillis": 2592000000,
-      "demandExpiryDate": 0,
-      "demandGenerationDateMillis": 345600000
-    },
-    {
-      "active": true,
-      "connectionType": "Bulk-supply",
-      "billingCycle": "monthly",
-      "demandEndDateMillis": 2592000000,
-      "demandExpiryDate": 0,
-      "demandGenerationDateMillis": 345600000
+      "demandExpiryDate": 2592000000,
+      "demandGenerationDateMillis": 345600000,
+	  "startDate": 1743445800000,
+	  "endDate": 1774908703000
     }
   ]
 }

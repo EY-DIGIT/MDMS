@@ -753,7 +753,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "INITIATE",
       "channelNames": [
@@ -763,7 +763,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "ACTIVATE_CONNECTION",
       "channelNames": [
@@ -773,7 +773,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "REJECT",
       "channelNames": [
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "CANCEL",
       "channelNames": [
@@ -793,7 +793,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "PAY",
       "channelNames": [
@@ -803,7 +803,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "SUBMIT_APPLICATION",
       "channelNames": [
@@ -813,7 +813,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "APPROVE_CONNECTION",
       "channelNames": [
@@ -823,13 +823,13 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action" : "EXECUTE_DISCONNECTION",
       "channelNames": ["SMS", "EMAIL", "EVENT"]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "SEND_BACK_TO_CITIZEN",
       "channelNames": [
@@ -839,19 +839,19 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action" : "SEND_BACK_TO_CITIZEN_FI",
       "channelNames": ["SMS", "EMAIL", "EVENT"]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action" : "SEND_BACK_TO_CITIZEN_AP",
       "channelNames": ["SMS", "EMAIL", "EVENT"]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "INACTIVE_CONNECTION",
       "channelNames": [
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "RESUBMIT_APPLICATION",
       "channelNames": [
@@ -881,7 +881,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "MODIFY_APPLICATION",
       "channelNames": [
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "VERIFY_AND_FORWARD",
       "channelNames": [
@@ -901,7 +901,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "SEND_BACK_FOR_DOCUMENT_VERIFICATION",
       "channelNames": [
@@ -911,7 +911,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "APPROVE_FOR_CONNECTION",
       "channelNames": [
@@ -921,13 +921,13 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action" : "APPROVE_FOR_DISCONNECTION",
       "channelNames": ["SMS", "EMAIL", "EVENT"]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "SEND_BACK_FOR_FIELD_INSPECTION",
       "channelNames": [
@@ -937,7 +937,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "SEND_BACK",
       "channelNames": [
@@ -957,7 +957,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "SEND_BACK_FOR_DO",
       "channelNames": [
@@ -967,7 +967,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "DEMAND",
       "channelNames": [
@@ -977,7 +977,7 @@
       ]
     },
     {
-      "businessService": "WS.CREATE",
+      "businessService": "NEWWATERCONNECTION",
       "module": "WS",
       "action": "BILL",
       "channelNames": [
