@@ -33701,6 +33701,12 @@
         "actionid": 21,
         "actioncode": "",
         "tenantId": "mp"
-    }
+    },
+    {
+		  "rolecode": "EMPLOYEE",
+		  "actionid": 5551,
+		  "actioncode": "",
+		  "tenantId": "mp"
+	  } 
   ]
 }
