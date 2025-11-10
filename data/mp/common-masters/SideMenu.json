@@ -1,7 +1,8 @@
 {
     "tenantId": "mp",
     "moduleName": "common-masters",
-    "SideMenu": {
+    "SideMenu": [
+        {
         "HOME": {
             "SIDE_MENU": {
                 "Revenue Service": {
@@ -419,4 +420,5 @@
             }
         }
     }
+    ]
 }
