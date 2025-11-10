@@ -43,7 +43,7 @@
                                 },
                                 "other_data": "Property related services",
                                 "matadata": "Property metadata",
-                                "isExternal": "false"
+                                "isExternal": false
                             },
                             "SUB_MENU": {
                                 "Namantran": {
@@ -102,7 +102,7 @@
                                 },
                                 "other_data": "Rental services",
                                 "matadata": "Rental metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             },
                             "SUB_MENU": {}
                         },
@@ -125,7 +125,7 @@
                                 },
                                 "other_data": "Water services",
                                 "matadata": "Water metadata",
-                                "isExternal": "false"
+                                "isExternal": false
                             },
                             "SUB_MENU": {}
                         },
@@ -147,7 +147,7 @@
                                 },
                                 "other_data": "Trade license",
                                 "matadata": "Trade metadata",
-                                "isExternal": "false"
+                                "isExternal": false
                             },
                             "SUB_MENU": {}
                         },
@@ -208,7 +208,7 @@
                                 },
                                 "other_data": "Birth",
                                 "matadata": "Birthmetadata",
-                                "isExternal": "false"
+                                "isExternal": false
                             },
                             "SUB_MENU": {}
                         },
@@ -229,7 +229,7 @@
                                 },
                                 "other_data": "Water services",
                                 "matadata": "Water metadata",
-                                "isExternal": "false"
+                                "isExternal": false
                             },
                             "SUB_MENU": {
                                 "deathNewRegistration": {
@@ -286,7 +286,7 @@
                                 "URL": "dashboard/marriage",
                                 "other_data": "Marriage registration",
                                 "metadata": "Marriage metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             }
                         },
                         "Request for Funeral van": {
@@ -303,7 +303,7 @@
                                 "URL": "dashboard/citizen-services?service=6",
                                 "other_data": "Funeral van request",
                                 "metadata": "Funeral metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             }
                         },
                         "Request for Water Tanker": {
@@ -320,7 +320,7 @@
                                 "URL": "dashboard/citizen-services?service=5",
                                 "other_data": "Water tanker request",
                                 "metadata": "Tanker metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             }
                         },
                         "Request for Litter Connection": {
@@ -337,7 +337,7 @@
                                 "URL": "dashboard/citizen-services?service=18",
                                 "other_data": "Litter connection request",
                                 "metadata": "Litter metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             }
                         },
                         "Request for Debris Collection": {
@@ -354,7 +354,7 @@
                                 "URL": "dashboard/citizen-services?service=19",
                                 "other_data": "Debris collection request",
                                 "metadata": "Debris metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             }
                         },
                         "Request for Auditorium Public": {
@@ -372,7 +372,7 @@
                                 "URL": "dashboard/citizen-services?service=20",
                                 "other_data": "Auditorium public request",
                                 "metadata": "Auditorium metadata",
-                                "isExternal": "true"
+                                "isExternal": true
                             }
                         },
                         "Death": {
@@ -392,7 +392,7 @@
                                 },
                                 "other_data": "Debris collection request",
                                 "metadata": "Debris metadata",
-                                "isExternal": "true"
+                                "isExternal": false
                             }
                         },
                         "Birth": {
@@ -412,7 +412,7 @@
                                 },
                                 "other_data": "Debris collection request",
                                 "metadata": "Debris metadata",
-                                "isExternal": "true"
+                                "isExternal": false
                             }
                         }
                     }
