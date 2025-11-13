@@ -160,7 +160,8 @@
                                     "WS_APPROVER",
                                     "WS_FIELD_INSPECTOR",
                                     "WS_DOC_VERIFIER",
-                                    "WS_CEMP"
+                                    "WS_CEMP",
+                                    "citizen"
                                 ],
                                 "Icon": "water_1",
                                 "URL": {
