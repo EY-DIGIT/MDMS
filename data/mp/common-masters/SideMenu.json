@@ -106,6 +106,27 @@
                                 },
                                 "SUB_MENU": {}
                             },
+                            "Finance": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "BILL_COLLECTOR_RENTAL",
+                                        "ARO_RENTAL",
+                                        "DC_RENTAL",
+                                        "Bill_Collector_Rental"
+                                    ],
+                                    "Icon": "rental_1",
+                                    "URL": {
+                                        "citizen": "dashboard/rental",
+                                        "employee": "employee/services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action"
+                                    },
+                                    "other_data": "Rental services",
+                                    "matadata": "Rental metadata",
+                                    "isExternal": true
+                                },
+                                "SUB_MENU": {}
+                            },
                             "Water": {
                                 "metadata": {
                                     "ROLE": [
