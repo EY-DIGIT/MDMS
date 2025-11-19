@@ -874,6 +874,10 @@
 	{
 	    "format": "IM-WNOC-[YY]-[MM]-[DD]-[SEQ_EG_WNOC_ACK]",
 	    "idname": "waterservice.noc.id"
-	}
+	},
+	{
+      "format": "IM-TEMP-[YY]-[MM]-[DD]-[SEQ_EG_PT_ACK]",
+      "idname": "pt.temp.propetyid.imc"
+    }
   ]
 }
