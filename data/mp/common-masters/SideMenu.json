@@ -118,7 +118,7 @@
                                     ],
                                     "Icon": "rental_1",
                                     "URL": {
-                                        "citizen": "dashboard/rental",
+                                        "citizen": "employee/services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
                                         "employee": "employee/services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action"
                                     },
                                     "other_data": "Rental services",
