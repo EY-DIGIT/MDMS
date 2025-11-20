@@ -3,9 +3,9 @@
     "moduleName": "common-masters",
     "SideMenu": [
         {
-            "HOME": {
+              "HOME": {
                 "SIDE_MENU": {
-                    "Revenue Service": {
+                    "SIDEMENU_REVENUE_SERVICES": {
                         "metadata": {
                             "ROLE": [
                                 "SUPERUSER",
@@ -25,7 +25,7 @@
                             "metadata": "Metadata for revenue"
                         },
                         "SUB_MENU": {
-                            "Property": {
+                            "PROPERTY": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -46,8 +46,8 @@
                                     "isExternal": false
                                 },
                                 "SUB_MENU": {
-                                    "Namantran": {
-                                        "Name": "Namantran",
+                                    "NAMANTARAN": {
+                                        "Name": "NAMANTARAN",
                                         "ROLE": [
                                             "billcollector",
                                             "ARO",
@@ -56,16 +56,16 @@
                                         "URL": "/digit-ui/employee/pt/NamantranSearchApp",
                                         "Icon": "namantranIcon"
                                     },
-                                    "cashDesk": {
-                                        "Name": "CashDesk",
+                                    "CASHDESK": {
+                                        "Name": "CASHDESK",
                                         "ROLE": [
                                             "employee"
                                         ],
                                         "URL": "/digit-ui/employee/pt/search",
                                         "Icon": "cashDesk"
                                     },
-                                    "change_in_property": {
-                                        "Name": "Change in property",
+                                    "CHANGE_IN_PROPERTY": {
+                                        "Name": "CHANGE_IN_PROPERTY",
                                         "ROLE": [
                                             "billcollector",
                                             "employee"
@@ -73,8 +73,8 @@
                                         "URL": "/digit-ui/employee/pt/SearchChangePropertyApp",
                                         "Icon": "changeIcon"
                                     },
-                                    "New_Property": {
-                                        "Name": "New Property",
+                                    "NEW_PROPERTY": {
+                                        "Name": "NEW_PROPERTY",
                                         "ROLE": [
                                             "billcollector",
                                             "employee"
@@ -84,7 +84,7 @@
                                     }
                                 }
                             },
-                            "Rental": {
+                            "RENTAL": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -106,7 +106,7 @@
                                 },
                                 "SUB_MENU": {}
                             },
-                            "Finance": {
+                            "FINANCE": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -127,7 +127,7 @@
                                 },
                                 "SUB_MENU": {}
                             },
-                            "Water": {
+                            "WATER": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -150,7 +150,7 @@
                                 },
                                 "SUB_MENU": {}
                             },
-                            "Trade License": {
+                            "TRADE_LICENSE": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -171,8 +171,8 @@
                                     "matadata": "Water metadata"
                                 },
                                 "SUB_MENU": {
-                                    "searchApplication": {
-                                        "Name": "Search Application",
+                                    "SEARCH_APPLICATION": {
+                                        "Name": "SEARCH_APPLICATION",
                                         "ROLE": [
                                             "billcollector",
                                             "ARO",
@@ -181,8 +181,8 @@
                                         "URL": "/digit-ui/employee/tl/inbox",
                                         "Icon": "namantranIcon"
                                     },
-                                    "newTradeLicense": {
-                                        "Name": "New Trade License",
+                                    "NEW_TRADE_LICENSE": {
+                                        "Name": "NEW_TRADE_LICENSE",
                                         "ROLE": [
                                             "employee"
                                         ],
@@ -191,7 +191,7 @@
                                     }
                                 }
                             },
-                            "Complaint": {
+                            "COMPLAINT": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -212,8 +212,8 @@
                                     "matadata": "Water metadata"
                                 },
                                 "SUB_MENU": {
-                                    "searchApplication": {
-                                        "Name": "Search Application",
+                                    "SEARCH_APPLICATION": {
+                                        "Name": "SEARCH_APPLICATION",
                                         "ROLE": [
                                             "billcollector",
                                             "ARO",
@@ -222,8 +222,8 @@
                                         "URL": "/digit-ui/employee/pgr/inbox",
                                         "Icon": "namantranIcon"
                                     },
-                                    "newComplaint": {
-                                        "Name": "New Complaint",
+                                    "NEW_COMPLAINT": {
+                                        "Name": "NEW_COMPLAINT",
                                         "ROLE": [
                                             "employee"
                                         ],
@@ -232,7 +232,7 @@
                                     }
                                 }
                             },
-                            "Birth": {
+                            "BIRTH": {
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
@@ -295,7 +295,7 @@
                             }
                         }
                     },
-                    "Citizen Service": {
+                    "SIDEMENU_CITIZEN_SERVICES": {
                         "metadata": {
                             "ROLE": [
                                 "citizen",
@@ -317,7 +317,7 @@
                             "metadata": "Citizen metadata"
                         },
                         "SUB_MENU": {
-                            "Marriage": {
+                            "MARRIAGE": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
@@ -330,7 +330,7 @@
                                     "isExternal": true
                                 }
                             },
-                            "Request for Funeral van": {
+                            "REQUEST_FOR_FUNERAL_VAN": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
@@ -347,7 +347,7 @@
                                     "isExternal": true
                                 }
                             },
-                            "Request for Water Tanker": {
+                            "REQUEST_FOR_WATER_TANKER": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
@@ -364,7 +364,7 @@
                                     "isExternal": true
                                 }
                             },
-                            "Request for Litter Connection": {
+                            "REQUEST_FOR_LITTER_CONNECTION": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
@@ -381,7 +381,7 @@
                                     "isExternal": true
                                 }
                             },
-                            "Request for Debris Collection": {
+                            "REQUEST_FOR_DEBRIS_COLLECTION": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
@@ -398,7 +398,7 @@
                                     "isExternal": true
                                 }
                             },
-                            "Request for Auditorium Public": {
+                            "REQUEST_FOR_AUDITORIUM_PULIC": {
                                 "metadata": {
                                     "Name": "Request for Auditorium Public",
                                     "ROLE": [
@@ -416,7 +416,7 @@
                                     "isExternal": true
                                 }
                             },
-                            "Death": {
+                            "DEATH": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
@@ -436,7 +436,7 @@
                                     "isExternal": false
                                 }
                             },
-                            "Birth": {
+                            "BIRTH": {
                                 "metadata": {
                                     "ROLE": [
                                         "citizen",
