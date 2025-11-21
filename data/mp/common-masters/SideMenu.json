@@ -428,8 +428,8 @@
                                     ],
                                     "Icon": "water_1",
                                     "URL": {
-                                        "employee": "/digit-ui/employee/death",
-                                        "citizen": "/digit-ui/citizen/death"
+                                         "employee": "https://dc.crsorgi.gov.in/crs/",
+                                        "citizen": "https://dc.crsorgi.gov.in/crs/Auth/general-public"
                                     },
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
@@ -448,8 +448,8 @@
                                     ],
                                     "Icon": "water_1",
                                     "URL": {
-                                        "employee": "/digit-ui/employee/birth",
-                                        "citizen": "/digit-ui/citizen/birth"
+                                        "employee": "https://dc.crsorgi.gov.in/crs/",
+                                        "citizen": "https://dc.crsorgi.gov.in/crs/Auth/general-public"
                                     },
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
