@@ -565,7 +565,8 @@
         "Data.propertyId",
         "Data.workflow",
         "Data.locality",
-        "Data.owners"
+        "Data.owners",
+        "Data.publishedOn"
       ]
     },
     {

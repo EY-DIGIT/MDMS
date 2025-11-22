@@ -4,322 +4,440 @@
     "SideMenu": [
         {
             "HOME": {
-                "SIDE_MENU": [
-                    {
-                        "employee_menu": [
-                            {
-                                "Revenue_Service": {
-                                    "REVENUE_SERVICE_METADATA": {
-                                        "Name": "Revenue Service",
-                                        "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental",
-                                        "Icon": "revenueIcon",
-                                        "URL": "/revenue-service",
-                                        "other_data": "Additional metadata for revenue services",
-                                        "metadata": "Metadata for revenue"
+                "SIDE_MENU": {
+                    "Revenue Service": {
+                        "metadata": {
+                            "ROLE": [
+                                "SUPERUSER",
+                                "employee",
+                                "BILL_COLLECTOR_RENTAL",
+                                "ARO_RENTAL",
+                                "DC_RENTAL",
+                                "Bill_Collector_Rental",
+                                "citizen"
+                            ],
+                            "Icon": "revenue",
+                            "URL": {
+                                "employee": "/digit-ui/employee",
+                                "citizen": "/digit-ui/citizen"
+                            },
+                            "other_data": "Additional metadata for revenue services",
+                            "metadata": "Metadata for revenue"
+                        },
+                        "SUB_MENU": {
+                            "Property": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "BILL_COLLECTOR_RENTAL",
+                                        "ARO_RENTAL",
+                                        "DC_RENTAL",
+                                        "Bill_Collector_Rental",
+                                        "citizen"
+                                    ],
+                                    "Icon": "property_1",
+                                    "URL": {
+                                        "employee": "/revenue/property",
+                                        "citizen": "/digit-ui/citizen/pt/property/Actions"
                                     },
-                                    "SUB_MENU": [
-                                        {
-                                            "Name": "Property",
-                                            "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental, CITIZEN",
-                                            "Icon": "property_1",
-                                            "URL": "/revenue/property",
-                                            "other_data": "Property related services",
-                                            "META_Data": "Property metadata",
-                                            "SUB_MENU": [
-                                                {
-                                                    "Name": "Namantran",
-                                                    "ROLE": "billcollector, ARO",
-                                                    "URL": "/namantran",
-                                                    "Icon": "namantranIcon"
-                                                },
-                                                {
-                                                    "Name": "CashDesk",
-                                                    "ROLE": "billcollector",
-                                                    "URL": "/digit-ui/employee/pt/search",
-                                                    "Icon": "cashDesk"
-                                                },
-                                                {
-                                                    "Name": "Change in property",
-                                                    "ROLE": "billcollector",
-                                                    "URL": "/change-property",
-                                                    "Icon": "changeIcon"
-                                                },
-                                                {
-                                                    "Name": "New Property",
-                                                    "ROLE": "billcollector",
-                                                    "URL": "/digit-ui/employee/pt/PropertyLandingPage",
-                                                    "Icon": "newPropertyIcon"
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "Name": "Rental",
-                                            "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental, CITIZEN",
-                                            "Icon": "rental_1",
-                                            "URL": "/revenue/rental",
-                                            "other_data": "Rental services",
-                                            "META_Data": "Rental metadata",
-                                            "SUB_MENU": []
-                                        },
-                                        {
-                                            "Name": "Water",
-                                            "ROLE": "SUPERUSER, EMPLOYEE, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP, CITIZEN",
-                                            "Icon": "water_1",
-                                            "URL": "/revenue/water",
-                                            "other_data": "Water services",
-                                            "META_Data": "Water metadata",
-                                            "SUB_MENU": [
-                                                {
-                                                    "Name": "Water Bill",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/water-bill",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Usage History",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/usage-history",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Connection Request",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/connection-request",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Complaint",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/complaint",
-                                                    "Icon": "newPropertyIcon"
-                                                }
-                                            ]
-                                        }
-                                    ]
+                                    "other_data": "Property related services",
+                                    "matadata": "Property metadata",
+                                    "isExternal": false
+                                },
+                                "SUB_MENU": {
+                                    "Namantran": {
+                                        "Name": "Namantran",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/NamantranSearchApp",
+                                        "Icon": "namantranIcon"
+                                    },
+                                    "cashDesk": {
+                                        "Name": "CashDesk",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/search",
+                                        "Icon": "cashDesk"
+                                    },
+                                    "change_in_property": {
+                                        "Name": "Change in property",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/SearchChangePropertyApp",
+                                        "Icon": "changeIcon"
+                                    },
+                                    "New_Property": {
+                                        "Name": "New Property",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/PropertyLandingPage",
+                                        "Icon": "newPropertyIcon"
+                                    }
                                 }
                             },
-                            {
-                                "Citizen_Service": {
-                                    "CITIZEN_SERVICE_METADATA": {
-                                        "Name": "Citizen Service",
-                                        "ROLE": "CITIZEN, SUPERUSER, EMPLOYEE, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_VIEW_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO, FSM_COLLECTOR",
-                                        "Icon": "citizenIcon",
-                                        "URL": "/citizen-service",
-                                        "other_data": "Citizen related requests",
-                                        "meta_data": "Citizen metadata"
+                            "Rental": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "BILL_COLLECTOR_RENTAL",
+                                        "ARO_RENTAL",
+                                        "DC_RENTAL",
+                                        "Bill_Collector_Rental",
+                                        "citizen"
+                                    ],
+                                    "Icon": "rental_1",
+                                    "URL": {
+                                        "citizen": "dashboard/rental",
+                                        "employee": "dashboard/rental"
                                     },
-                                    "SUB_MENU": [
-                                        {
-                                            "Name": "Marriage",
-                                            "ROLE": "CITIZEN, REGISTRAR",
-                                            "Icon": "marriage_icon",
-                                            "URL": "dashboard/marriage",
-                                            "other_data": "Marriage registration",
-                                            "META_Data": "Marriage metadata"
-                                        },
-                                        {
-                                            "Name": "Request for Funeral Van",
-                                            "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                                            "Icon": "funeral_van_icon",
-                                            "URL": "service/6",
-                                            "other_data": "Funeral van request",
-                                            "META_Data": "Funeral metadata"
-                                        },
-                                        {
-                                            "Name": "Request For Water Tanker",
-                                            "ROLE": "CITIZEN, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP",
-                                            "Icon": "water_tanker_icon",
-                                            "URL": "service/5",
-                                            "other_data": "Water tanker request",
-                                            "META_Data": "Tanker metadata"
-                                        },
-                                        {
-                                            "Name": "Request For Litter Connection",
-                                            "ROLE": "CITIZEN, SW_CLERK, SW_APPROVER, SW_FIELD_INSPECTOR, SW_DOC_VERIFIER, SW_CEMP",
-                                            "Icon": "litter_collection_icon",
-                                            "URL": "service/18",
-                                            "other_data": "Litter connection request",
-                                            "META_Data": "Litter metadata"
-                                        },
-                                        {
-                                            "Name": "Request For Debris Collection",
-                                            "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                                            "Icon": "debris_icon",
-                                            "URL": "service/19",
-                                            "other_data": "Debris collection request",
-                                            "META_Data": "Debris metadata"
-                                        },
-                                        {
-                                            "Name": "Request for Auditorium Public",
-                                            "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                                            "Icon": "amusement_icon",
-                                            "URL": "service/20",
-                                            "other_data": "Auditorium public request",
-                                            "META_Data": "Auditorium metadata"
-                                        }
-                                    ]
+                                    "other_data": "Rental services",
+                                    "matadata": "Rental metadata",
+                                    "isExternal": true
+                                },
+                                "SUB_MENU": {}
+                            },
+                            "Water": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP",
+                                        "citizen"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/ws/water/Actions"
+                                    },
+                                    "other_data": "Water services",
+                                    "matadata": "Water metadata",
+                                    "isExternal": false
+                                },
+                                "SUB_MENU": {}
+                            },
+                            "Trade License": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP",
+                                        "citizen"
+                                    ],
+                                    "Icon": "buildingMaroonIcon",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/tl-home"
+                                    },
+                                    "other_data": "Water services",
+                                    "matadata": "Water metadata"
+                                },
+                                "SUB_MENU": {
+                                    "searchApplication": {
+                                        "Name": "Search Application",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/tl/inbox",
+                                        "Icon": "namantranIcon"
+                                    },
+                                    "newTradeLicense": {
+                                        "Name": "New Trade License",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/tl/new-application",
+                                        "Icon": "cashDesk"
+                                    }
+                                }
+                            },
+                            "Complaint": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP",
+                                        "citizen"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/pgr-home"
+                                    },
+                                    "other_data": "Water services",
+                                    "matadata": "Water metadata"
+                                },
+                                "SUB_MENU": {
+                                    "searchApplication": {
+                                        "Name": "Search Application",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pgr/inbox",
+                                        "Icon": "namantranIcon"
+                                    },
+                                    "newComplaint": {
+                                        "Name": "New Complaint",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pgr/complaint/create",
+                                        "Icon": "cashDesk"
+                                    }
+                                }
+                            },
+                            "Birth": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP"
+                                    ],
+                                    "Icon": "rental_1",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/birth"
+                                    },
+                                    "other_data": "Birth",
+                                    "matadata": "Birthmetadata",
+                                    "isExternal": false
+                                },
+                                "SUB_MENU": {}
+                            },
+                            "Death": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/death"
+                                    },
+                                    "other_data": "Water services",
+                                    "matadata": "Water metadata",
+                                    "isExternal": false
+                                },
+                                "SUB_MENU": {
+                                    "deathNewRegistration": {
+                                        "Name": "Death New Registration",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee"
+                                        ],
+                                        "URL": "/employee/death-employee/newRegistration",
+                                        "Icon": "namantranIcon"
+                                    },
+                                    "searchDeathCertificate": {
+                                        "Name": "Search Death Certificate",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/employee/death-common/getCertificate",
+                                        "Icon": "cashDesk"
+                                    }
                                 }
                             }
-                        ]
+                        }
                     },
-                    {
-                        "citizen_menu": [
-                            {
-                                "Revenue_Service": {
-                                    "REVENUE_SERVICE_METADATA": {
-                                        "Name": "Revenue Service",
-                                        "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental",
-                                        "Icon": "revenueIcon",
-                                        "URL": "/revenue-service",
-                                        "other_data": "Additional metadata for revenue services",
-                                        "meta_data": "Metadata for revenue"
-                                    },
-                                    "SUB_MENU": [
-                                        {
-                                            "Name": "Property",
-                                            "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental, CITIZEN",
-                                            "Icon": "property_1",
-                                            "URL": "/revenue/property",
-                                            "other_data": "Property related services",
-                                            "META_Data": "Property metadata",
-                                            "SUB_MENU": [
-                                                {
-                                                    "Name": "New Property Application",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/digit-ui/citizen/pt/property/new-application",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Track Application",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/digit-ui/citizen/pt/property/citizen-search",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Pay",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/digit-ui/citizen/pt/property/citizen-search",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "My Properties",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/digit-ui/citizen/pt/property/my-properties",
-                                                    "Icon": "newPropertyIcon"
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "Name": "Rental",
-                                            "ROLE": "SUPERUSER, EMPLOYEE, BILL_COLLECTOR_RENTAL, ARO_RENTAL, DC_RENTAL, Bill_Collector_Rental, CITIZEN",
-                                            "Icon": "rental_1",
-                                            "URL": "/revenue/rental",
-                                            "other_data": "Rental services",
-                                            "META_Data": "Rental metadata",
-                                            "SUB_MENU": []
-                                        },
-                                        {
-                                            "Name": "Water",
-                                            "ROLE": "SUPERUSER, EMPLOYEE, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP, CITIZEN",
-                                            "Icon": "water_1",
-                                            "URL": "/revenue/water",
-                                            "other_data": "Water services",
-                                            "META_Data": "Water metadata",
-                                            "SUB_MENU": [
-                                                {
-                                                    "Name": "Water Bill",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/water-bill",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Usage History",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/usage-history",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Connection Request",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/connection-request",
-                                                    "Icon": "newPropertyIcon"
-                                                },
-                                                {
-                                                    "Name": "Complaint",
-                                                    "ROLE": "citizen",
-                                                    "URL": "/complaint",
-                                                    "Icon": "newPropertyIcon"
-                                                }
-                                            ]
-                                        }
-                                    ]
+                    "Citizen Service": {
+                        "metadata": {
+                            "ROLE": [
+                                "citizen",
+                                "SUPERUSER",
+                                "FSM_CREATOR_EMP",
+                                "FSM_EDITOR_EMP",
+                                "FSM_VIEW_EMP",
+                                "FSM_ADMIN",
+                                "FSM_DSO",
+                                "FSM_EMP_FSTPO",
+                                "FSM_COLLECTOR"
+                            ],
+                            "Icon": "citizen",
+                            "URL": {
+                                "employee": "/digit-ui/employee/pt/citizen-services",
+                                "citizen": "/digit-ui/citizen/pt/citizen-services"
+                            },
+                            "other_data": "Citizen related requests",
+                            "metadata": "Citizen metadata"
+                        },
+                        "SUB_MENU": {
+                            "Marriage": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "REGISTRAR"
+                                    ],
+                                    "Icon": "marriage_icon",
+                                    "URL": "dashboard/marriage",
+                                    "other_data": "Marriage registration",
+                                    "metadata": "Marriage metadata",
+                                    "isExternal": true
                                 }
                             },
-                            {
-                                "Citizen_Service": {
-                                    "CITIZEN_SERVICE_METADATA": {
-                                        "Name": "Citizen Service",
-                                        "ROLE": "CITIZEN, SUPERUSER, EMPLOYEE, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_VIEW_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO, FSM_COLLECTOR",
-                                        "Icon": "citizenIcon",
-                                        "URL": "/citizen-service",
-                                        "other_data": "Citizen related requests",
-                                        "metadata": "Citizen metadata"
+                            "Request for Funeral van": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "funeral_van_icon",
+                                    "URL": "dashboard/citizen-services?service=6",
+                                    "other_data": "Funeral van request",
+                                    "metadata": "Funeral metadata",
+                                    "isExternal": true
+                                }
+                            },
+                            "Request for Water Tanker": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP"
+                                    ],
+                                    "Icon": "water_tanker_icon",
+                                    "URL": "dashboard/citizen-services?service=5",
+                                    "other_data": "Water tanker request",
+                                    "metadata": "Tanker metadata",
+                                    "isExternal": true
+                                }
+                            },
+                            "Request for Litter Connection": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "SW_CLERK",
+                                        "SW_APPROVER",
+                                        "SW_FIELD_INSPECTOR",
+                                        "SW_DOC_VERIFIER",
+                                        "SW_CEMP"
+                                    ],
+                                    "Icon": "litter_collection_icon",
+                                    "URL": "dashboard/citizen-services?service=18",
+                                    "other_data": "Litter connection request",
+                                    "metadata": "Litter metadata",
+                                    "isExternal": true
+                                }
+                            },
+                            "Request for Debris Collection": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "debris_icon",
+                                    "URL": "dashboard/citizen-services?service=19",
+                                    "other_data": "Debris collection request",
+                                    "metadata": "Debris metadata",
+                                    "isExternal": true
+                                }
+                            },
+                            "Request for Auditorium Public": {
+                                "metadata": {
+                                    "Name": "Request for Auditorium Public",
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "amusement_icon",
+                                    "URL": "dashboard/citizen-services?service=20",
+                                    "other_data": "Auditorium public request",
+                                    "metadata": "Auditorium metadata",
+                                    "isExternal": true
+                                }
+                            },
+                            "Death": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "/digit-ui/employee/death",
+                                        "citizen": "/digit-ui/citizen/death"
                                     },
-                                    "SUB_MENU": [
-                                        {
-                                            "Name": "Marriage",
-                                            "ROLE": "CITIZEN, REGISTRAR",
-                                            "Icon": "marriage_icon",
-                                            "URL": "dashboard/marriage",
-                                            "other_data": "Marriage registration",
-                                            "META_Data": "Marriage metadata"
-                                        },
-                                        {
-                                            "Name": "Request for Funeral Van",
-                                            "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                                            "Icon": "funeral_van_icon",
-                                            "URL": "service/6",
-                                            "other_data": "Funeral van request",
-                                            "META_Data": "Funeral metadata"
-                                        },
-                                        {
-                                            "Name": "Request For Water Tanker",
-                                            "ROLE": "CITIZEN, WS_CLERK, WS_APPROVER, WS_FIELD_INSPECTOR, WS_DOC_VERIFIER, WS_CEMP",
-                                            "Icon": "water_tanker_icon",
-                                            "URL": "service/5",
-                                            "other_data": "Water tanker request",
-                                            "META_Data": "Tanker metadata"
-                                        },
-                                        {
-                                            "Name": "Request For Litter Connection",
-                                            "ROLE": "CITIZEN, SW_CLERK, SW_APPROVER, SW_FIELD_INSPECTOR, SW_DOC_VERIFIER, SW_CEMP",
-                                            "Icon": "litter_collection_icon",
-                                            "URL": "service/18",
-                                            "other_data": "Litter connection request",
-                                            "META_Data": "Litter metadata"
-                                        },
-                                        {
-                                            "Name": "Request For Debris Collection",
-                                            "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                                            "Icon": "debris_icon",
-                                            "URL": "service/19",
-                                            "other_data": "Debris collection request",
-                                            "META_Data": "Debris metadata"
-                                        },
-                                        {
-                                            "Name": "Request for Auditorium Public",
-                                            "ROLE": "CITIZEN, FSM_CREATOR_EMP, FSM_EDITOR_EMP, FSM_ADMIN, FSM_DSO, FSM_EMP_FSTPO",
-                                            "Icon": "amusement_icon",
-                                            "URL": "service/20",
-                                            "other_data": "Auditorium public request",
-                                            "META_Data": "Auditorium metadata"
-                                        }
-                                    ]
+                                    "other_data": "Debris collection request",
+                                    "metadata": "Debris metadata",
+                                    "isExternal": false
+                                }
+                            },
+                            "Birth": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "/digit-ui/employee/birth",
+                                        "citizen": "/digit-ui/citizen/birth"
+                                    },
+                                    "other_data": "Debris collection request",
+                                    "metadata": "Debris metadata",
+                                    "isExternal": false
                                 }
                             }
-                        ]
+                        }
                     }
-                ]
+                }
             }
         }
     ]
