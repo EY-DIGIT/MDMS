@@ -1,0 +1,96 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ws-services-calculation",
+  "WCDisConnectionCharges": [
+    {
+      "id": "1",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "0.50",
+      "charges": 150,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "2",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "0.75",
+      "charges": 200,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "3",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "1",
+      "charges": 250,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "4",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "1.50",
+      "charges": 275,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "5",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "2",
+      "charges": 325,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "6",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "3",
+      "charges": 350,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "7",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "4",
+      "charges": 400,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "8",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "6",
+      "charges": 500,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "9",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "8",
+      "charges": 500,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2025-26"
+    }
+  ]
+}
