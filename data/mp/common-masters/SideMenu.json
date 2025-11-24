@@ -67,8 +67,7 @@
                                     "CHANGE_IN_PROPERTY": {
                                         "Name": "CHANGE_IN_PROPERTY",
                                         "ROLE": [
-                                            "billcollector",
-                                            "employee"
+                                            "billcollector"
                                         ],
                                         "URL": "/digit-ui/employee/pt/SearchChangePropertyApp",
                                         "Icon": "changeIcon"
