@@ -20936,6 +20936,17 @@
         "serviceCode": "ws-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5558,
+        "name": "Apply New water Connection Calculate",
+        "url": "/ws-calculator/water/_updateDemand",
+        "displayName": "Enter Meter Estimate",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
     }
   ]
 }

@@ -656,7 +656,7 @@
 	    "idname": "sw.receipt.id"
 	},
 	{
-	    "format": "IM-WC-[YY]-[MM]-[DD]-[SEQ_EG_WC_ACK]",
+	    "format": "IM-WNC-[YY]-[MM]-[DD]-[SEQ_EG_WNC_ACK]",
 	    "idname": "waterservice.application.id"
 	},
 	{
@@ -832,7 +832,7 @@
 	    "idname": "death_cert.receipt.id"
 	},
 	{
-	    "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/DC-[SEQ_WS_APP_[TENANT_ID]]",
+	    "format": "IM-WDC-[YY]-[MM]-[DD]-[SEQ_EG_WDC_ACK]",
 	    "idname": "waterservice.disconnection.id"
 	},
 	{
@@ -870,6 +870,14 @@
 	{
       "format": "RN-PT-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
       "idname": "pt.mutation.receipt.id.imc"
+    },
+	{
+	    "format": "IM-WNOC-[YY]-[MM]-[DD]-[SEQ_EG_WNOC_ACK]",
+	    "idname": "waterservice.noc.id"
+	},
+	{
+      "format": "IM-TEMP-[YY]-[MM]-[DD]-[SEQ_EG_PT_ACK]",
+      "idname": "pt.temp.propetyid.imc"
     }
   ]
 }
