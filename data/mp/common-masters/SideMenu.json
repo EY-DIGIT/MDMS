@@ -130,44 +130,24 @@
                                 "metadata": {
                                     "ROLE": [
                                         "SUPERUSER",
-                                        "EMPLOYEE",
-                                        "ARO",
-                                        "IMCCOUNTER",
+                                        "employee",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
                                         "WS_FIELD_INSPECTOR",
                                         "WS_DOC_VERIFIER",
                                         "WS_CEMP",
-                                        "CITIZEN"
+                                        "citizen"
                                     ],
                                     "Icon": "water_1",
                                     "URL": {
                                         "employee": "",
-                                        "citizen": "/digit-ui/citizen/"
+                                        "citizen": "/digit-ui/citizen/ws/water/Actions"
                                     },
                                     "other_data": "Water services",
                                     "matadata": "Water metadata",
                                     "isExternal": false
                                 },
-                                "SUB_MENU": {									
-									"NEWWATERCONNECT": {
-                                        "Name": "NEWWATERCONNECT",
-                                        "ROLE": [
-                                            "EMPLOYEE",
-                                            "ARO",
-											"billcollector",
-                                            "CITIZEN"
-                                        ],
-                                        "URL": "/digit-ui/employee/ws/WaterLandingPage",
-                                        "Icon": "newWaterIcon"
-                                    },
-									"CASHDESK": {
-                                        "Name": "CASHDESK",
-                                        "ROLE": [
-                                            "CASHIER"
-                                        ],
-                                        "URL": "/digit-ui/employee/ws/searchTax",
-                                        "Icon": "cashDesk"
-                                    }
-								}
+                                "SUB_MENU": {}
                             },
                             "TRADE_LICENSE": {
                                 "metadata": {
