@@ -140,7 +140,7 @@
                                     ],
                                     "Icon": "water_1",
                                     "URL": {
-                                        "employee": "/digit-ui/employee",
+                                        "employee": "",
                                         "citizen": "/digit-ui/citizen/"
                                     },
                                     "other_data": "Water services",
