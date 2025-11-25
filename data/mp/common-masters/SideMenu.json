@@ -129,13 +129,7 @@
                             "WATER": {
                                 "metadata": {
                                     "ROLE": [
-                                        "SUPERUSER",
                                         "employee",
-                                        "WS_CLERK",
-                                        "WS_APPROVER",
-                                        "WS_FIELD_INSPECTOR",
-                                        "WS_DOC_VERIFIER",
-                                        "WS_CEMP",
                                         "citizen"
                                     ],
                                     "Icon": "water_1",
@@ -161,7 +155,7 @@
 								  "CASHDESK": {
 									"Name": "CASHDESK",
 									"ROLE": [
-									  "CASHIER"
+									  "BILLCOUNTER"
 									],
 									"URL": "/digit-ui/employee/ws/searchTax",
 									"Icon": "cashDesk"
