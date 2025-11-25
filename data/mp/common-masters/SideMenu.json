@@ -155,7 +155,8 @@
 								  "CASHDESK": {
 									"Name": "CASHDESK",
 									"ROLE": [
-									  "BILLCOUNTER"
+									  "BILLCOUNTER",
+									  "employee"
 									],
 									"URL": "/digit-ui/employee/ws/searchTax",
 									"Icon": "cashDesk"
