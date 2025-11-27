@@ -129,13 +129,7 @@
                             "WATER": {
                                 "metadata": {
                                     "ROLE": [
-                                        "SUPERUSER",
                                         "employee",
-                                        "WS_CLERK",
-                                        "WS_APPROVER",
-                                        "WS_FIELD_INSPECTOR",
-                                        "WS_DOC_VERIFIER",
-                                        "WS_CEMP",
                                         "citizen"
                                     ],
                                     "Icon": "water_1",
@@ -147,7 +141,27 @@
                                     "matadata": "Water metadata",
                                     "isExternal": false
                                 },
-                                "SUB_MENU": {}
+                                "SUB_MENU": {
+								  "NEW_WS_LANDING": {
+									"Name": "NEW_WS_LANDING",
+									"ROLE": [
+									  "billcollector",
+									  "ARO",
+									  "employee"
+									],
+									"URL": "/digit-ui/employee/ws/WaterLandingPage",
+									"Icon": "newWaterIcon"
+								  },
+								  "CASHDESK": {
+									"Name": "CASHDESK",
+									"ROLE": [
+									  "BILLCOUNTER",
+									  "employee"
+									],
+									"URL": "/digit-ui/employee/ws/searchTax",
+									"Icon": "cashDesk"
+								  }
+								}
                             },
                             "TRADE_LICENSE": {
                                 "metadata": {
