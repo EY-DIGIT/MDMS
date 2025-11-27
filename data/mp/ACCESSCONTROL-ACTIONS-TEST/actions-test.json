@@ -20947,6 +20947,18 @@
         "serviceCode": "ws-calculator",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 5559,
+      "name": "LocalizationMessagesSearch",
+      "url": "/localization/messages/cache-bust",
+      "displayName": "Localization Messages cache",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "filestore url",
+      "code": "null",
+      "path": ""
     }
   ]
 }
