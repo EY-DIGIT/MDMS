@@ -1,0 +1,22 @@
+{
+    "tenantId": "mp",
+    "moduleName": "common-masters",
+    "FreezeReason":
+    [
+      {
+        "name": "As Per Instructions Given By Authorities",
+        "code": "AS_PER_INSTRUCTIONS_GIVEN_BY_AUTHORITIES",
+        "active": true
+      },
+     {
+        "name": "Closure Of Property",
+        "code": "CLOSURE_OF_PROPERTY",
+        "active": true
+      },
+      {
+        "name": "Duplicate Property",
+        "code": "DUPLICATE_PROPERTY",
+        "active": true
+      }
+    ]
+  }
