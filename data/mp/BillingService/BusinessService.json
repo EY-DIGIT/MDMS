@@ -6,7 +6,7 @@
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
-        "DD","POSTAL_ORDER"
+        "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
       "minAmountPayable":100,
