@@ -1,0 +1,12 @@
+{
+    "tenantId": "mp",
+    "moduleName": "common-masters",
+    "UnfreezeReason":
+    [
+      {
+        "name": "As Per Instructions Given By Authorities",
+        "code": "AS_PER_INSTRUCTIONS_GIVEN_BY_AUTHORITIES",
+        "active": true
+      }
+    ]
+  }
