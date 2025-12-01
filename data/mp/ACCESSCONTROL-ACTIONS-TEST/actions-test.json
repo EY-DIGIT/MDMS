@@ -20963,7 +20963,7 @@
     {
         "id": 5560,
         "name": "Apply New water meter Register",
-        "url": "/ws-services/wc/_meterregistration",
+        "url": "/ws-services/wc/meter/_registration",
         "displayName": "water meter Register",
         "orderNumber": 0,
         "enabled": false,
@@ -20974,7 +20974,7 @@
     {
         "id": 5561,
         "name": "Apply water meter reading",
-        "url": "/ws-services/wc/_meterreading",
+        "url": "/ws-services/wc/meter/_reading",
         "displayName": "water meter Reading",
         "orderNumber": 0,
         "enabled": false,
@@ -20985,7 +20985,7 @@
     {
         "id": 5562,
         "name": "Search water meter reading",
-        "url": "/ws-services/wc/_meterreadingsearch",
+        "url": "/ws-services/wc/meter/reading/_search",
         "displayName": "water meter Reading",
         "orderNumber": 0,
         "enabled": false,
