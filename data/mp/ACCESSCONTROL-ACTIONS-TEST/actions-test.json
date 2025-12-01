@@ -13466,7 +13466,7 @@
     {
         "id": 4935,
         "name": "Enter Meter Reading",
-        "url": "/ws-calculator/meterConnection/_create",
+        "url": "/ws-calculator/meter/_create",
         "displayName": "Enter Meter Reading",
         "orderNumber": 0,
         "enabled": false,
@@ -13477,7 +13477,7 @@
     {
         "id": 4936,
         "name": "Search Meter Reading",
-        "url": "/ws-calculator/meterConnection/_search",
+        "url": "/ws-calculator/meter/_search",
         "displayName": "Search Meter Reading",
         "orderNumber": 0,
         "enabled": false,
@@ -20962,34 +20962,12 @@
     },
     {
         "id": 5560,
-        "name": "Apply New water meter Register",
-        "url": "/ws-services/wc/meter/_registration",
-        "displayName": "water meter Register",
+        "name": "Registration Meter Reading",
+        "url": "/ws-calculator/meter/_registration",
+        "displayName": "Search Meter Reading",
         "orderNumber": 0,
         "enabled": false,
-        "serviceCode": "ws-services",
-        "code": "null",
-        "path": ""
-    },
-    {
-        "id": 5561,
-        "name": "Apply water meter reading",
-        "url": "/ws-services/wc/meter/_reading",
-        "displayName": "water meter Reading",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "ws-services",
-        "code": "null",
-        "path": ""
-    },
-    {
-        "id": 5562,
-        "name": "Search water meter reading",
-        "url": "/ws-services/wc/meter/reading/_search",
-        "displayName": "water meter Reading",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "ws-services",
+        "serviceCode": "ws-calculator",
         "code": "null",
         "path": ""
     }
