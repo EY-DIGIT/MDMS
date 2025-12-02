@@ -412,6 +412,23 @@
                                     "isExternal": true
                                 }
                             },
+                            "ROAD_CUTTING_APPLICATION": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "debris_icon",
+                                    "URL": "dashboard/citizen-services?service=7",
+                                    "other_data": "Debris collection request",
+                                    "metadata": "Debris metadata",
+                                    "isExternal": true
+                                }
+                            },
                             "REQUEST_FOR_AUDITORIUM_PULIC": {
                                 "metadata": {
                                     "Name": "Request for Auditorium Public",
