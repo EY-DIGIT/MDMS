@@ -33743,6 +33743,12 @@
 		  "actionid": 4936,
 		  "actioncode": "",
 		  "tenantId": "mp"
-	}
+	},
+   {
+      "rolecode": "WS_CEMP",
+      "actionid": 5560,
+      "actioncode": "",
+      "tenantId": "mp"
+  }
   ]
 }
