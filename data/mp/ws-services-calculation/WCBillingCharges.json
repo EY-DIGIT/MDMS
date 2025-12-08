@@ -12,6 +12,7 @@
       "monthlyRate": 200,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -24,6 +25,7 @@
       "monthlyRate": 100,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -36,6 +38,7 @@
       "monthlyRate": 200,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -48,6 +51,7 @@
       "monthlyRate": 100,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -60,6 +64,7 @@
       "monthlyRate": 300,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -72,6 +77,7 @@
       "monthlyRate": 450,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -84,6 +90,7 @@
       "monthlyRate": 300,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -96,6 +103,7 @@
       "monthlyRate": 3000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -108,6 +116,7 @@
       "monthlyRate": 5500,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -120,6 +129,7 @@
       "monthlyRate": 10000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -132,6 +142,7 @@
       "monthlyRate": 29000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -144,6 +155,7 @@
       "monthlyRate": 560000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -156,6 +168,7 @@
       "monthlyRate": 105000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -168,6 +181,7 @@
       "monthlyRate": 1000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -180,6 +194,7 @@
       "monthlyRate": 1000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -192,6 +207,7 @@
       "monthlyRate": 2800,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -204,6 +220,7 @@
       "monthlyRate": 5000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -216,6 +233,7 @@
       "monthlyRate": 7000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -228,6 +246,7 @@
       "monthlyRate": 20000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -240,6 +259,7 @@
       "monthlyRate": 33000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -252,6 +272,7 @@
       "monthlyRate": 64000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -264,6 +285,7 @@
       "monthlyRate": 120000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -276,6 +298,7 @@
       "monthlyRate": 1500,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -288,6 +311,7 @@
       "monthlyRate": 3000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -300,6 +324,7 @@
       "monthlyRate": 6000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -312,6 +337,7 @@
       "monthlyRate": 15000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -324,6 +350,7 @@
       "monthlyRate": 30000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -336,6 +363,7 @@
       "monthlyRate": 66000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -348,6 +376,7 @@
       "monthlyRate": 128000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -360,6 +389,7 @@
       "monthlyRate": 241000,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 0,
       "financialYear": "2025-26"
     },
     {
@@ -372,6 +402,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -384,6 +415,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -396,6 +428,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -408,6 +441,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -420,6 +454,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -432,6 +467,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -444,6 +480,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -456,6 +493,7 @@
       "monthlyRate": 28,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -468,6 +506,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -480,6 +519,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -492,6 +532,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -504,6 +545,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -516,6 +558,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -528,6 +571,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -540,6 +584,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -552,6 +597,7 @@
       "monthlyRate": 44,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -564,6 +610,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -576,6 +623,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -588,6 +636,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -600,6 +649,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -612,6 +662,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -624,6 +675,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -636,6 +688,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     },
     {
@@ -648,6 +701,7 @@
       "monthlyRate": 55,
       "serviceCharges": 5,
       "penaltyPercent": 10,
+      "unitPerLiter": 1000,
       "financialYear": "2025-26"
     }
   ]
