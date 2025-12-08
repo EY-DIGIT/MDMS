@@ -3,11 +3,6 @@
   "moduleName": "common-masters",
   "Salutations": [
     {
-      "name": "Dr.",
-      "code": "DR",
-      "active": true
-    },
-    {
       "name": "Mr.",
       "code": "MR",
       "active": true
