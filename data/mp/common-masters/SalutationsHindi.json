@@ -3,11 +3,6 @@
   "moduleName": "common-masters",
   "SalutationsHindi": [
     {
-      "name": "डॉ.",
-      "code": "डॉ.",
-      "active": true
-    },
-    {
       "name": "श्री",
       "code": "श्री",
       "active": true

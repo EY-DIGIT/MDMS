@@ -128,23 +128,8 @@
       "active": true
     },
     {
-      "name": "Temple",
-      "code": "TEMPLE",
-      "active": true
-    },
-    {
-      "name": "Mosque",
-      "code": "MOSQUE",
-      "active": true
-    },
-    {
-      "name": "Church",
-      "code": "CHURCH",
-      "active": true
-    },
-    {
-      "name": "Gurudwara",
-      "code": "GURUDWARA",
+      "name": "Religious Institutions",
+      "code": "RELIGIOUS_INSTITUTIONS",
       "active": true
     },
     {
