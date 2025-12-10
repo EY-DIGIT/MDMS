@@ -429,9 +429,9 @@
                                     "isExternal": true
                                 }
                             },
-                            "REQUEST_FOR_AUDITORIUM_PULIC": {
+                            "REQUEST_FOR_COMMUNITY_HALL": {
                                 "metadata": {
-                                    "Name": "Request for Auditorium Public",
+                                    "Name": "Request for Community Hall",
                                     "ROLE": [
                                         "citizen",
                                         "FSM_CREATOR_EMP",
@@ -441,7 +441,7 @@
                                         "FSM_EMP_FSTPO"
                                     ],
                                     "Icon": "amusement_icon",
-                                    "URL": "dashboard/citizen-services?service=20",
+                                    "URL": "dashboard/citizen-services?service=25",
                                     "other_data": "Auditorium public request",
                                     "metadata": "Auditorium metadata",
                                     "isExternal": true
