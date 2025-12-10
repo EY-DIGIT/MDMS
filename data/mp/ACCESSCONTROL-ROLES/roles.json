@@ -1102,6 +1102,16 @@
       "code": "BND_APPROVER",
       "name": "Birth & Death Approver",
       "description": "Birth & Death Approver"
+    },
+     {
+      "code": "Office_Assistant",
+      "name": "Office Assistant",
+      "description": "Office Assistant Community Hall"
+    },
+    {
+      "code": "Operation_Manager",
+      "name": "Operation Manager",
+      "description": "Operation_Manager Septic Tank"
     }
   ]
 }
