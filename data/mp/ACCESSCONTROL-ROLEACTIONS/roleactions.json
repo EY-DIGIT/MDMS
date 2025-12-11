@@ -33749,6 +33749,12 @@
       "actionid": 5560,
       "actioncode": "",
       "tenantId": "mp"
+  },
+  {
+      "rolecode": "PGR_LME",
+      "actionid": 5006,
+      "actioncode": "",
+      "tenantId": "mp"
   }
   ]
 }
