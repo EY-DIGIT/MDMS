@@ -447,6 +447,24 @@
                                     "isExternal": true
                                 }
                             },
+							 "REQUEST_FOR_SEPTIC_TANK_CLEANING": {
+                                "metadata": {
+                                    "Name": "Request for Septic Tank Cleaning",
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "amusement_icon",
+                                    "URL": "dashboard/citizen-services?service=26",
+                                    "other_data": "Auditorium public request",
+                                    "metadata": "Auditorium metadata",
+                                    "isExternal": true
+                                }
+                            },
                             "DEATH": {
                                 "metadata": {
                                     "ROLE": [
