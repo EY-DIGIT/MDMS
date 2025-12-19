@@ -1112,6 +1112,11 @@
       "code": "Operation_Manager",
       "name": "Operation Manager",
       "description": "Operation_Manager Septic Tank"
+    },
+     {
+      "code": "Chief_Sanitary_Inspector",
+      "name": "Chief Sanitary Inspector",
+      "description": "Chief Sanitary Inspector"
     }
   ]
 }
