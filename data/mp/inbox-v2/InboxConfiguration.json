@@ -503,11 +503,6 @@
           "operator": "EQUAL"
         },
         {
-          "name": "status",
-          "path": "Data.currentProcessInstance.state.uuid.keyword",
-          "isMandatory": false
-        },
-        {
           "name": "mobileNumber",
           "path": "Data.mobileNumber.keyword",
           "isMandatory": false
