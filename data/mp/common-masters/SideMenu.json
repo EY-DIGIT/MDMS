@@ -389,7 +389,7 @@
                                         "SW_CEMP"
                                     ],
                                     "Icon": "litter_collection_icon",
-                                    "URL": "dashboard/citizen-services?service=18",
+                                    "URL": "dashboard/citizen-services?service=27",
                                     "other_data": "Litter connection request",
                                     "metadata": "Litter metadata",
                                     "isExternal": true
@@ -406,7 +406,24 @@
                                         "FSM_EMP_FSTPO"
                                     ],
                                     "Icon": "debris_icon",
-                                    "URL": "dashboard/citizen-services?service=19",
+                                    "URL": "dashboard/citizen-services?service=28",
+                                    "other_data": "Debris collection request",
+                                    "metadata": "Debris metadata",
+                                    "isExternal": true
+                                }
+                            },
+							"REQUEST_FOR_MOBILE_TOILET": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "debris_icon",
+                                    "URL": "dashboard/citizen-services?service=31",
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
                                     "isExternal": true
