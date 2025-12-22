@@ -1117,6 +1117,16 @@
       "code": "Chief_Sanitary_Inspector",
       "name": "Chief Sanitary Inspector",
       "description": "Chief Sanitary Inspector"
+    },
+     {
+      "code": "MT_Supervisor",
+      "name": "Supervisor MT",
+      "description": "Supervisor Mobile Toilet"
+    },
+     {
+      "code": "MT_Sub_Engineer",
+      "name": "Sub Engineer MT",
+      "description": "Sub Engineer Mobile Toilet"
     }
   ]
 }
