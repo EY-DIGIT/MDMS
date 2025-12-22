@@ -6,6 +6,654 @@
     "minAmount": 0,
     "maxAmount": 6000,
     "rate": 0,
+    "fromFY": "1997-98"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "1997-98"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "1997-98"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "1997-98"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "1998-99"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "1998-99"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "1998-99"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "1998-99"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "1999-00"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "1999-00"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "1999-00"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "1999-00"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2000-01"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2000-01"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2000-01"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2000-01"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2001-02"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2001-02"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2001-02"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2001-02"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2002-03"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2002-03"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2002-03"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2002-03"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2003-04"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2003-04"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2003-04"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2003-04"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2004-05"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2004-05"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2004-05"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2004-05"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2005-06"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2005-06"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2005-06"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2005-06"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2006-07"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2006-07"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2006-07"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2006-07"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2007-08"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2007-08"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2007-08"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2007-08"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2008-09"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2008-09"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2008-09"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2008-09"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2009-10"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2009-10"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2009-10"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2009-10"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2010-11"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2010-11"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2010-11"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2010-11"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2011-12"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2011-12"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2011-12"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2011-12"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2012-13"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2012-13"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2012-13"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2012-13"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2013-14"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2013-14"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2013-14"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2013-14"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2014-15"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2014-15"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2014-15"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2014-15"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2015-16"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2015-16"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2015-16"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2015-16"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2016-17"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2016-17"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2016-17"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2016-17"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2017-18"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2017-18"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2017-18"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2017-18"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2018-19"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2018-19"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2018-19"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2018-19"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2019-20"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2019-20"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2019-20"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2019-20"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2020-21"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2020-21"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2020-21"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2020-21"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2021-22"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2021-22"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2021-22"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2021-22"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2022-23"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2022-23"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2022-23"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2022-23"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2023-24"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 36000,
+    "rate": 6,
+    "fromFY": "2023-24"
+  },
+  {
+    "minAmount": 36001,
+    "maxAmount": 60000,
+    "rate": 8,
+    "fromFY": "2023-24"
+  },
+  {
+    "minAmount": 60001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2023-24"
+  },  
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
     "fromFY": "2024-25"
   },
   {

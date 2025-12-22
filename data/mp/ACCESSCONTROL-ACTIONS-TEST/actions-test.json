@@ -20970,6 +20970,17 @@
         "serviceCode": "ws-calculator",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5561,
+        "name": "Change In Property",
+        "url": "/property-services/property/changeInProperty",
+        "displayName": "Change In Property",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }
