@@ -538,18 +538,6 @@
           "name": "creationReason",
           "path": "Data.creationReason.keyword",
           "isMandatory": false
-        },
-        {
-          "name": "fromDate",
-          "path": "Data.auditDetails.createdTime",
-          "isMandatory": false,
-          "operator": "GTE"
-        },
-        {
-          "name": "toDate",
-          "path": "Data.auditDetails.createdTime",
-          "isMandatory": false,
-          "operator": "LTE"
         }
       ],
       "sortBy": {
