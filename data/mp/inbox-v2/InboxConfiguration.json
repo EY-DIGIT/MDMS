@@ -554,7 +554,8 @@
         "Data.workflow",
         "Data.locality",
         "Data.owners",
-        "Data.publishedOn"
+        "Data.publishedOn",
+        "Data.creationReason"
       ]
     },
     {
