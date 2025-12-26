@@ -555,7 +555,8 @@
         "Data.locality",
         "Data.owners",
         "Data.publishedOn",
-        "Data.creationReason"
+        "Data.creationReason",
+        "Data.status"
       ]
     },
     {
