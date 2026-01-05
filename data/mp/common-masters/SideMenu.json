@@ -37,12 +37,7 @@
                 "URL": "/digit-ui/employee/pt/search",
                 "Icon": "cashDeskIcon"
               },
-              "change in property": {
-                "Name": "Change in property",
-                "ROLE": "billcollector",
-                "URL": "/change-property",
-                "Icon": "changeIcon"
-              },
+             
               "New Property": {
                 "Name":"New Property",
                 "ROLE": "billcollector",
