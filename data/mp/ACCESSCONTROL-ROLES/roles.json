@@ -1127,6 +1127,16 @@
       "code": "MT_Sub_Engineer",
       "name": "Sub Engineer MT",
       "description": "Sub Engineer Mobile Toilet"
+    },
+    {
+      "code": "Zone_Officer",
+      "name": "Zone Officer",
+      "description": "Zone Officer for Shop Signage"
+    },
+     {
+      "code": "ADC",
+      "name": "ADC",
+      "description": "ADC for Shop Signage"
     }
   ]
 }
