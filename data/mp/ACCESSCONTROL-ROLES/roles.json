@@ -1131,12 +1131,12 @@
     {
       "code": "Zone_Officer",
       "name": "Zone Officer",
-      "description": "Zone Officer for Shop Signage"
+      "description": "Zone Officer for hoarding license"
     },
      {
       "code": "ADC",
-      "name": "ADC",
-      "description": "ADC for Shop Signage"
+      "name": "Additional Commissioner",
+      "description": "ADC for hoarding license"
     }
   ]
 }
