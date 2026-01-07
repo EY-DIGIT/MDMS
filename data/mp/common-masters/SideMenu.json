@@ -64,7 +64,7 @@
                                         "URL": "/digit-ui/employee/pt/search",
                                         "Icon": "cashDesk"
                                     },
-                                    "CHANGE_IN_PROPERTY": {
+									  "CHANGE_IN_PROPERTY": {
                                         "Name": "CHANGE_IN_PROPERTY",
                                         "ROLE": [
                                             "billcollector",
@@ -73,6 +73,7 @@
                                         "URL": "/digit-ui/employee/pt/SearchChangePropertyApp",
                                         "Icon": "changeIcon"
                                     },
+                                  
                                     "NEW_PROPERTY": {
                                         "Name": "NEW_PROPERTY",
                                         "ROLE": [

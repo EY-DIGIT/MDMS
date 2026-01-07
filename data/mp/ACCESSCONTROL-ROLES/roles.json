@@ -1127,6 +1127,16 @@
       "code": "MT_Sub_Engineer",
       "name": "Sub Engineer MT",
       "description": "Sub Engineer Mobile Toilet"
+    },
+    {
+      "code": "Zone_Officer",
+      "name": "Zone Officer",
+      "description": "Zone Officer for hoarding license"
+    },
+     {
+      "code": "ADC",
+      "name": "Additional Commissioner",
+      "description": "ADC for hoarding license"
     }
   ]
 }
