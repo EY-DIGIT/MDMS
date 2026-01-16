@@ -1,0 +1,21 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ws-services-calculation",
+  "PropertyUsageType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "isActive": true
+    },
+{
+     "name": "Commercial",
+      "code": "COMMERCIAL",
+      "isActive": true
+    },
+{
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "isActive": true
+    }
+  ]
+}
