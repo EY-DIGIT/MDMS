@@ -1137,6 +1137,16 @@
       "code": "ADC",
       "name": "Additional Commissioner",
       "description": "ADC for hoarding license"
+    },
+     {
+      "code": "ZONE_OFFICER_DEBRIS",
+      "name": "Zone Officer Debris Collection",
+      "description": "Debris Collection Zone officer"
+    },
+     {
+      "code": "SUB_ENGINEER_DC",
+      "name": "Sub Engineer DC",
+      "description": "Sub Engineer/Building Inspector"
     }
   ]
 }
