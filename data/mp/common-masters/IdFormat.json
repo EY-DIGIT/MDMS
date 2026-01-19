@@ -848,7 +848,7 @@
       "idname": "individual.id"
     },
 	 {
-      "format": "[ULB][YY][ZONE][WARD][SEQ_EG_PT_PTID]",
+      "format": "I[ZONE][WARD][SEQ_EG_PT_PTID]",
       "idname": "pt.propertyid.imc"
     },
 	{

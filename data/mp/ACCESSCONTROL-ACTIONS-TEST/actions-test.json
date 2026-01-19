@@ -20981,6 +20981,17 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 5562,
+      "name": "Collection Delete Reciept",
+      "url": "/collection-services/payments/_delete",
+      "displayName": "Delete paymentt",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
