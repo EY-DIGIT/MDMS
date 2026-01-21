@@ -505,6 +505,24 @@
                                     "isExternal": true
                                 }
                             },
+							 "Request_FOR_SHOP_SIGNAGE": {
+                                "metadata": {
+                                    "Name": "Request For Shop Signage",
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "amusement_icon",
+                                    "URL": "dashboard/citizen-services?service=32",
+                                    "other_data": "Auditorium public request",
+                                    "metadata": "Auditorium metadata",
+                                    "isExternal": true
+                                }
+                            },
                             "DEATH": {
                                 "metadata": {
                                     "ROLE": [
