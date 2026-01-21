@@ -505,7 +505,7 @@
                                     "isExternal": true
                                 }
                             },
-							 "Request_FOR_SHOP_SIGNAGE": {
+							 "REQUEST_FOR_SHOP_SIGNAGE": {
                                 "metadata": {
                                     "Name": "Request For Shop Signage",
                                     "ROLE": [
