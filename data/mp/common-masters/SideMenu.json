@@ -82,7 +82,16 @@
                                         ],
                                         "URL": "/digit-ui/employee/pt/PropertyLandingPage",
                                         "Icon": "newPropertyIcon"
-                                    }
+                                    },
+									 "ARREAR_CORRECTION_POSTING": {
+                                        "Name": "ARREAR_CORRECTION_POSTING",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/ArrearCorrectionLandingPage",
+                                        "Icon": "newPropertyIcon"
+                                    },
                                 }
                             },
                             "RENTAL": {
