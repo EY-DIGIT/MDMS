@@ -114,7 +114,32 @@
                                     "matadata": "Rental metadata",
                                     "isExternal": true
                                 },
-                                "SUB_MENU": {}
+                                 "SUB_MENU": {
+                                    "MARKET": {
+                                        "Name": "MARKET",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee",
+                                            "citizen"
+                                        ],
+                                        "URL": "dashboard/rental",
+                                        "Icon": "rental_1"
+                                    },
+                                    "GUMTI": {
+                                        "Name": "GUMTI",
+                                        "ROLE": [
+                                            "employee",
+                                            "citizen"
+                                        ],
+                                        "URL": "dashboard/rental-gumti",
+                                        "Icon": "rental_1"
+                                    }
+									 
+                                  
+                                   
+									
+                                }
                             },
                             "FINANCE": {
                                 "metadata": {
