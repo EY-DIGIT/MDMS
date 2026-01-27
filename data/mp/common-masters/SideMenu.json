@@ -112,7 +112,7 @@
                                     },
                                     "other_data": "Rental services",
                                     "matadata": "Rental metadata",
-                                    "isExternal": true
+                                    "isExternal": false
                                 },
                                  "SUB_MENU": {
                                     "MARKET": {
