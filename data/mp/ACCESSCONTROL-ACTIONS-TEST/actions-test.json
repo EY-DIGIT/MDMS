@@ -20992,6 +20992,29 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+        "id": 5563,
+        "name": "Arrear Correction API",
+        "url": "/pt-calculator-v2/propertytax/_postarrear",
+        "displayName": "Arrear Correction",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "pt-calculator-v2",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5564,
+        "name": "Update Arrear Correction Flag",
+        "url": "/property-services/property/updatearrearflag",
+        "displayName": "Arrear Correction Flag",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }

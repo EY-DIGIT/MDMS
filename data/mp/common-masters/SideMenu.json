@@ -82,6 +82,15 @@
                                         ],
                                         "URL": "/digit-ui/employee/pt/PropertyLandingPage",
                                         "Icon": "newPropertyIcon"
+                                    },
+									 "ARREAR_CORRECTION_POSTING": {
+                                        "Name": "ARREAR_CORRECTION_POSTING",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/ArrearCorrectionLandingPage",
+                                        "Icon": "newPropertyIcon"
                                     }
                                 }
                             },
@@ -103,9 +112,34 @@
                                     },
                                     "other_data": "Rental services",
                                     "matadata": "Rental metadata",
-                                    "isExternal": true
+                                    "isExternal": false
                                 },
-                                "SUB_MENU": {}
+                                 "SUB_MENU": {
+                                    "MARKET": {
+                                        "Name": "MARKET",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee",
+                                            "citizen"
+                                        ],
+                                        "URL": "dashboard/rental",
+                                        "Icon": "rental_1"
+                                    },
+                                    "GUMTI": {
+                                        "Name": "GUMTI",
+                                        "ROLE": [
+                                            "employee",
+                                            "citizen"
+                                        ],
+                                        "URL": "dashboard/rental-gumti",
+                                        "Icon": "rental_1"
+                                    }
+									 
+                                  
+                                   
+									
+                                }
                             },
                             "FINANCE": {
                                 "metadata": {
@@ -500,6 +534,24 @@
                                     ],
                                     "Icon": "amusement_icon",
                                     "URL": "dashboard/citizen-services?service=26",
+                                    "other_data": "Auditorium public request",
+                                    "metadata": "Auditorium metadata",
+                                    "isExternal": true
+                                }
+                            },
+							 "REQUEST_FOR_SHOP_SIGNAGE": {
+                                "metadata": {
+                                    "Name": "Request For Shop Signage",
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "amusement_icon",
+                                    "URL": "dashboard/citizen-services?service=32",
                                     "other_data": "Auditorium public request",
                                     "metadata": "Auditorium metadata",
                                     "isExternal": true
