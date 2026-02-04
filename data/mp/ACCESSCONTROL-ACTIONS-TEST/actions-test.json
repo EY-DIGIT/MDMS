@@ -21015,6 +21015,17 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5565,
+        "name": "Fetch Payment Reports",
+        "url": "/collection-services/payments/_paymentreport",
+        "displayName": "Payment Reports",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "COLLECTION",
+        "code": "null",
+        "path": ""
     }
   ]
 }
