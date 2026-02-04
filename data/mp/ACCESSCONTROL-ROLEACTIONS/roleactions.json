@@ -33803,6 +33803,60 @@
       "actionid": 5565,
       "actioncode": "",
       "tenantId": "mp"
-  }
+  },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5566,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5567,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5568,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 5567,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 5568,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 5567,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 5568,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 5567,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 5568,
+      "actioncode": "",
+      "tenantId": "mp"
+    }
   ]
 }

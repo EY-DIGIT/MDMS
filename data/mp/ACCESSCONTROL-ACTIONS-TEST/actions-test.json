@@ -21026,6 +21026,39 @@
         "serviceCode": "COLLECTION",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5566,
+        "name": "Create Property Bifurcation",
+        "url": "/property-services/property/bifurcation/_create",
+        "displayName": "Create Property Bifurcation",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5567,
+        "name": "Update Property Bifurcation",
+        "url": "/property-services/property/bifurcation/_update",
+        "displayName": "Update Property Bifurcation",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5568,
+        "name": "Search Property Bifurcation",
+        "url": "/property-services/property/bifurcation/_search",
+        "displayName": "Search Property Bifurcation",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }
