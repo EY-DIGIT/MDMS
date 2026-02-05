@@ -41,6 +41,16 @@
       "name": "Public Relations",
       "code": "PR",
       "active": true
+    },
+    {
+      "name": "Streetlight",
+      "code": "DEPT_1",
+      "active": true
+    },
+    {
+      "name": "Garbage",
+      "code": "DEPT_3",
+      "active": true
     }
   ]
 }
