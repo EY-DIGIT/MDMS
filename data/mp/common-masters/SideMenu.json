@@ -64,6 +64,14 @@
                                         "URL": "/digit-ui/employee/pt/search",
                                         "Icon": "cashDesk"
                                     },
+									 "COLLECTION_REPORT": {
+                                        "Name": "COLLECTION_REPORT",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/ReportCashier",
+                                        "Icon": "cashDesk"
+                                    },
 									  "CHANGE_IN_PROPERTY": {
                                         "Name": "CHANGE_IN_PROPERTY",
                                         "ROLE": [
