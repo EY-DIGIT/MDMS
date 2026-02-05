@@ -21015,6 +21015,62 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5565,
+        "name": "Fetch Payment Reports",
+        "url": "/collection-services/payments/_paymentreport",
+        "displayName": "Payment Reports",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "COLLECTION",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5566,
+        "name": "Create Property Bifurcation",
+        "url": "/property-services/property/bifurcation/_create",
+        "displayName": "Create Property Bifurcation",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5567,
+        "name": "Update Property Bifurcation",
+        "url": "/property-services/property/bifurcation/_update",
+        "displayName": "Update Property Bifurcation",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5568,
+        "name": "Search Property Bifurcation",
+        "url": "/property-services/property/bifurcation/_search",
+        "displayName": "Search Property Bifurcation",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 5569,
+        "name": "Calculate Tax",
+        "url": "/pt-calculator-v2/propertytax/v2/_calculateTax",
+        "displayName": "Tax Calculator",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "pt-calculator-v2",
+        "code": "null",
+        "path": ""
     }
   ]
 }

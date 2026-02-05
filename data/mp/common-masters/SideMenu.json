@@ -1,4 +1,4 @@
-{
+ {
     "tenantId": "mp",
     "moduleName": "common-masters",
     "SideMenu": [
@@ -62,6 +62,14 @@
                                             "employee"
                                         ],
                                         "URL": "/digit-ui/employee/pt/search",
+                                        "Icon": "cashDesk"
+                                    },
+									 "COLLECTION_REPORT": {
+                                        "Name": "COLLECTION_REPORT",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/ReportCashier",
                                         "Icon": "cashDesk"
                                     },
 									  "CHANGE_IN_PROPERTY": {
@@ -481,6 +489,23 @@
                                     ],
                                     "Icon": "debris_icon",
                                     "URL": "dashboard/citizen-services?service=31",
+                                    "other_data": "Debris collection request",
+                                    "metadata": "Debris metadata",
+                                    "isExternal": true
+                                }
+                            },
+							"TREE_CUTTING": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "debris_icon",
+                                    "URL": "dashboard/citizen-services?service=34",
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
                                     "isExternal": true
