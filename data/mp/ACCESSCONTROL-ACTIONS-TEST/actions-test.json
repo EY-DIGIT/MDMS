@@ -21059,6 +21059,18 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5569,
+        "name": "Calculate Tax",
+        "url": "/pt-calculator-v2/propertytax/v2/_calculateTax",
+        "displayName": "Tax Calculator",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "pt-calculator-v2",
+        "code": "null",
+        "path": ""
     }
   ]
 }
