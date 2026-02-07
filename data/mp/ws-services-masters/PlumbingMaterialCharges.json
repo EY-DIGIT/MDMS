@@ -4,7 +4,7 @@
   "PlumbingMaterialCharges": [
     {
 	  "code": "EXCAVATION-1",
-      "description": "(6 Length X0.45 Width X0.4 Depth)- without CC",
+      "description": "Excavation -(6 Length X0.45 Width X0.4 Depth)- without CC",
       "unit": "CUM",
       "rate": 151.00,
 	  "quantity": 1.08,
@@ -12,7 +12,7 @@
     },
 	{
 	  "code": "EXCAVATION-2",
-      "description": "(6 Length X0.45 Width X0.6 Depth)- With CC",
+      "description": "Excavation -(6 Length X0.45 Width X0.6 Depth)- With CC",
       "unit": "CUM",
       "rate": 151.00,
 	  "quantity": 1.62,
@@ -20,7 +20,7 @@
     },
 	{
 	  "code": "EXCAVATION-3",
-      "description": "(3 Length X0.45 Width X0.4 Depth)- Without CC",
+      "description": "Excavation -(3 Length X0.45 Width X0.4 Depth)- Without CC",
       "unit": "CUM",
       "rate": 151.00,
 	  "quantity": 0.54,
@@ -28,14 +28,14 @@
     },
 	{
 	  "code": "EXCAVATION-4",
-      "description": "(3 Length X0.45 Width X0.6 Depth)- With CC",
+      "description": "Excavation -(3 Length X0.45 Width X0.6 Depth)- With CC",
       "unit": "CUM",
       "rate": 151.00,
 	  "quantity": 0.81,
 	  "connectionType": "FLAT"
     },{
 	  "code": "FILLING-1",
-      "description": "(6 Length X0.45 Width X0.4 Depth)- without CC",
+      "description": "Filling -(6 Length X0.45 Width X0.4 Depth)- without CC",
       "unit": "CUM",
       "rate": 89.00,
 	  "quantity": 1.08,
@@ -43,7 +43,7 @@
     },
 	{
 	  "code": "FILLING-2",
-      "description": "(6 Length X0.45 Width X0.6 Depth)- With CC",
+      "description": "Filling -(6 Length X0.45 Width X0.6 Depth)- With CC",
       "unit": "CUM",
       "rate": 89.00,
 	  "quantity": 1.62,
@@ -51,7 +51,7 @@
     },
 	{
 	  "code": "FILLING-3",
-      "description": "(3 Length X0.45 Width X0.4 Depth)- Without CC",
+      "description": "Filling -(3 Length X0.45 Width X0.4 Depth)- Without CC",
       "unit": "CUM",
       "rate": 89.00,
 	  "quantity": 0.54,
@@ -59,7 +59,7 @@
     },
 	{
 	  "code": "FILLING-4",
-      "description": "(3 Length X0.45 Width X0.6 Depth)- With CC",
+      "description": "Filling -(3 Length X0.45 Width X0.6 Depth)- With CC",
       "unit": "CUM",
       "rate": 89.00,
 	  "quantity": 0.81,
@@ -67,7 +67,7 @@
     },
 	{
 	  "code": "WATERMETER-1",
-      "description": "15 mm dia.",
+      "description": "Watermeter - 15 mm dia.",
       "unit": "NUM",
       "rate": 1323.00,
 	  "quantity": 1,
@@ -75,7 +75,7 @@
     },
 	{
 	  "code": "METERBOX-1",
-      "description": "Meter Box",
+      "description": "Meterbox - Meter Box",
       "unit": "NUM",
       "rate": 1323.00,
 	  "quantity": 1,
@@ -83,7 +83,7 @@
     },
 	{
 	  "code": "BLUEMDPEPIPES-1",
-      "description": "20 mm dia Medium class - 6 meters",
+      "description": "Bluemdpe Pipes - 20 mm dia Medium class - 6 meters",
       "unit": "MTR",
       "rate": 38.00,
 	  "quantity": 6,
@@ -91,7 +91,7 @@
     },
 	{
 	  "code": "BLUEMDPEPIPES-2",
-      "description": "20 mm dia Medium class - 3 meters",
+      "description": "Bluemdpe Pipes - 20 mm dia Medium class - 3 meters",
       "unit": "MTR",
       "rate": 38.00,
 	  "quantity": 3,
@@ -99,7 +99,7 @@
     },
 	{
 	  "code": "BRANCHTAPESADDLE-1",
-      "description": "110x 15 mm",
+      "description": "Branch Tape Saddle - 110x 15 mm",
       "unit": "NUM",
       "rate": 1129.00,
 	  "quantity": 1,
@@ -107,7 +107,7 @@
     },
 	{
 	  "code": "BRANCHTAPESADDLE-2",
-      "description": "160x 15 mm",
+      "description": "Branch Tape Saddle - 160x 15 mm",
       "unit": "NUM",
       "rate": 1129.00,
 	  "quantity": 1,
@@ -115,7 +115,7 @@
     },
 	{
 	  "code": "CLAMPSADDLE-1",
-      "description": "100 NB X 15mm, 20mm, 25mm",
+      "description": "Clamp Saddle - 100 NB X 15mm, 20mm, 25mm",
       "unit": "NUM",
       "rate": 1366.00,
 	  "quantity": 1,
@@ -123,7 +123,7 @@
     },
 	{
 	  "code": "CLAMPSADDLE-2",
-      "description": "150 NB X 15mm, 20mm, 25mm",
+      "description": "Clamp Saddle - 150 NB X 15mm, 20mm, 25mm",
       "unit": "NUM",
       "rate": 1612.00,
 	  "quantity": 1,
@@ -131,7 +131,7 @@
     },
 	{
 	  "code": "BALLVALVE-1",
-      "description": "15mm",
+      "description": "Ball Valve - 15mm",
       "unit": "NUM",
       "rate": 157.00,
 	  "quantity": 1,
@@ -179,7 +179,7 @@
     },
 	{
 	  "code": "ROADRESTORATION-1",
-      "description": "Road restoration - Demolishing C.C/RCC - 6 Mtr. Length",
+      "description": "Road Restoration - Demolishing C.C/RCC - 6 Mtr. Length",
       "unit": "CUM",
       "rate": 534.00,
 	  "quantity": 0.54,
@@ -187,7 +187,7 @@
     },
 	{
 	  "code": "ROADRESTORATION-2",
-      "description": "Road restoration - Demolishing C.C/RCC - 3 Mtr. Length",
+      "description": "Road Restoration - Demolishing C.C/RCC - 3 Mtr. Length",
       "unit": "CUM",
       "rate": 534.00,
 	  "quantity": 0.27,
@@ -195,7 +195,7 @@
     },
 	{
 	  "code": "ROADRESTORATION-3",
-      "description": "Road restoration - Cement Concrete grade M-20 - 6 Mtr. Length",
+      "description": "Road Restoration - Cement Concrete grade M-20 - 6 Mtr. Length",
       "unit": "CUM",
       "rate": 5178.00,
 	  "quantity": 0.54,
@@ -203,7 +203,7 @@
     },
 	{
 	  "code": "ROADRESTORATION-4",
-      "description": "Road restoration - Cement Concrete grade M-20 - 3 Mtr. Length",
+      "description": "Road Restoration - Cement Concrete grade M-20 - 3 Mtr. Length",
       "unit": "CUM",
       "rate": 5178.00,
 	  "quantity": 0.27,
@@ -211,7 +211,7 @@
     },
 	{
 	  "code": "OTHERS-1",
-      "description": "Total Payment",
+      "description": "Other Payment for Bulk Connection",
       "unit": "ONE",
       "rate": 0,
 	  "quantity": 0,
