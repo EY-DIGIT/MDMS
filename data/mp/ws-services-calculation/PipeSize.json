@@ -57,26 +57,6 @@
 	  "unit": "inch",
       "size": "6",
       "isActive": true
-    },
-    {
-      "id": "6",
-       "size":2,
-      "isActive": true
-    },
-    {
-      "id": "7",
-       "size":3,
-      "isActive": true
-    },
-    {
-      "id": "8",
-       "size":4,
-      "isActive": true
-    },
-    {
-      "id": "9",
-       "size":6,
-      "isActive": true
     }
   ]
 }
