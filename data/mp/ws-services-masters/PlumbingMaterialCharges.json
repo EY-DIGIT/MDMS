@@ -68,7 +68,7 @@
 	{
 	  "code": "WATERMETER-1",
       "description": "Watermeter - 15 mm dia.",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 1323.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -76,7 +76,7 @@
 	{
 	  "code": "METERBOX-1",
       "description": "Meterbox - Meter Box",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 1323.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -100,7 +100,7 @@
 	{
 	  "code": "BRANCHTAPESADDLE-1",
       "description": "Branch Tape Saddle - 110x 15 mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 1129.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -108,7 +108,7 @@
 	{
 	  "code": "BRANCHTAPESADDLE-2",
       "description": "Branch Tape Saddle - 160x 15 mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 1129.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -116,7 +116,7 @@
 	{
 	  "code": "CLAMPSADDLE-1",
       "description": "Clamp Saddle - 100 NB X 15mm, 20mm, 25mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 1366.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -124,7 +124,7 @@
 	{
 	  "code": "CLAMPSADDLE-2",
       "description": "Clamp Saddle - 150 NB X 15mm, 20mm, 25mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 1612.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -132,7 +132,7 @@
 	{
 	  "code": "BALLVALVE-1",
       "description": "Ball Valve - 15mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 157.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -140,7 +140,7 @@
 	{
 	  "code": "COMPRESSIONFITTING-1",
       "description": "Compression Fitting - Compression Female (FTA) - 20x15 mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 193.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -148,7 +148,7 @@
 	{
 	  "code": "COMPRESSIONFITTING-2",
       "description": "Compression Fitting - Compersion 90 deg. elbow - 15 mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 126.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -156,7 +156,7 @@
 	{
 	  "code": "COMPRESSIONFITTING-3",
       "description": "Compression Fitting - Male Threaded Adopter - 15 mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 193.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
@@ -164,7 +164,7 @@
 	{
 	  "code": "COMPRESSIONFITTING-4",
       "description": "Compression Fitting - Brass Fesrrules - 15 mm",
-      "unit": "NUM",
+      "unit": "PCS",
       "rate": 416.00,
 	  "quantity": 1,
 	  "connectionType": "FLAT"
