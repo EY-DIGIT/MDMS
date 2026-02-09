@@ -1,6 +1,6 @@
 {
   "tenantId": "mp",
-  "moduleName": "ws-services-masters",
+  "moduleName": "ws-services-calculation",
   "PlumbingMaterialCharges": [
     {
 	  "code": "EXCAVATION-1",
