@@ -1182,6 +1182,11 @@
       "code": "SUB_ENGINEER_WT",
       "name": "Sub Engineer WT",
       "description": "Sub Engineer for Water Tanker"
+    },
+    {
+      "code": "BILLCOUNTER",
+      "name": "Bill Counter",
+      "description": "cashier who collect cash"
     }
   ]
 }
