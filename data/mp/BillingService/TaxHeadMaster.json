@@ -5964,6 +5964,17 @@
       "IsBillamend": true
     },
     {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Plumbing Material Charges",
+      "code": "WS_PLUMBING_MATERIAL_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
       "category": "FEE",
       "service": "WS",
       "name": "Water New Connection Form Charges",

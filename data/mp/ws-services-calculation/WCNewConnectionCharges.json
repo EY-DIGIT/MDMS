@@ -9,7 +9,8 @@
       "connectionSize": "0.50",
       "charges": 2500,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "connectionSize": "0.75",
       "charges": 3750,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "3",
@@ -27,7 +29,8 @@
       "connectionSize": "1",
       "charges": 5000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "4",
@@ -36,7 +39,8 @@
       "connectionSize": "1.50",
       "charges": 15000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "5",
@@ -45,7 +49,8 @@
       "connectionSize": "2",
       "charges": 20000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "6",
@@ -54,7 +59,8 @@
       "connectionSize": "3",
       "charges": 30000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "7",
@@ -63,7 +69,8 @@
       "connectionSize": "4",
       "charges": 45000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "8",
@@ -72,7 +79,8 @@
       "connectionSize": "6",
       "charges": 90000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "9",
@@ -81,7 +89,8 @@
       "connectionSize": "0.50",
       "charges": 2500,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "10",
@@ -90,7 +99,8 @@
       "connectionSize": "0.50",
       "charges": 1000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "11",
@@ -99,7 +109,8 @@
       "connectionSize": "0.50",
       "charges": 2500,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "12",
@@ -108,7 +119,8 @@
       "connectionSize": "0.75",
       "charges": 3750,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "13",
@@ -117,7 +129,8 @@
       "connectionSize": "1",
       "charges": 10000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "14",
@@ -126,7 +139,8 @@
       "connectionSize": "1.50",
       "charges": 22500,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "15",
@@ -135,7 +149,8 @@
       "connectionSize": "2",
       "charges": 40000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "16",
@@ -144,7 +159,8 @@
       "connectionSize": "3",
       "charges": 90000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "17",
@@ -153,7 +169,8 @@
       "connectionSize": "4",
       "charges": 160000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     },
     {
       "id": "18",
@@ -162,7 +179,8 @@
       "connectionSize": "6",
       "charges": 360000,
 	  "serviceCharges": 5,
-      "formCharges": 50
+      "formCharges": 50,
+      "financialYear": "2025-26"
     }
   ]
 }

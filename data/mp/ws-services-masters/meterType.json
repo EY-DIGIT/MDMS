@@ -1,0 +1,12 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ws-services-masters",
+  "meterType":  [
+    {
+      "name": "ISO 4064 AMR",
+      "code": "ISO 4064 AMR",
+	  "meterConstant": "1000",
+      "active": true
+    }
+  ]
+}

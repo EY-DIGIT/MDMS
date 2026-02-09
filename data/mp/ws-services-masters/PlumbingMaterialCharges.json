@@ -1,0 +1,221 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ws-services-masters",
+  "PlumbingMaterialCharges": [
+    {
+	  "code": "EXCAVATION-1",
+      "description": "Excavation -(6 Length X0.45 Width X0.4 Depth)- without CC",
+      "unit": "CUM",
+      "rate": 151.00,
+	  "quantity": 1.08,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "EXCAVATION-2",
+      "description": "Excavation -(6 Length X0.45 Width X0.6 Depth)- With CC",
+      "unit": "CUM",
+      "rate": 151.00,
+	  "quantity": 1.62,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "EXCAVATION-3",
+      "description": "Excavation -(3 Length X0.45 Width X0.4 Depth)- Without CC",
+      "unit": "CUM",
+      "rate": 151.00,
+	  "quantity": 0.54,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "EXCAVATION-4",
+      "description": "Excavation -(3 Length X0.45 Width X0.6 Depth)- With CC",
+      "unit": "CUM",
+      "rate": 151.00,
+	  "quantity": 0.81,
+	  "connectionType": "FLAT"
+    },{
+	  "code": "FILLING-1",
+      "description": "Filling -(6 Length X0.45 Width X0.4 Depth)- without CC",
+      "unit": "CUM",
+      "rate": 89.00,
+	  "quantity": 1.08,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "FILLING-2",
+      "description": "Filling -(6 Length X0.45 Width X0.6 Depth)- With CC",
+      "unit": "CUM",
+      "rate": 89.00,
+	  "quantity": 1.62,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "FILLING-3",
+      "description": "Filling -(3 Length X0.45 Width X0.4 Depth)- Without CC",
+      "unit": "CUM",
+      "rate": 89.00,
+	  "quantity": 0.54,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "FILLING-4",
+      "description": "Filling -(3 Length X0.45 Width X0.6 Depth)- With CC",
+      "unit": "CUM",
+      "rate": 89.00,
+	  "quantity": 0.81,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "WATERMETER-1",
+      "description": "Watermeter - 15 mm dia.",
+      "unit": "PCS",
+      "rate": 1323.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "METERBOX-1",
+      "description": "Meterbox - Meter Box",
+      "unit": "PCS",
+      "rate": 1323.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "BLUEMDPEPIPES-1",
+      "description": "Bluemdpe Pipes - 20 mm dia Medium class - 6 meters",
+      "unit": "MTR",
+      "rate": 38.00,
+	  "quantity": 6,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "BLUEMDPEPIPES-2",
+      "description": "Bluemdpe Pipes - 20 mm dia Medium class - 3 meters",
+      "unit": "MTR",
+      "rate": 38.00,
+	  "quantity": 3,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "BRANCHTAPESADDLE-1",
+      "description": "Branch Tape Saddle - 110x 15 mm",
+      "unit": "PCS",
+      "rate": 1129.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "BRANCHTAPESADDLE-2",
+      "description": "Branch Tape Saddle - 160x 15 mm",
+      "unit": "PCS",
+      "rate": 1129.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "CLAMPSADDLE-1",
+      "description": "Clamp Saddle - 100 NB X 15mm, 20mm, 25mm",
+      "unit": "PCS",
+      "rate": 1366.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "CLAMPSADDLE-2",
+      "description": "Clamp Saddle - 150 NB X 15mm, 20mm, 25mm",
+      "unit": "PCS",
+      "rate": 1612.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "BALLVALVE-1",
+      "description": "Ball Valve - 15mm",
+      "unit": "PCS",
+      "rate": 157.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "COMPRESSIONFITTING-1",
+      "description": "Compression Fitting - Compression Female (FTA) - 20x15 mm",
+      "unit": "PCS",
+      "rate": 193.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "COMPRESSIONFITTING-2",
+      "description": "Compression Fitting - Compersion 90 deg. elbow - 15 mm",
+      "unit": "PCS",
+      "rate": 126.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "COMPRESSIONFITTING-3",
+      "description": "Compression Fitting - Male Threaded Adopter - 15 mm",
+      "unit": "PCS",
+      "rate": 193.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "COMPRESSIONFITTING-4",
+      "description": "Compression Fitting - Brass Fesrrules - 15 mm",
+      "unit": "PCS",
+      "rate": 416.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "COMPRESSIONFITTING-5",
+      "description": "Compression Fitting - Galvanised Iron Pipes",
+      "unit": "RMT",
+      "rate": 113.00,
+	  "quantity": 1,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "ROADRESTORATION-1",
+      "description": "Road Restoration - Demolishing C.C/RCC - 6 Mtr. Length",
+      "unit": "CUM",
+      "rate": 534.00,
+	  "quantity": 0.54,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "ROADRESTORATION-2",
+      "description": "Road Restoration - Demolishing C.C/RCC - 3 Mtr. Length",
+      "unit": "CUM",
+      "rate": 534.00,
+	  "quantity": 0.27,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "ROADRESTORATION-3",
+      "description": "Road Restoration - Cement Concrete grade M-20 - 6 Mtr. Length",
+      "unit": "CUM",
+      "rate": 5178.00,
+	  "quantity": 0.54,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "ROADRESTORATION-4",
+      "description": "Road Restoration - Cement Concrete grade M-20 - 3 Mtr. Length",
+      "unit": "CUM",
+      "rate": 5178.00,
+	  "quantity": 0.27,
+	  "connectionType": "FLAT"
+    },
+	{
+	  "code": "OTHERS-1",
+      "description": "Other Payment for Bulk Connection",
+      "unit": "ONE",
+      "rate": 0,
+	  "quantity": 0,
+	  "connectionType": "METERED"
+    }
+  ]
+}
