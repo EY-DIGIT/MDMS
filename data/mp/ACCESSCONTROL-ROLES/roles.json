@@ -1184,6 +1184,26 @@
       "description": "Sub Engineer for Water Tanker"
     },
     {
+      "code": "WS_EE",
+      "name": "WS_EE",
+      "description": "EXECUTIVE ENGINEER"
+    },
+    {
+      "code": "WS_AE",
+      "name": "WS_AE",
+      "description": "ASISTANT ENGINEER"
+    },
+    {
+      "code": "WS_SE",
+      "name": "WS_SE",
+      "description": "SERVICE ENGINEER"
+    },
+    {
+      "code": "WS_ADDCOM",
+      "name": "WS_ADDCOM",
+      "description": "ADDITIONAL COMMISSIONER"
+	},
+	{
       "code": "BILLCOUNTER",
       "name": "Bill Counter",
       "description": "cashier who collect cash"
