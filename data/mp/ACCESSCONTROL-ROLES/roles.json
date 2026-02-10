@@ -1202,11 +1202,16 @@
       "code": "WS_ADDCOM",
       "name": "WS_ADDCOM",
       "description": "ADDITIONAL COMMISSIONER"
-	},
-	{
+    },
+    {
       "code": "BILLCOUNTER",
       "name": "Bill Counter",
       "description": "cashier who collect cash"
+    },
+    {
+      "code": "ASSISTANT_ENGINEER",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer"
     }
   ]
 }
