@@ -1052,6 +1052,166 @@
       "code": "ARO_RENTAL",
       "name": "ARO Rental",
       "description": "ARO Rental"
+    },
+    {
+      "code": "Bill_Collector_Rental",
+      "name": "Bill Collector Rental",
+      "description": "Bill Collector Rental"
+    },
+    {
+      "code": "Ward_Officer",
+      "name": "Ward Officer",
+      "description": "Ward Officer"
+    },
+    {
+      "code": "Health_Officer",
+      "name": "Health Officer",
+      "description": "Health Officer"
+    },
+    {
+      "code": "Kotak_User",
+      "name": "Kotak_User",
+      "description": "Kotak User"
+    },
+    {
+      "code": "IMCCOUNTER",
+      "name": "IMCCOUNTER",
+      "description": "IMC COUNTER USER"
+    },
+    {
+      "code": "AE_DEV",
+      "name": "AE_DEV",
+      "description": "ASISTANT ENGINEER"
+    },
+    {
+      "code": "SE_DEV",
+      "name": "SE_DEV",
+      "description": "SERVICE ENGINEER"
+    },
+    {
+      "code": "ADDCOM_DEV",
+      "name": "ADDCOM_DEV",
+      "description": "ADDITIONAL COMMISSIONER"
+    },
+    {
+      "code": "CASHIER",
+      "name": "CASHIER",
+      "description": "CASHIER"
+    },
+    {
+      "code": "BND_APPROVER",
+      "name": "Birth & Death Approver",
+      "description": "Birth & Death Approver"
+    },
+    {
+      "code": "Office_Assistant",
+      "name": "Office Assistant",
+      "description": "Office Assistant Community Hall"
+    },
+    {
+      "code": "Operation_Manager",
+      "name": "Operation Manager",
+      "description": "Operation_Manager Septic Tank"
+    },
+    {
+      "code": "Chief_Sanitary_Inspector",
+      "name": "Chief Sanitary Inspector",
+      "description": "Chief Sanitary Inspector"
+    },
+    {
+      "code": "MT_Supervisor",
+      "name": "Supervisor MT",
+      "description": "Supervisor Mobile Toilet"
+    },
+    {
+      "code": "MT_Sub_Engineer",
+      "name": "Sub Engineer MT",
+      "description": "Sub Engineer Mobile Toilet"
+    },
+    {
+      "code": "Zone_Officer",
+      "name": "Zone Officer",
+      "description": "Zone Officer for hoarding license"
+    },
+    {
+      "code": "ADC",
+      "name": "Additional Commissioner",
+      "description": "ADC for hoarding license"
+    },
+    {
+      "code": "ZONE_OFFICER_DEBRIS",
+      "name": "Zone Officer Debris Collection",
+      "description": "Debris Collection Zone officer"
+    },
+    {
+      "code": "SUB_ENGINEER_DC",
+      "name": "Sub Engineer DC",
+      "description": "Sub Engineer/Building Inspector"
+    },
+    {
+      "code": "CLERK_TREE_CUTTING",
+      "name": "Clerk (Tree Cutting)",
+      "description": "Clerk (Tree Cutting)"
+    },
+    {
+      "code": "INSPECTOR_TREE_CUTTING",
+      "name": "Inspector (Tree Cutting)",
+      "description": "Inspector (Tree Cutting)"
+    },
+    {
+      "code": "GARDEN_OFFICER_TREE_CUTTING",
+      "name": "Garden Officer (Tree Cutting)",
+      "description": "Garden Officer (Tree Cutting)"
+    },
+    {
+      "code": "DEPUTY_COMMISSIONER_TREE_CUTTING",
+      "name": "Deputy Commissioner (Tree Cutting)",
+      "description": "Deputy Commissioner (Tree Cutting)"
+    },
+    {
+      "code": "ADDITIONAL_COMMISSIONER_TREE_CUTTING",
+      "name": "Additional Commissioner (Tree Cutting)",
+      "description": "Additional Commissioner (Tree Cutting)"
+    },
+    {
+      "code": "COMMISSIONER_TREE_CUTTING",
+      "name": "Commissioner (Tree Cutting)",
+      "description": "Commissioner (Tree Cutting)"
+    },
+    {
+      "code": "SUB_ENGINEER_WT",
+      "name": "Sub Engineer WT",
+      "description": "Sub Engineer for Water Tanker"
+    },
+    {
+      "code": "WS_EE",
+      "name": "WS_EE",
+      "description": "EXECUTIVE ENGINEER"
+    },
+    {
+      "code": "WS_AE",
+      "name": "WS_AE",
+      "description": "ASISTANT ENGINEER"
+    },
+    {
+      "code": "WS_SE",
+      "name": "WS_SE",
+      "description": "SERVICE ENGINEER"
+    },
+    {
+      "code": "WS_ADDCOM",
+      "name": "WS_ADDCOM",
+      "description": "ADDITIONAL COMMISSIONER"
+    },
+    {
+      "code": "BILLCOUNTER",
+      "name": "Bill Counter",
+      "description": "cashier who collect cash"
+    },
+    {
+      "code": "ASSISTANT_ENGINEER",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer"
     }
   ]
 }

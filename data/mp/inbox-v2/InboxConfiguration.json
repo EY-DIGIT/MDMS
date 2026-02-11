@@ -540,16 +540,9 @@
           "isMandatory": false
         },
         {
-          "name": "fromDate",
-          "path": "Data.auditDetails.createdTime",
-          "isMandatory": false,
-          "operator": "GTE"
-        },
-        {
-          "name": "toDate",
-          "path": "Data.auditDetails.createdTime",
-          "isMandatory": false,
-          "operator": "LTE"
+          "name": "status",
+          "path": "Data.status.keyword",
+          "isMandatory": false
         }
       ],
       "sortBy": {
@@ -565,7 +558,10 @@
         "Data.propertyId",
         "Data.workflow",
         "Data.locality",
-        "Data.owners"
+        "Data.owners",
+        "Data.publishedOn",
+        "Data.creationReason",
+        "Data.status"
       ]
     },
     {

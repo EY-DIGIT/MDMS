@@ -33,7 +33,7 @@
     },
          {
       "id": "5",
-      "name": "Private Coaching Centre",
+      "name": "Private Coaching Centre (Above 50 students)",
       "code": "PRIVATECOACHINGCENTRE",
       "active": true,
       "applicableRateZone": "RateZone1"
@@ -41,7 +41,7 @@
              {
       "id": "6",
       "name": "Not Applicable",
-      "code": "N/A",
+      "code": null,
       "active": true,
       "applicableRateZone": null
     }

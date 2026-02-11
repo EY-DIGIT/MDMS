@@ -92,7 +92,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt sanitation cess",
@@ -102,7 +102,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt ptax cess",
@@ -112,7 +112,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt drainage cess",
@@ -122,7 +122,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt water charges cess",
@@ -132,7 +132,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt education cess",
@@ -142,7 +142,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt urban cess one",
@@ -152,7 +152,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Pt urban cess two",
@@ -162,7 +162,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Sewa Shulk/ Service Charge",
@@ -172,7 +172,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Property Tax",
@@ -182,7 +182,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "Net Taxable Property Value (TPV)",
@@ -192,7 +192,7 @@
       "order": "1",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "PT",
       "name": "ALV",
@@ -2236,16 +2236,6 @@
     {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
-      "name": "Water application form fee",
-      "code": "WS_FORM_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS.ONE_TIME_FEE",
       "name": "Water application scrutiny fee",
       "code": "WS_SCRUTINY_FEE",
       "isDebit": false,
@@ -2261,16 +2251,6 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application road cutting charge",
-      "code": "WS_ROAD_CUTTING_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
       "isRequired": false
     },
     {
@@ -2300,7 +2280,7 @@
       "code": "WS_OTHER_CHARGE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "6",
+      "order": "7",
       "isRequired": false
     },
     {
@@ -2310,7 +2290,7 @@
       "code": "WS_TAX_AND_CESS",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "7",
+      "order": "8",
       "isRequired": false
     },
     {
@@ -2410,7 +2390,7 @@
       "code": "SW_FEE_ROUND_OFF",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "8",
+      "order": "9",
       "isRequired": false
     },
     {
@@ -2420,7 +2400,7 @@
       "code": "WS_ADHOC_PENALTY",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "9",
+      "order": "10",
       "isRequired": false
     },
     {
@@ -2430,7 +2410,7 @@
       "code": "WS_ADHOC_REBATE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "10",
+      "order": "11",
       "isRequired": false
     },
     {
@@ -5863,7 +5843,7 @@
       "order": "1",
       "isRequired": false
     },
-     {
+    {
       "category": "TAX",
       "service": "FSM.TPRIP_CHARGES",
       "name": "FSM roundoff",
@@ -5916,29 +5896,29 @@
       "order": "6",
       "isRequired": false,
       "IsBillamend": true
-   },
-   {
-    "category": "CHARGES",
-    "service": "BIRTH_CERT.BIRTH_CERT",
-    "name": "BIRTH_CERT.BIRTH_CERT_CHARGES",
-    "code": "BIRTH_CERT.BIRTH_CERT_CHARGES",
-    "isDebit": false,
-    "isActualDemand": false,
-    "order": "0",
-    "isRequired": true,
-    "isDiscountApplicable": false
-  },
-  {
-    "category": "CHARGES",
-    "service": "DEATH_CERT",
-    "name": "DEATH_CERT_FEE",
-    "code": "DEATH_CERT_FEE",
-    "isDebit": false,
-    "isActualDemand": false,
-    "order": "0",
-    "isRequired": false,
-    "isDiscountApplicable": false
-  },
+    },
+    {
+      "category": "CHARGES",
+      "service": "BIRTH_CERT.BIRTH_CERT",
+      "name": "BIRTH_CERT.BIRTH_CERT_CHARGES",
+      "code": "BIRTH_CERT.BIRTH_CERT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true,
+      "isDiscountApplicable": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "DEATH_CERT",
+      "name": "DEATH_CERT_FEE",
+      "code": "DEATH_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "isDiscountApplicable": false
+    },
     {
       "category": "CHARGES",
       "service": "WS",
@@ -5949,6 +5929,100 @@
       "order": "3",
       "isRequired": false,
       "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Charges",
+      "code": "WS_CONNECTION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Charges",
+      "code": "WS_DIS_CONNECTION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "SERVICECHARGES",
+      "service": "WS",
+      "name": "Water New Connection Service Charges",
+      "code": "WS_SERVICE_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water New Connection Plumbing Material Charges",
+      "code": "WS_PLUMBING_MATERIAL_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "FEE",
+      "service": "WS",
+      "name": "Water New Connection Form Charges",
+      "code": "WS_FORM_FEE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Registry Doc",
+      "code": "PT_MUTATION_FEE_REGISTRY_DOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Registry Vikray Patra",
+      "code": "PT_MUTATION_FEE_REGISTRY_VIKRAY_PATRA",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Registry Abhilekh",
+      "code": "PT_MUTATION_FEE_REGISTRY_ABHILEKH",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    }, {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "PT Mutation Fee Advertiesment",
+      "code": "PT_MUTATION_FEE_ADVERTIESMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
     }
   ]
 }

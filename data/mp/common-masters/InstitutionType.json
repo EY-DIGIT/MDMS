@@ -1,0 +1,16 @@
+{
+  "tenantId": "mp",
+  "moduleName": "common-masters",
+  "InstitutionType": [
+    {
+      "name": "Private",
+      "code": "PRIVATE",
+      "active": true
+    },
+    {
+      "name": "Government",
+      "code": "GOVERNMENT",
+      "active": true
+    }
+    ]
+}

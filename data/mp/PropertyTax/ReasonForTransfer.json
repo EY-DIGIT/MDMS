@@ -3,63 +3,33 @@
   "moduleName": "PropertyTax",
   "ReasonForTransfer": [
     {
-      "name": "Sale Deed",
-      "code": "SALEDEED",
+      "name": "Registered Deed (Sale/Gift/Division/Rights Waiver)",
+      "code": "REGISTEREDDEED",
       "active": true
     },
     {
-      "name": "Gift Deed",
-      "code": "GIFTDEED",
+      "name": "Inheritance/ Heirship",
+      "code": "INHERITENCE",
       "active": true
     },
     {
-      "name": "Patta Certificate",
-      "code": "PATTACERTIFICATE",
+      "name": "Authority Letter",
+      "code": "AUTHORITYLETTER",
       "active": true
     },
     {
-      "name": "Registered will deed",
-      "code": "REGISTEREDWILLDEED",
+      "name": "Will (Registered/ Unregistered)",
+      "code": "REGISTEREDUNREGISTEREDWILL",
       "active": true
     },
     {
-      "name": "Partition Deed",
-      "code": "PARTITIONDEED",
+      "name": "Dharanadhikar",
+      "code": "DHARANADHIKAR",
       "active": true
     },
     {
-      "name": "Court Decree",
-      "code": "COURTDECREE",
-      "active": true
-    },
-    {
-      "name": "Property Auction",
-      "code": "PROPERTYAUCTION",
-      "active": true
-    },
-    {
-      "name": "Succession or Death Certificate",
-      "code": "SUCCESSIONORDEATHCERTIFICATE",
-      "active": true
-    },
-    {
-      "name": "Family Settlement",
-      "code": "FAMILYSETTLEMENT",
-      "active": true
-    },
-    {
-      "name": "Unregistered Will deed",
-      "code": "UNREGISTEREDWILLDEED",
-      "active": true
-    },
-    {
-      "name": "Correction in Name",
-      "code": "CORRECTIONINNAME",
-      "active": true
-    },
-    {
-      "name": "Change in Owner Special Category",
-      "code": "CHANGEINOWNERSPECIALCATEGORY",
+      "name": "Court Order",
+      "code": "COURTORDER",
       "active": true
     }
   ]

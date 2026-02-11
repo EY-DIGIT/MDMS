@@ -49,6 +49,36 @@
     {
       "code": "CHANGEINOWNERSPECIALCATEGORY",
       "active": true
+    },
+    {
+      "name": "Registered Deed (Sale/Gift/Division/Rights Waiver)",
+      "code": "REGISTEREDDEED",
+      "active": true
+    },
+    {
+      "name": "Inheritance/ Heirship",
+      "code": "INHERITENCE",
+      "active": true
+    },
+    {
+      "name": "Authority Letter",
+      "code": "AUTHORITYLETTER",
+      "active": true
+    },
+    {
+      "name": "Will (Registered/ Unregistered)",
+      "code": "REGISTEREDUNREGISTEREDWILL",
+      "active": true
+    },
+    {
+      "name": "Dharanadhikar",
+      "code": "DHARANADHIKAR",
+      "active": true
+    },
+    {
+      "name": "Court Order",
+      "code": "COURTORDER",
+      "active": true
     }
   ]
 } 

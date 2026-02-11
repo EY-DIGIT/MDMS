@@ -1,0 +1,60 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "LokAdalatDiscount": [
+  {
+    "minAmount": 0,
+    "maxAmount": 50000,
+    "rate": 100,
+    "fromFY": "2025-26"
+  },
+  {
+    "minAmount": 50000,
+    "maxAmount": 100000,
+    "rate": 50,
+    "fromFY": "2025-26"
+  },
+  {
+    "minAmount": 100000,
+    "maxAmount": "Infinity",
+    "rate": 25,
+    "fromFY": "2025-26"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 50000,
+    "rate": 100,
+    "fromFY": "2026-27"
+  },
+  {
+    "minAmount": 50000,
+    "maxAmount": 100000,
+    "rate": 50,
+    "fromFY": "2026-27"
+  },
+  {
+    "minAmount": 100000,
+    "maxAmount": "Infinity",
+    "rate": 25,
+    "fromFY": "2026-27"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 50000,
+    "rate": 100,
+    "fromFY": "2024-25"
+  },
+  {
+    "minAmount": 50000,
+    "maxAmount": 100000,
+    "rate": 50,
+    "fromFY": "2024-25"
+  },
+  {
+    "minAmount": 100000,
+    "maxAmount": "Infinity",
+    "rate": 25,
+    "fromFY": "2024-25"
+  }
+]
+}

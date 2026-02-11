@@ -1,0 +1,186 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ws-services-calculation",
+  "WCNewConnectionCharges": [
+    {
+      "id": "1",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "0.50",
+      "charges": 2500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "2",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "0.75",
+      "charges": 3750,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "3",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "1",
+      "charges": 5000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "4",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "1.50",
+      "charges": 15000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "5",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "2",
+      "charges": 20000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "6",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "3",
+      "charges": 30000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "7",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "4",
+      "charges": 45000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "8",
+      "connectionType": "Non Metered",
+      "subType": "",
+      "connectionSize": "6",
+      "charges": 90000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "9",
+      "connectionType": "Non Metered",
+      "subType": "BUC",
+      "connectionSize": "0.50",
+      "charges": 2500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "10",
+      "connectionType": "Non Metered",
+      "subType": "RateZone",
+      "connectionSize": "0.50",
+      "charges": 1000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "11",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "0.50",
+      "charges": 2500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "12",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "0.75",
+      "charges": 3750,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "13",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "1",
+      "charges": 10000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "14",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "1.50",
+      "charges": 22500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "15",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "2",
+      "charges": 40000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "16",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "3",
+      "charges": 90000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "17",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "4",
+      "charges": 160000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    },
+    {
+      "id": "18",
+      "connectionType": "Metered",
+      "subType": "",
+      "connectionSize": "6",
+      "charges": 360000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2025-26"
+    }
+  ]
+}

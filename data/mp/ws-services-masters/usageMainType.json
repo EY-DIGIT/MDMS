@@ -1,21 +1,21 @@
 {
   "tenantId": "mp",
-  "moduleName": "ws-services-calculation",
-  "PropertyUsageType": [
+  "moduleName": "ws-services-masters",
+  "usageMainType":  [
     {
       "name": "Residential",
       "code": "RESIDENTIAL",
-      "isActive": true
+      "active": true
     },
-{
-     "name": "Commercial",
+    {
+      "name": "Commercial",
       "code": "COMMERCIAL",
-      "isActive": true
+	  "active": true  
     },
-{
+    {
       "name": "Industrial",
       "code": "INDUSTRIAL",
-      "isActive": true
+	  "active": true  
     }
   ]
 }

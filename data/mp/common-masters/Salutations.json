@@ -3,11 +3,6 @@
   "moduleName": "common-masters",
   "Salutations": [
     {
-      "name": "Dr.",
-      "code": "DR",
-      "active": true
-    },
-    {
       "name": "Mr.",
       "code": "MR",
       "active": true
@@ -22,7 +17,7 @@
       "code": "MS",
       "active": true
     },
-    {
+     {
       "name": "M/S",
       "code": "M/S",
       "active": true

@@ -1,0 +1,17 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "NamantaranType": [
+    {
+      "name": "One To One",
+      "code": "ONETOONE",
+      "active": true
+    },
+    {
+      "name": "One To Many",
+      "code": "ONETOMANY",
+      "active": true
+    }
+    
+    ]
+}
