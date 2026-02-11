@@ -14,6 +14,7 @@
       "statelogo": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/state_logo.png",
       "statelogobgpng": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/state_logo_bg_img.png",
       "enableWhatsApp": true,
+      "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
         "employee": "/user/login"
