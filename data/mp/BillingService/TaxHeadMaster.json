@@ -6086,7 +6086,7 @@
     },
      {
       "category": "FEE",
-      "service": "PT.MUTATION",
+      "service": "PT.BIFURCATION",
       "name": "PT Mutation Fee Registry Vikray Patra",
       "code": "PT_MUTATION_FEE_REGISTRY_VIKRAY_PATRA",
       "isDebit": false,
@@ -6096,7 +6096,7 @@
     },
      {
       "category": "FEE",
-      "service": "PT.MUTATION",
+      "service": "PT.BIFURCATION",
       "name": "PT Mutation Fee Registry Abhilekh",
       "code": "PT_MUTATION_FEE_REGISTRY_ABHILEKH",
       "isDebit": false,
@@ -6105,7 +6105,7 @@
       "isRequired": false
     }, {
       "category": "FEE",
-      "service": "PT.MUTATION",
+      "service": "PT.BIFURCATION",
       "name": "PT Mutation Fee Advertiesment",
       "code": "PT_MUTATION_FEE_ADVERTIESMENT",
       "isDebit": false,
