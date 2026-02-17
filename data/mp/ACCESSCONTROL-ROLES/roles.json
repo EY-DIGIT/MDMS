@@ -1212,6 +1212,11 @@
       "code": "ASSISTANT_ENGINEER",
       "name": "Assistant Engineer",
       "description": "Assistant Engineer"
+    },
+    {
+      "code": "WS_AC",
+      "name": "WS_AC",
+      "description": "ADDITIONAL COMMISSIONER"
     }
   ]
 }
