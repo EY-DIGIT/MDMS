@@ -1,0 +1,4944 @@
+{
+  "tenantId": "mp",
+  "moduleName": "TradeLicense",
+  "TradeItems": [
+  {
+    "itemCode": "11101",
+    "businessName": "मुर्गी आहार",
+    "businessType": "MANUFACTURER",
+    "fee": 1000
+  },
+  {
+    "itemCode": "21101",
+    "businessName": "मुर्गी आहार",
+    "businessType": "WHOLESALER",
+    "fee": 500
+  },
+  {
+    "itemCode": "31101",
+    "businessName": "मुर्गी आहार",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "11102",
+    "businessName": "पशु आहार",
+    "businessType": "MANUFACTURER",
+    "fee": 1000
+  },
+  {
+    "itemCode": "21102",
+    "businessName": "पशु आहार",
+    "businessType": "WHOLESALER",
+    "fee": 500
+  },
+  {
+    "itemCode": "31102",
+    "businessName": "पशु आहार",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "41103",
+    "businessName": "सूखा चारा, कङबी,छप्पर छाने की सामग्री(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 100
+  },
+
+  {
+    "itemCode": "11104",
+    "businessName": "खली कपास्या",
+    "businessType": "MANUFACTURER",
+    "fee": 1000
+  },
+  {
+    "itemCode": "21104",
+    "businessName": "खली कपास्या",
+    "businessType": "WHOLESALER",
+    "fee": 500
+  },
+  {
+    "itemCode": "31104",
+    "businessName": "खली कपास्या",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "11105",
+    "businessName": "भूसा",
+    "businessType": "MANUFACTURER",
+    "fee": 500
+  },
+  {
+    "itemCode": "21105",
+    "businessName": "भूसा",
+    "businessType": "WHOLESALER",
+    "fee": 300
+  },
+  {
+    "itemCode": "31105",
+    "businessName": "भूसा",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "11201",
+    "businessName": "कोयला",
+    "businessType": "MANUFACTURER",
+    "fee": 500
+  },
+  {
+    "itemCode": "21201",
+    "businessName": "कोयला",
+    "businessType": "WHOLESALER",
+    "fee": 300
+  },
+  {
+    "itemCode": "31201",
+    "businessName": "कोयला",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "11202",
+    "businessName": "जलाउ लकडी",
+    "businessType": "MANUFACTURER",
+    "fee": 500
+  },
+  {
+    "itemCode": "21202",
+    "businessName": "जलाउ लकडी",
+    "businessType": "WHOLESALER",
+    "fee": 300
+  },
+  {
+    "itemCode": "31202",
+    "businessName": "जलाउ लकडी",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "11203",
+    "businessName": "राख कोल, कंडे",
+    "businessType": "MANUFACTURER",
+    "fee": 500
+  },
+  {
+    "itemCode": "21203",
+    "businessName": "राख कोल, कंडे",
+    "businessType": "WHOLESALER",
+    "fee": 300
+  },
+  {
+    "itemCode": "31203",
+    "businessName": "राख कोल, कंडे",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "41204",
+    "businessName": "गैस वितरक दुकान (गोदाम रहित)(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 3000
+  },
+  {
+    "itemCode": "41205",
+    "businessName": "गैस वितरक(गोदाम सहित)(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 5000
+  },
+
+  {
+    "itemCode": "41301",
+    "businessName": "ज्वेलर्स (सोना चांदी) शो रूम 200 फीट से अधिक (अन्य )",
+    "businessType": "OTHERS",
+    "fee": 1250
+  },
+
+  {
+    "itemCode": "11302",
+    "businessName": "आर्टिफिशयल ज्वेलर्स",
+    "businessType": "MANUFACTURER",
+    "fee": 1000
+  },
+  {
+    "itemCode": "21302",
+    "businessName": "आर्टिफिशयल ज्वेलर्स",
+    "businessType": "WHOLESALER",
+    "fee": 500
+  },
+  {
+    "itemCode": "31302",
+    "businessName": "आर्टिफिशयल ज्वेलर्स",
+    "businessType": "RETAILER",
+    "fee": 300
+  },
+
+  {
+    "itemCode": "41303",
+    "businessName": "ज्वेलर्स (सोना चांदी) शो रूम 100 से 200 फीट तक (अन्य )",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41304",
+    "businessName": "सुनारी कार्य (कारीगरी)(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41305",
+    "businessName": "ज्वेलर्स (सोना चांदी) 100 फीट से कम(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+
+  {
+    "itemCode": "11402",
+    "businessName": "आतिशबाजी की कच्ची सामग्री",
+    "businessType": "MANUFACTURER",
+    "fee": 1000
+  },
+  {
+    "itemCode": "21402",
+    "businessName": "आतिशबाजी की कच्ची सामग्री",
+    "businessType": "WHOLESALER",
+    "fee": 5000
+  },
+  {
+    "itemCode": "31401",
+    "businessName": "आतिशबाजी की कच्ची सामग्री",
+    "businessType": "RETAILER",
+    "fee": 1000
+  },
+
+  {
+    "itemCode": "31403",
+    "businessName": "बारूद तथा आतिशबाजी (अस्थायी दुकान) (खेरची)",
+    "businessType": "RETAILER",
+    "fee": 300
+  },
+
+  {
+    "itemCode": "21404",
+    "businessName": "मिट्टी का तेल जिसकी प्रज्वलता क्रय 150 से अधिक नही (फ्री सेल) .",
+    "businessType": "WHOLESALER",
+    "fee": 500
+  },
+  {
+    "itemCode": "31404",
+    "businessName": "मिट्टी का तेल जिसकी प्रज्वलता क्रय 150 से अधिक नही (फ्री सेल) .",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "21405",
+    "businessName": "मिट्टी का तेल जिसकी प्रज्वलता 150 से अधिक नही (डीलर) .",
+    "businessType": "WHOLESALER",
+    "fee": 500
+  },
+  {
+    "itemCode": "31405",
+    "businessName": "मिट्टी का तेल जिसकी प्रज्वलता 150 से अधिक नही (डीलर) .",
+    "businessType": "RETAILER",
+    "fee": 200
+  },
+
+  {
+    "itemCode": "41406",
+    "businessName": "डायनामाईट(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41407",
+    "businessName": "ब्लास्टर पावडर(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41408",
+    "businessName": "फिलामंट आँफ मरक्यूरी(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41409",
+    "businessName": "नाईडी ग्लीसरीन(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41410",
+    "businessName": "गन कटाव(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41411",
+    "businessName": "फासफोट्स(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41412",
+    "businessName": "गंधक(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41413",
+    "businessName": "सेल्यूराईड(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41414",
+    "businessName": "सेल्यूराईड का सामान(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41415",
+    "businessName": "सिनेमा ग्राफी फिल्म(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+  {
+    "itemCode": "41416",
+    "businessName": "गन पाउडर(अन्य)",
+    "businessType": "OTHERS",
+    "fee": 500
+  },
+
+  {
+    "itemCode": "11417",
+    "businessName": "केमिकल,फिनाईल/क्लीनर",
+    "businessType": "MANUFACTURER",
+    "fee": 2000
+  },
+  {
+    "itemCode": "21417",
+    "businessName": "केमिकल,फिनाईल/क्लीनर",
+    "businessType": "WHOLESALER",
+    "fee": 1000
+  },
+  {
+    "itemCode": "31417",
+    "businessName": "केमिकल,फिनाईल/क्लीनर",
+    "businessType": "RETAILER",
+    "fee": 500
+  },
+  {
+  "itemCode": "41418",
+  "businessName": "रेपीलेटेड तथा डिनेचर्ड स्प्रीट(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "41419",
+  "businessName": "माचिस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11420",
+  "businessName": "पेन्ट्स, वार्निश, थीनर",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21420",
+  "businessName": "पेन्ट्स, वार्निश, थीनर",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31420",
+  "businessName": "पेन्ट्स, वार्निश, थीनर",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "11501",
+  "businessName": "तम्बाकू",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "21501",
+  "businessName": "तम्बाकू",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "31501",
+  "businessName": "तम्बाकू",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "11502",
+  "businessName": "सूंगनी(नसवार)",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "21502",
+  "businessName": "सूंगनी(नसवार)",
+  "businessType": "WHOLESALER",
+  "fee": 300
+},
+{
+  "itemCode": "31502",
+  "businessName": "सूंगनी(नसवार)",
+  "businessType": "RETAILER",
+  "fee": 200
+},
+{
+  "itemCode": "31504",
+  "businessName": "पान की दुकान .",
+  "businessType": "RETAILER",
+  "fee": 200
+},
+{
+  "itemCode": "11601",
+  "businessName": "धातुओ का ढालना (यांत्रिक छोडकर)",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "41602",
+  "businessName": "मुद्रणालय रोल फेड",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "41603",
+  "businessName": "मुद्रणालय पेडल एंव स्कीन प्रिंटिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "41604",
+  "businessName": "मुद्रणालय आफसेट(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "41605",
+  "businessName": "मुद्रणालय मिनी आफसेट ए-4 साईज तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "41606",
+  "businessName": "आरा मिल (1 मशीन)",
+  "businessType": "OTHERS",
+  "fee": 600
+},
+{
+  "itemCode": "41607",
+  "businessName": "आरा मिल (2 मशीन)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "41608",
+  "businessName": "आरा मिल (3 मशीन)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1400
+},
+{
+  "itemCode": "11609",
+  "businessName": "जीनिंग एंव प्रेसिंग फेक्ट्री",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "11610",
+  "businessName": "एअर कम्प्रेशर एंव पार्टस्",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21610",
+  "businessName": "एअर कम्प्रेशर एंव पार्टस्",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31610",
+  "businessName": "एअर कम्प्रेशर एंव पार्टस्",
+  "businessType": "RETAILER",
+  "fee": 1000
+},
+{
+  "itemCode": "11611",
+  "businessName": "पावर लूम (प्रति लूम)",
+  "businessType": "MANUFACTURER",
+  "fee": 50
+},
+{
+  "itemCode": "41612",
+  "businessName": "रूई पिंजाई(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 50
+},
+{
+  "itemCode": "41613",
+  "businessName": "सिनेमा टाकीज(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "41614",
+  "businessName": "यांत्रिक कारखाना 20 हा.पा. से कम(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "41615",
+  "businessName": "यांत्रिक कारखाना 20 हा.पा. से 50 हा.पा.तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1500
+},
+{
+  "itemCode": "41616",
+  "businessName": "यांत्रिक कारखाना 50 हा.पा. से 100 हा.पा.तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2500
+},
+{
+  "itemCode": "41617",
+  "businessName": "यांत्रिक कारखाना 100 हा.पा.से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "41618",
+  "businessName": "इलेक्ट्रोप्लेटिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11619",
+  "businessName": "रबर तथा रबर का सामान .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21619",
+  "businessName": "रबर तथा रबर का सामान .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31619",
+  "businessName": "रबर तथा रबर का सामान .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "41620",
+  "businessName": "कालिंग आफ हेटिंग हाउस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "41621",
+  "businessName": "आटो व्हीकल सर्विस स्टेशन (4 पहिया एंव अधिक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "11623",
+  "businessName": "मोटर बॉडी कारखाना (ट्रक,मिनीबस,मिनी ट्रक,बस) .",
+  "businessType": "MANUFACTURER",
+  "fee": 3000
+},
+{
+  "itemCode": "11624",
+  "businessName": "समस्त प्रकार का आईल (अखाद्य) .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21624",
+  "businessName": "समस्त प्रकार का आईल (अखाद्य) .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31624",
+  "businessName": "समस्त प्रकार का आईल (अखाद्य) .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "41625",
+  "businessName": "रिमोल्ड टायर वर्कशाप(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "41626",
+  "businessName": "सल्फर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11627",
+  "businessName": "खोके (बक्से) सभी प्रकार के .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "21627",
+  "businessName": "खोके (बक्से) सभी प्रकार के .",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "11628",
+  "businessName": "बेलर(कारखाना) .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "31628",
+  "businessName": "बेलर(कारखाना) .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "41629",
+  "businessName": "आटा चक्की ( प्रति चक्की)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 250
+},
+{
+  "itemCode": "41630",
+  "businessName": "मसाला चक्की (प्रति चक्की)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 250
+},
+{
+  "itemCode": "41631",
+  "businessName": "राई पीसने की मशीन (प्रति मशीन)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "41632",
+  "businessName": "कपडो पर काज बनाने की मशीन (प्रति मशीन)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "41633",
+  "businessName": "एम्ब्रायडरी मशीन (प्रति मशीन)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "41634",
+  "businessName": "टेलरिंग दुकान (प्रति मशीन)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 50
+},
+{
+  "itemCode": "11801",
+  "businessName": "इमारती लकड़ी व बांस .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "21801",
+  "businessName": "इमारती लकड़ी व बांस .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31801",
+  "businessName": "इमारती लकड़ी व बांस .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "21802",
+  "businessName": "सीमेण्ट",
+  "businessType": "WHOLESALER",
+  "fee": 2000
+},
+{
+  "itemCode": "31802",
+  "businessName": "सीमेण्ट",
+  "businessType": "RETAILER",
+  "fee": 1000
+},
+{
+  "itemCode": "11803",
+  "businessName": "ईट .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "31803",
+  "businessName": "ईट .",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "11804",
+  "businessName": "चूना,मोरम,गिट्टी,रेत .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "21804",
+  "businessName": "चूना,मोरम,गिट्टी,रेत .",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "31804",
+  "businessName": "चूना,मोरम,गिट्टी,रेत .",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "11805",
+  "businessName": "दरवाजे,खिडकी(सभी) .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "21805",
+  "businessName": "दरवाजे,खिडकी(सभी) .",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "31805",
+  "businessName": "दरवाजे,खिडकी(सभी) .",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "11806",
+  "businessName": "शटर .",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "21806",
+  "businessName": "शटर .",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "31806",
+  "businessName": "शटर .",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "11807",
+  "businessName": "प्लायवुड एवं हार्डबोड .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21807",
+  "businessName": "प्लायवुड एवं हार्डबोड .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31807",
+  "businessName": "प्लायवुड एवं हार्डबोड .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "11808",
+  "businessName": "हार्ड वेयर का सामान .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21808",
+  "businessName": "हार्ड वेयर का सामान .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31808",
+  "businessName": "हार्ड वेयर का सामान .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "11809",
+  "businessName": "सेनेटरी सामान .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21809",
+  "businessName": "सेनेटरी सामान .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31809",
+  "businessName": "सेनेटरी सामान .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "11810",
+  "businessName": "सभी प्रकार की टाईल्स .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "21810",
+  "businessName": "सभी प्रकार की टाईल्स .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "31810",
+  "businessName": "सभी प्रकार की टाईल्स .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12001",
+  "businessName": "कृषि उपकरण .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22001",
+  "businessName": "कृषि उपकरण .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32001",
+  "businessName": "कृषि उपकरण .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12002",
+  "businessName": "खेती से सम्बंधित दवाई बीज.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22002",
+  "businessName": "खेती से सम्बंधित दवाई बीज.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32002",
+  "businessName": "खेती से सम्बंधित दवाई बीज.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12003",
+  "businessName": "तांबा, कांसा, पीतल, एल्यूमीनियम एवं अन्य धातु का सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22003",
+  "businessName": "तांबा, कांसा, पीतल, एल्यूमीनियम एवं अन्य धातु का सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32003",
+  "businessName": "तांबा, कांसा, पीतल, एल्यूमीनियम एवं अन्य धातु का सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12004",
+  "businessName": "दवाईयां कीटनाशक.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22004",
+  "businessName": "दवाईयां कीटनाशक.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32004",
+  "businessName": "दवाईयां कीटनाशक.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12101",
+  "businessName": "फोटोग्राफी,विडियोग्रापफी, चलचित्र का सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22101",
+  "businessName": "फोटोग्राफी,विडियोग्रापफी, चलचित्र का सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32101",
+  "businessName": "फोटोग्राफी,विडियोग्रापफी, चलचित्र का सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "42102",
+  "businessName": "मोटर रिपेअर कारखाना आटो व्हीकल ( 4 पहिया एवं अधिक ) 500 वर्गफीट से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42103",
+  "businessName": "मोटर रिपेअर कारखाना आटो व्हीकल ( 4 पहिया एवं अधिक ) 200 से 500 वर्ग फीट तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42104",
+  "businessName": "मोटर रिपेअर कारखाना आटो व्हीकल ( 4 पहिया एवं अधिक ) 200 वर्ग फीट तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 800
+},
+{
+  "itemCode": "42105",
+  "businessName": "मोटर रिपेअर कारखाना आटो व्हीकल ( 2 एवं 3 पहिया )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "42106",
+  "businessName": "निराश्रित एवं विधवा महिला द्वारा व्यापार (आयकरदाता के अलावा )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 10
+},
+{
+  "itemCode": "42107",
+  "businessName": "एस.टी.डी./पी.सी.ओ.(अन्य) (मुक्त)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "42108",
+  "businessName": "ट्रेवलिंग एजेन्ट(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42109",
+  "businessName": "ट्रांसपोटर्स(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42110",
+  "businessName": "आटोडील मेला एवं कमीशन एजेन्ट(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42112",
+  "businessName": "फोटो कापी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42113",
+  "businessName": "टायपिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42114",
+  "businessName": "घडी रिपेरिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42115",
+  "businessName": "ब्यूटी पार्लर/हेयर सेलून वातानुकुलित(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "21812",
+  "businessName": "मार्बल ,कोटा स्टोन तथा अन्य.",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31812",
+  "businessName": "मार्बल ,कोटा स्टोन तथा अन्य.",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "11813",
+  "businessName": "फायर ब्रिक्स .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21813",
+  "businessName": "फायर ब्रिक्स .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31813",
+  "businessName": "फायर ब्रिक्स .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11814",
+  "businessName": "लोहे के सरिये ,गार्डर एवं एंगल .",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "21814",
+  "businessName": "लोहे के सरिये ,गार्डर एवं एंगल .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "31814",
+  "businessName": "लोहे के सरिये ,गार्डर एवं एंगल .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "11815",
+  "businessName": "लोहे ,प्लास्टिक की चद्दर एवं सभी प्रकार की चद्दरें .",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "21815",
+  "businessName": "लोहे ,प्लास्टिक की चद्दर एवं सभी प्रकार की चद्दरें .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "31815",
+  "businessName": "लोहे ,प्लास्टिक की चद्दर एवं सभी प्रकार की चद्दरें .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "11816",
+  "businessName": "कुर्सी टेबल एवं फर्निचर .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21816",
+  "businessName": "कुर्सी टेबल एवं फर्निचर .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31816",
+  "businessName": "कुर्सी टेबल एवं फर्निचर .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11817",
+  "businessName": "इलेक्ट्रिक सामान .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21817",
+  "businessName": "इलेक्ट्रिक सामान .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31817",
+  "businessName": "इलेक्ट्रिक सामान .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11818",
+  "businessName": "लोहे का फेब्रीकेशन .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21818",
+  "businessName": "लोहे का फेब्रीकेशन .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31818",
+  "businessName": "लोहे का फेब्रीकेशन .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "41819",
+  "businessName": "ठेकेदारी कार्य सभी प्रकार के",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "21901",
+  "businessName": "नारियल ,केरोसीन ,बारदान ,रद्दी दुकान व गोदाम .",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "31901",
+  "businessName": "नारियल ,केरोसीन ,बारदान ,रद्दी दुकान व गोदाम .",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "31902",
+  "businessName": "नारियल ,केरोसीन ,बारदान ,रद्दी दुकान व गोदाम .",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "41902",
+  "businessName": "नारियल ,केरोसीन ,बारदान ,रद्दी दुकान व गोदाम .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11903",
+  "businessName": "नील .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "21903",
+  "businessName": "नील .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "31903",
+  "businessName": "नील .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11904",
+  "businessName": "डिटरजेन्ट एवं लिक्विड साबुन .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "21904",
+  "businessName": "डिटरजेन्ट एवं लिक्विड साबुन .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "31904",
+  "businessName": "डिटरजेन्ट एवं लिक्विड साबुन .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11905",
+  "businessName": "क्राकरी क्ले. का सामान .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "21905",
+  "businessName": "क्राकरी क्ले. का सामान .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "31905",
+  "businessName": "क्राकरी क्ले. का सामान .",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "11906",
+  "businessName": "प्लास्टिक एवं प्लास्टिक सामान .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21906",
+  "businessName": "प्लास्टिक एवं प्लास्टिक सामान .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31906",
+  "businessName": "प्लास्टिक एवं प्लास्टिक सामान .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "31907",
+  "businessName": "प्लास्टिक सामान (अस्थायी दुकान) .",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "11908",
+  "businessName": "अगरबत्ती .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "21908",
+  "businessName": "अगरबत्ती .",
+  "businessType": "OTHERS",
+  "fee": 800
+},
+{
+  "itemCode": "31908",
+  "businessName": "अगरबत्ती .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11909",
+  "businessName": "मोमबत्ती .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "21909",
+  "businessName": "मोमबत्ती .",
+  "businessType": "OTHERS",
+  "fee": 800
+},
+{
+  "itemCode": "31909",
+  "businessName": "मोमबत्ती .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "11910",
+  "businessName": "सभी प्रकार के बर्तन .",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21910",
+  "businessName": "सभी प्रकार के बर्तन .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "31910",
+  "businessName": "सभी प्रकार के बर्तन .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42117",
+  "businessName": "ब्यूटी पार्लर /हेयर सेलून 300 वर्गफीट से कम(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "42118",
+  "businessName": "ध्वनि विस्तारक बेंड सहित(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42119",
+  "businessName": "प्रापर्टी ब्रोकर्स (दुकान)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42120",
+  "businessName": "कमीशन केनवासिंग एजेंट एवं आड़तिया दुकान(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42121",
+  "businessName": "ड्रायक्लीनर्स दुकान 200 फीट से कम(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42122",
+  "businessName": "ड्रायक्लीनर्स दुकान 200 फीट से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42123",
+  "businessName": "पुराने मोटर टायर एवं पंचर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42124",
+  "businessName": "कम्प्यूटर्स क्लासेस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "42125",
+  "businessName": "साफ्टवेअर डेवलपर्स एंड सर्विसेस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "42126",
+  "businessName": "कोचिंग क्लासेस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42127",
+  "businessName": "बैंकिंग व्यवसाय (प्रति ब्रांच)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "42128",
+  "businessName": "फायनेंस कम्पनी (प्रति ब्रांच)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42129",
+  "businessName": "बीमा कम्पनीयाँ (प्रति ब्रांच)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42130",
+  "businessName": "सिक्युरिटी सर्विसेस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42131",
+  "businessName": "जिमनेशियम(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42132",
+  "businessName": "फिल्म डिस्ट्रीब्यूटर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42133",
+  "businessName": "इलेक्ट्रिक एवं इलेक्ट्रानिक सामान रिपेयरिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42134",
+  "businessName": "सिलाई मशीन रिपेअरिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "42135",
+  "businessName": "केटरर्स सेवाऐ(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42136",
+  "businessName": "कुरियर सेवा(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42137",
+  "businessName": "निजी स्कूल (मान्यता प्राप्त)500 विधार्थी तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42138",
+  "businessName": "निजी स्कूल (मान्यता प्राप्त)501से1000 तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42140",
+  "businessName": "पंजीकृत सरकारी साख संस्था (प्रति ब्रांच) 500 सदस्य तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42141",
+  "businessName": "पंजीकृत सरकारी साख संस्था (प्रति ब्रांच) 501 से 1000 तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42142",
+  "businessName": "पंजीकृत सरकारी साख संस्था (प्रति ब्रांच) 1001से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42143",
+  "businessName": "गृह निर्माण संस्थाएँ (प्रति ब्रांच) 500 सदस्य तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42144",
+  "businessName": "गृह निर्माण संस्थाएँ 501 से 1000 तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 4000
+},
+{
+  "itemCode": "42145",
+  "businessName": "गृह निर्माण संस्थाएँ 1001से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "42146",
+  "businessName": "होस्टल/छात्रावास 10 कमरो तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42147",
+  "businessName": "सायबर केफे(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42148",
+  "businessName": "केबल नेटवर्क एजेन्ट(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42149",
+  "businessName": "केबल नेटवर्क कम्पनी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42150",
+  "businessName": "मोबाईल कम्पनी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 10000
+},
+{
+  "itemCode": "42151",
+  "businessName": "विज्ञापन एजेन्सी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42152",
+  "businessName": "होस्टल/छात्रावास 20 कमरो तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42153",
+  "businessName": "होस्टल/छात्रावास 30 कमरो तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "22201",
+  "businessName": "वेस्ट,धागा,कपास,चिन्दी.",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "32201",
+  "businessName": "वेस्ट,धागा,कपास,चिन्दी.",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "22202",
+  "businessName": "ऊन.",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "32202",
+  "businessName": "ऊन.",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "42203",
+  "businessName": "जनरल स्टोर्स 400 वर्गफीट से ज्यादा(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42204",
+  "businessName": "जनरल स्टोर्स 200 से 400 वर्गफीट तक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "42205",
+  "businessName": "जनरल स्टोर्स 200 वर्गफीट से कम(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "12206",
+  "businessName": "सभी प्रकार के चश्में.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "22206",
+  "businessName": "सभी प्रकार के चश्में.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "32206",
+  "businessName": "सभी प्रकार के चश्में.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "12208",
+  "businessName": "होजियरी.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22208",
+  "businessName": "होजियरी.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32208",
+  "businessName": "होजियरी.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "12209",
+  "businessName": "रेडिमेड गारमेन्टस.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22209",
+  "businessName": "रेडिमेड गारमेन्टस.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32209",
+  "businessName": "रेडिमेड गारमेन्टस.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "12210",
+  "businessName": "कपङा व्यवसाय.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22210",
+  "businessName": "कपङा व्यवसाय.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32210",
+  "businessName": "कपङा व्यवसाय.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "22211",
+  "businessName": "कॉच की चूङिया.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32211",
+  "businessName": "कॉच की चूङिया.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "42212",
+  "businessName": "लाख की चूङिया (लखेरा)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+
+{
+  "itemCode": "12213",
+  "businessName": "जूते एवं चप्पल दुकान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22213",
+  "businessName": "जूते एवं चप्पल दुकान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32213",
+  "businessName": "जूते एवं चप्पल दुकान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "12301",
+  "businessName": "इलेक्ट्रानिक सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22301",
+  "businessName": "इलेक्ट्रानिक सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32301",
+  "businessName": "इलेक्ट्रानिक सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "42302",
+  "businessName": "कम्प्यूटर्स एवं पार्ट्स विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+
+{
+  "itemCode": "42401",
+  "businessName": "लॉज ( ठहरने की ) ( 30 कमरे से अधिक )",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "42402",
+  "businessName": "लॉज ( ठहरने की ) ( 11- 30 कमरे )",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42403",
+  "businessName": "लॉज ( ठहरने की ) ( 1- 10 कमरे )",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42404",
+  "businessName": "धर्मशाला (व्यक्तिगत)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42405",
+  "businessName": "धर्मशाला (सामाजिक)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42406",
+  "businessName": "धर्मशाला (ट्रस्ट)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "12408",
+  "businessName": "टेन्ट हाऊस व्यवसायी.",
+  "businessType": "MANUFACTURER",
+  "fee": 2500
+},
+{
+  "itemCode": "32408",
+  "businessName": "टेन्ट हाऊस व्यवसायी.",
+  "businessType": "RETAILER",
+  "fee": 1000
+},
+
+{
+  "itemCode": "42501",
+  "businessName": "नर्सिंग होम्स ( 10 कमरे से अधिक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42502",
+  "businessName": "नर्सिंग होम्स ( 10 कमरे तक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42503",
+  "businessName": "क्लीनिक (छोटा अस्पताल )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42504",
+  "businessName": "एक्सरे/लेबोरेटरी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42505",
+  "businessName": "निजी क्लीनिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "25555",
+  "businessName": "स्टॉल एवं प्रदर्शनी.",
+  "businessType": "WHOLESALER",
+  "fee": 200
+},
+{
+  "itemCode": "26666",
+  "businessName": "स्टॉल एवं प्रदर्शनी आयोजनकर्ता.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+
+{
+  "itemCode": "48901",
+  "businessName": "तिरपाल एवं रस्सी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48902",
+  "businessName": "केमरा एवं केमरा सामान(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "18903",
+  "businessName": "चमड़ा प्लास्टिकएवं फाईवर सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28903",
+  "businessName": "चमड़ा प्लास्टिकएवं फाईवर सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38904",
+  "businessName": "चमड़ा प्लास्टिकएवं फाईवर सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "18904",
+  "businessName": "पुस्तकें, स्टेशनरी, कागज आदि सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28904",
+  "businessName": "पुस्तकें, स्टेशनरी, कागज आदि सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38915",
+  "businessName": "पुस्तकें, स्टेशनरी, कागज आदि सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "48905",
+  "businessName": "ऑटो पार्टस (केवल टू व्हीलर)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48906",
+  "businessName": "ऑटो मोबाईल शोरुम (टू एवं थ्री व्हीलर हेतु)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "48907",
+  "businessName": "बोरिंग एंड ड्रिलिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48908",
+  "businessName": "क्राकरी विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48909",
+  "businessName": "कटलरी विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48910",
+  "businessName": "काँच विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48911",
+  "businessName": "सायकल एवं सायकल सामान विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "48912",
+  "businessName": "पुराना सामान (कबाड़ी) डिस्पोजल हाऊस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48913",
+  "businessName": "घड़ी विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48914",
+  "businessName": "गिफ्ट मटेरियल एवं कार्डस्(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "18915",
+  "businessName": "मशीनरी एवं मशीनरी टुल्स.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28915",
+  "businessName": "मशीनरी एवं मशीनरी टुल्स.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38918",
+  "businessName": "मशीनरी एवं मशीनरी टुल्स.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "38916",
+  "businessName": "शासकीय दुकान एवं उपभोक्ता भंडार.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "48917",
+  "businessName": "तेल के विणय (बीज)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "18918",
+  "businessName": "फोम तथा रेग्जीन.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28918",
+  "businessName": "फोम तथा रेग्जीन.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38919",
+  "businessName": "फोम तथा रेग्जीन.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "18919",
+  "businessName": "सुटकेश, ब्रीफकेश.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "28919",
+  "businessName": "सुटकेश, ब्रीफकेश.",
+  "businessType": "WHOLESALER",
+  "fee": 800
+},
+
+{
+  "itemCode": "38920",
+  "businessName": "रबर तथा रबर का सामान (अस्थायी दुकान).",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "48921",
+  "businessName": "टायर विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "48922",
+  "businessName": "टेलरिंग मटेरियल(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48923",
+  "businessName": "खेल सामग्री(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48924",
+  "businessName": "टायर डिपो (गोदाम)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "48925",
+  "businessName": "पेंटर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "48926",
+  "businessName": "हार फुल विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "48927",
+  "businessName": "पुजा सामग्री विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "48928",
+  "businessName": "सायकल किराया एवं स्पेयर पार्टस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "48929",
+  "businessName": "रेग्जीन,कपड़े के बैग विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "48930",
+  "businessName": "एयर कम्प्रेशर एवं सायकल रिपेयर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 150
+},
+{
+  "itemCode": "48931",
+  "businessName": "नर्सरी पौधे विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48938",
+  "businessName": "गोडाउन (दुकान के अतिरिक्त) 1000 वर्गफीट से कम",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+
+{
+  "itemCode": "18999",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त एवं अन्य व्यवसाय करने वालों के लिए.",
+  "businessType": "MANUFACTURER",
+  "fee": 800
+},
+{
+  "itemCode": "28999",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त एवं अन्य व्यवसाय करने वालों के लिए.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "38999",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त एवं अन्य व्यवसाय करने वालों के लिए.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "19001",
+  "businessName": "शराब बीयर.",
+  "businessType": "MANUFACTURER",
+  "fee": 10000
+},
+{
+  "itemCode": "29001",
+  "businessName": "शराब बीयर.",
+  "businessType": "WHOLESALER",
+  "fee": 7500
+},
+{
+  "itemCode": "39001",
+  "businessName": "शराब बीयर.",
+  "businessType": "RETAILER",
+  "fee": 5000
+},
+
+{
+  "itemCode": "49002",
+  "businessName": "ताङी तथा तत्समान पेय(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49003",
+  "businessName": "भांग तथा अन्य नशीले पदार्थ(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49004",
+  "businessName": "बार एफ. एल. 2(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "49005",
+  "businessName": "बार एफ. एल. 3(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+
+{
+  "itemCode": "19006",
+  "businessName": "डेयरी एवं डेयरी घी , पनीर.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "39006",
+  "businessName": "डेयरी एवं डेयरी घी , पनीर.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "19007",
+  "businessName": "मिठाई ,नमकीन.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29007",
+  "businessName": "मिठाई ,नमकीन.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39007",
+  "businessName": "मिठाई ,नमकीन.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "49008",
+  "businessName": "दूध, दही दुकान(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49009",
+  "businessName": "दूध विक्रेता (फेरी)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "49010",
+  "businessName": "घी सभी प्रकार(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+
+{
+  "itemCode": "19012",
+  "businessName": "दालें.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29012",
+  "businessName": "दालें.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39012",
+  "businessName": "दालें.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "39013",
+  "businessName": "मावा.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "19014",
+  "businessName": "मेदा, रवा.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29014",
+  "businessName": "मेदा, रवा.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39014",
+  "businessName": "मेदा, रवा.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "29015",
+  "businessName": "सभी प्रकार के खड़े अनाज.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39015",
+  "businessName": "सभी प्रकार के खड़े अनाज.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "19016",
+  "businessName": "चना, चुरमुरा,पोहा, परमल ,.",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "29016",
+  "businessName": "चना, चुरमुरा,पोहा, परमल ,.",
+  "businessType": "WHOLESALER",
+  "fee": 300
+},
+{
+  "itemCode": "39016",
+  "businessName": "चना, चुरमुरा,पोहा, परमल ,.",
+  "businessType": "RETAILER",
+  "fee": 200
+},
+
+{
+  "itemCode": "49017",
+  "businessName": "शक्कर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+
+{
+  "itemCode": "19018",
+  "businessName": "बड़ी पापड़ फिंगर कुडलई आचार मुरब्बा.",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "29018",
+  "businessName": "बड़ी पापड़ फिंगर कुडलई आचार मुरब्बा.",
+  "businessType": "WHOLESALER",
+  "fee": 300
+},
+{
+  "itemCode": "39018",
+  "businessName": "बड़ी पापड़ फिंगर कुडलई आचार मुरब्बा.",
+  "businessType": "RETAILER",
+  "fee": 200
+},
+
+{
+  "itemCode": "19019",
+  "businessName": "पान मसाला गुटखा ,एंव तम्बाखु पाउच.",
+  "businessType": "MANUFACTURER",
+  "fee": 1500
+},
+{
+  "itemCode": "29019",
+  "businessName": "पान मसाला गुटखा ,एंव तम्बाखु पाउच.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39019",
+  "businessName": "पान मसाला गुटखा ,एंव तम्बाखु पाउच.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "19020",
+  "businessName": "पिसे मसाले.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29020",
+  "businessName": "पिसे मसाले.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39020",
+  "businessName": "पिसे मसाले.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "29021",
+  "businessName": "खुली चाय.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39021",
+  "businessName": "खुली चाय.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+
+{
+  "itemCode": "39022",
+  "businessName": "अन्डा.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "19025",
+  "businessName": "वर्फ.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29025",
+  "businessName": "वर्फ.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39025",
+  "businessName": "वर्फ.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "19026",
+  "businessName": "आईस केन्डी पार्लर (आइस्क्रीम सहित ).",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29026",
+  "businessName": "आईस केन्डी पार्लर (आइस्क्रीम सहित ).",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39026",
+  "businessName": "आईस केन्डी पार्लर (आइस्क्रीम सहित ).",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "19027",
+  "businessName": "सोडा वाटर आदि पेय पदार्थ.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29027",
+  "businessName": "सोडा वाटर आदि पेय पदार्थ.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39027",
+  "businessName": "सोडा वाटर आदि पेय पदार्थ.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "49028",
+  "businessName": "मधुशाला(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "49029",
+  "businessName": "एरिटेड वाटर (पेय पदार्थ )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+
+{
+  "itemCode": "19030",
+  "businessName": "मिनलर वाटर.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29030",
+  "businessName": "मिनलर वाटर.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39030",
+  "businessName": "मिनलर वाटर.",
+  "businessType": "RETAILER",
+  "fee": 100
+},
+
+{
+  "itemCode": "39031",
+  "businessName": "सभी प्रकार के फलो का रस.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+
+{
+  "itemCode": "49032",
+  "businessName": "टिफिन सेन्टर (200 वर्गफीट तक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "49033",
+  "businessName": "टिफिन सेन्टर (200से 400 वर्ग फीट तक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "49036",
+  "businessName": "होटल (बी श्रेणी ) (300 वर्गफुट से अधिक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "49037",
+  "businessName": "होटल (सी श्रेणी) (300 वर्गफुट से कम )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49038",
+  "businessName": "रेस्टारेन्ट ठेला गुमटी शेड (डी श्रेणी )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49039",
+  "businessName": "भोजनालय (ए श्रेणी) एअरकुल्ड/ ए.सी.(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1500
+},
+{
+  "itemCode": "49040",
+  "businessName": "भोजनालय (ब श्रेणी ) (300 वर्गफुट से अधिक)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 800
+},
+{
+  "itemCode": "49041",
+  "businessName": "भोजनालय (स श्रेणी) (300 वर्गफुट से कम)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+
+{
+  "itemCode": "49042",
+  "businessName": "थोक किराना व्यवसायी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49043",
+  "businessName": "खेरची किराना व्यवसाय (दुकान 200 वर्गफीट से कम)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "49044",
+  "businessName": "खेरची किराना व्यवसाय (दुकान 200-400 वर्गफीट)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49045",
+  "businessName": "खेरची किराना व्यवसाय (दुकान 400 वर्गफीट से ज्यादा)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49046",
+  "businessName": "तैयार खाघ पदार्थ (ठेला फेरी )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "12206",
+  "businessName": "सभी प्रकार के चश्में.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "22206",
+  "businessName": "सभी प्रकार के चश्में.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "32206",
+  "businessName": "सभी प्रकार के चश्में.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12208",
+  "businessName": "होजियरी.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22208",
+  "businessName": "होजियरी.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32208",
+  "businessName": "होजियरी.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12209",
+  "businessName": "रेडिमेड गारमेन्टस.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22209",
+  "businessName": "रेडिमेड गारमेन्टस.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32209",
+  "businessName": "रेडिमेड गारमेन्टस.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12210",
+  "businessName": "कपङा व्यवसाय.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22210",
+  "businessName": "कपङा व्यवसाय.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32210",
+  "businessName": "कपङा व्यवसाय.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "22211",
+  "businessName": "कॉच की चूङिया.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32211",
+  "businessName": "कॉच की चूङिया.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "42212",
+  "businessName": "लाख की चूङिया (लखेरा)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "12213",
+  "businessName": "जूते एवं चप्पल दुकान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22213",
+  "businessName": "जूते एवं चप्पल दुकान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32213",
+  "businessName": "जूते एवं चप्पल दुकान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "12301",
+  "businessName": "इलेक्ट्रानिक सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "22301",
+  "businessName": "इलेक्ट्रानिक सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "32301",
+  "businessName": "इलेक्ट्रानिक सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "42302",
+  "businessName": "कम्प्यूटर्स एवं पार्ट्स विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42401",
+  "businessName": "लॉज ( ठहरने की ) ( 30 कमरे से अधिक )",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "42402",
+  "businessName": "लॉज ( ठहरने की ) ( 11- 30 कमरे )",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42403",
+  "businessName": "लॉज ( ठहरने की ) ( 1- 10 कमरे )",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42404",
+  "businessName": "धर्मशाला (व्यक्तिगत)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42405",
+  "businessName": "धर्मशाला (सामाजिक)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "42406",
+  "businessName": "धर्मशाला (ट्रस्ट)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "12408",
+  "businessName": "टेन्ट हाऊस व्यवसायी.",
+  "businessType": "MANUFACTURER",
+  "fee": 2500
+},
+{
+  "itemCode": "32408",
+  "businessName": "टेन्ट हाऊस व्यवसायी.",
+  "businessType": "RETAILER",
+  "fee": 1000
+},
+{
+  "itemCode": "42501",
+  "businessName": "नर्सिंग होम्स ( 10 कमरे से अधिक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "42502",
+  "businessName": "नर्सिंग होम्स ( 10 कमरे तक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "42503",
+  "businessName": "क्लीनिक (छोटा अस्पताल )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42504",
+  "businessName": "एक्सरे/लेबोरेटरी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42505",
+  "businessName": "निजी क्लीनिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "25555",
+  "businessName": "स्टॉल एवं प्रदर्शनी.",
+  "businessType": "WHOLESALER",
+  "fee": 200
+},
+{
+  "itemCode": "26666",
+  "businessName": "स्टॉल एवं प्रदर्शनी आयोजनकर्ता.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "48901",
+  "businessName": "तिरपाल एवं रस्सी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48902",
+  "businessName": "केमरा एवं केमरा सामान(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "18903",
+  "businessName": "चमड़ा प्लास्टिकएवं फाईवर सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28903",
+  "businessName": "चमड़ा प्लास्टिकएवं फाईवर सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38904",
+  "businessName": "चमड़ा प्लास्टिकएवं फाईवर सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "18904",
+  "businessName": "पुस्तकें, स्टेशनरी, कागज आदि सामान.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28904",
+  "businessName": "पुस्तकें, स्टेशनरी, कागज आदि सामान.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38915",
+  "businessName": "पुस्तकें, स्टेशनरी, कागज आदि सामान.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "48905",
+  "businessName": "ऑटो पार्टस (केवल टू व्हीलर)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48906",
+  "businessName": "ऑटो मोबाईल शोरुम (टू एवं थ्री व्हीलर हेतु)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "48907",
+  "businessName": "बोरिंग एंड ड्रिलिंग(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48908",
+  "businessName": "क्राकरी विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48909",
+  "businessName": "कटलरी विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48910",
+  "businessName": "काँच विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48911",
+  "businessName": "सायकल एवं सायकल सामान विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "48912",
+  "businessName": "पुराना सामान (कबाड़ी) डिस्पोजल हाऊस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48913",
+  "businessName": "घड़ी विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48914",
+  "businessName": "गिफ्ट मटेरियल एवं कार्डस्(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "18915",
+  "businessName": "मशीनरी एवं मशीनरी टुल्स.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28915",
+  "businessName": "मशीनरी एवं मशीनरी टुल्स.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38918",
+  "businessName": "मशीनरी एवं मशीनरी टुल्स.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "38916",
+  "businessName": "शासकीय दुकान एवं उपभोक्ता भंडार.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "48917",
+  "businessName": "तेल के विणय (बीज)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "18918",
+  "businessName": "फोम तथा रेग्जीन.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "28918",
+  "businessName": "फोम तथा रेग्जीन.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "38919",
+  "businessName": "फोम तथा रेग्जीन.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "18919",
+  "businessName": "सुटकेश, ब्रीफकेश.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "28919",
+  "businessName": "सुटकेश, ब्रीफकेश.",
+  "businessType": "WHOLESALER",
+  "fee": 800
+},
+{
+  "itemCode": "38920",
+  "businessName": "रबर तथा रबर का सामान (अस्थायी दुकान).",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "48921",
+  "businessName": "टायर विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "48922",
+  "businessName": "टेलरिंग मटेरियल(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48923",
+  "businessName": "खेल सामग्री(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48924",
+  "businessName": "टायर डिपो (गोदाम)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "48925",
+  "businessName": "पेंटर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "48926",
+  "businessName": "हार फुल विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "48927",
+  "businessName": "पुजा सामग्री विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 200
+},
+{
+  "itemCode": "48928",
+  "businessName": "सायकल किराया एवं स्पेयर पार्टस(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "48929",
+  "businessName": "रेग्जीन,कपड़े के बैग विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "48930",
+  "businessName": "एयर कम्प्रेशर एवं सायकल रिपेयर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 150
+},
+{
+  "itemCode": "48931",
+  "businessName": "नर्सरी पौधे विक्रेता(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "48938",
+  "businessName": "गोडाउन (दुकान के अतिरिक्त) 1000 वर्गफीट से कम",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "18999",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त एवं अन्य व्यवसाय करने वालों के लिए.",
+  "businessType": "MANUFACTURER",
+  "fee": 800
+},
+{
+  "itemCode": "28999",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त एवं अन्य व्यवसाय करने वालों के लिए.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "38999",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त एवं अन्य व्यवसाय करने वालों के लिए.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19001",
+  "businessName": "शराब बीयर.",
+  "businessType": "MANUFACTURER",
+  "fee": 10000
+},
+{
+  "itemCode": "29001",
+  "businessName": "शराब बीयर.",
+  "businessType": "WHOLESALER",
+  "fee": 7500
+},
+{
+  "itemCode": "39001",
+  "businessName": "शराब बीयर.",
+  "businessType": "RETAILER",
+  "fee": 5000
+},
+{
+  "itemCode": "49002",
+  "businessName": "ताङी तथा तत्समान पेय(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49003",
+  "businessName": "भांग तथा अन्य नशीले पदार्थ(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49004",
+  "businessName": "बार एफ. एल. 2(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "49005",
+  "businessName": "बार एफ. एल. 3(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "19006",
+  "businessName": "डेयरी एवं डेयरी घी , पनीर.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "39006",
+  "businessName": "डेयरी एवं डेयरी घी , पनीर.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "19007",
+  "businessName": "मिठाई ,नमकीन.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29007",
+  "businessName": "मिठाई ,नमकीन.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39007",
+  "businessName": "मिठाई ,नमकीन.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "49008",
+  "businessName": "दूध, दही दुकान(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49009",
+  "businessName": "दूध विक्रेता (फेरी)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "49010",
+  "businessName": "घी सभी प्रकार(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "19012",
+  "businessName": "दालें.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29012",
+  "businessName": "दालें.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39012",
+  "businessName": "दालें.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "39013",
+  "businessName": "मावा.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "19014",
+  "businessName": "मेदा, रवा.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29014",
+  "businessName": "मेदा, रवा.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39014",
+  "businessName": "मेदा, रवा.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "29015",
+  "businessName": "सभी प्रकार के खड़े अनाज.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39015",
+  "businessName": "सभी प्रकार के खड़े अनाज.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19016",
+  "businessName": "चना, चुरमुरा,पोहा, परमल ,.",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "29016",
+  "businessName": "चना, चुरमुरा,पोहा, परमल ,.",
+  "businessType": "WHOLESALER",
+  "fee": 300
+},
+{
+  "itemCode": "39016",
+  "businessName": "चना, चुरमुरा,पोहा, परमल ,.",
+  "businessType": "RETAILER",
+  "fee": 200
+},
+{
+  "itemCode": "49017",
+  "businessName": "शक्कर(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "19018",
+  "businessName": "बड़ी पापड़ फिंगर कुडलई आचार मुरब्बा.",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "29018",
+  "businessName": "बड़ी पापड़ फिंगर कुडलई आचार मुरब्बा.",
+  "businessType": "WHOLESALER",
+  "fee": 300
+},
+{
+  "itemCode": "39018",
+  "businessName": "बड़ी पापड़ फिंगर कुडलई आचार मुरब्बा.",
+  "businessType": "RETAILER",
+  "fee": 200
+},
+{
+  "itemCode": "19019",
+  "businessName": "पान मसाला गुटखा ,एंव तम्बाखु पाउच.",
+  "businessType": "MANUFACTURER",
+  "fee": 1500
+},
+{
+  "itemCode": "29019",
+  "businessName": "पान मसाला गुटखा ,एंव तम्बाखु पाउच.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39019",
+  "businessName": "पान मसाला गुटखा ,एंव तम्बाखु पाउच.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "19020",
+  "businessName": "पिसे मसाले.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29020",
+  "businessName": "पिसे मसाले.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39020",
+  "businessName": "पिसे मसाले.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "29021",
+  "businessName": "खुली चाय.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39021",
+  "businessName": "खुली चाय.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "39022",
+  "businessName": "अन्डा.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19025",
+  "businessName": "वर्फ.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29025",
+  "businessName": "वर्फ.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39025",
+  "businessName": "वर्फ.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19026",
+  "businessName": "आईस केन्डी पार्लर (आइस्क्रीम सहित ).",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29026",
+  "businessName": "आईस केन्डी पार्लर (आइस्क्रीम सहित ).",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39026",
+  "businessName": "आईस केन्डी पार्लर (आइस्क्रीम सहित ).",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19027",
+  "businessName": "सोडा वाटर आदि पेय पदार्थ.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29027",
+  "businessName": "सोडा वाटर आदि पेय पदार्थ.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39027",
+  "businessName": "सोडा वाटर आदि पेय पदार्थ.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "49028",
+  "businessName": "मधुशाला(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "49029",
+  "businessName": "एरिटेड वाटर (पेय पदार्थ )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "19030",
+  "businessName": "मिनलर वाटर.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29030",
+  "businessName": "मिनलर वाटर.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39030",
+  "businessName": "मिनलर वाटर.",
+  "businessType": "RETAILER",
+  "fee": 100
+},
+{
+  "itemCode": "39031",
+  "businessName": "सभी प्रकार के फलो का रस.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "49032",
+  "businessName": "टिफिन सेन्टर (200 वर्गफीट तक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "49033",
+  "businessName": "टिफिन सेन्टर (200से 400 वर्ग फीट तक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49036",
+  "businessName": "होटल (बी श्रेणी ) (300 वर्गफुट से अधिक )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "49037",
+  "businessName": "होटल (सी श्रेणी) (300 वर्गफुट से कम )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49038",
+  "businessName": "रेस्टारेन्ट ठेला गुमटी शेड (डी श्रेणी )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49039",
+  "businessName": "भोजनालय (ए श्रेणी) एअरकुल्ड/ ए.सी.(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1500
+},
+{
+  "itemCode": "49040",
+  "businessName": "भोजनालय (ब श्रेणी ) (300 वर्गफुट से अधिक)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 800
+},
+{
+  "itemCode": "49041",
+  "businessName": "भोजनालय (स श्रेणी) (300 वर्गफुट से कम)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49042",
+  "businessName": "थोक किराना व्यवसायी(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49043",
+  "businessName": "खेरची किराना व्यवसाय (दुकान 200 वर्गफीट से कम)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "49044",
+  "businessName": "खेरची किराना व्यवसाय (दुकान 200-400 वर्गफीट)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "49045",
+  "businessName": "खेरची किराना व्यवसाय (दुकान 400 वर्गफीट से ज्यादा)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49046",
+  "businessName": "तैयार खाघ पदार्थ (ठेला फेरी )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "19047",
+  "businessName": "तैयार खाघ पदार्थ.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29047",
+  "businessName": "तैयार खाघ पदार्थ.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39047",
+  "businessName": "तैयार खाघ पदार्थ.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "29048",
+  "businessName": "फल (सभी प्रकार के ) की पक्की दुकान.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39048",
+  "businessName": "फल (सभी प्रकार के ) की पक्की दुकान.",
+  "businessType": "RETAILER",
+  "fee": 100
+},
+{
+  "itemCode": "19049",
+  "businessName": "सुखाई गई सब्जियॉ.",
+  "businessType": "MANUFACTURER",
+  "fee": 500
+},
+{
+  "itemCode": "29049",
+  "businessName": "सुखाई गई सब्जियॉ.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39049",
+  "businessName": "सुखाई गई सब्जियॉ.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "29050",
+  "businessName": "आलु प्याज की पक्की दुकान.",
+  "businessType": "WHOLESALER",
+  "fee": 300
+},
+{
+  "itemCode": "39050",
+  "businessName": "आलु प्याज की पक्की दुकान.",
+  "businessType": "RETAILER",
+  "fee": 100
+},
+{
+  "itemCode": "19051",
+  "businessName": "बेकरी.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29051",
+  "businessName": "बेकरी.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39051",
+  "businessName": "बेकरी.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19052",
+  "businessName": "कन्फेक्शनरी.",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29052",
+  "businessName": "कन्फेक्शनरी.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39052",
+  "businessName": "कन्फेक्शनरी.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "19053",
+  "businessName": "दवाईयां .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29053",
+  "businessName": "दवाईयां .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39053",
+  "businessName": "दवाईयां .",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "39054",
+  "businessName": "शराब दुकान / रेस्टोरेंट/ अहाते/ पीने का स्थान.",
+  "businessType": "RETAILER",
+  "fee": 1500
+},
+{
+  "itemCode": "19055",
+  "businessName": "आयुर्वेदिक औषधि.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29055",
+  "businessName": "आयुर्वेदिक औषधि.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "19011",
+  "businessName": "खाद्य तेल.",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29011",
+  "businessName": "खाद्य तेल.",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39055",
+  "businessName": "खाद्य तेल.",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "19099",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त अन्य व्यवसाय करने वालों के लिये.",
+  "businessType": "MANUFACTURER",
+  "fee": 800
+},
+{
+  "itemCode": "29099",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त अन्य व्यवसाय करने वालों के लिये.",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "39099",
+  "businessName": "उपरोक्त व्यवसायों के अतिरिक्त अन्य व्यवसाय करने वालों के लिये.",
+  "businessType": "RETAILER",
+  "fee": 300
+},
+{
+  "itemCode": "50101",
+  "businessName": "अंग्रेजी शराब का आहता",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "50102",
+  "businessName": "फ्रुड प्रोटीन सायरफ .",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "50103",
+  "businessName": "फ्रुड प्रोटीन सायरफ .",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "51101",
+  "businessName": "कोचिंग क्लासेस, 10 लाख टर्न ओव्हर",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51102",
+  "businessName": "कोचिंग क्लासेस, 11 लाख से 30 लाख तक टर्न ओव्हर",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51103",
+  "businessName": "कोचिंग क्लासेस, 31 लाख से 75 लाख तक टर्न ओव्हर",
+  "businessType": "OTHERS",
+  "fee": 4000
+},
+{
+  "itemCode": "51104",
+  "businessName": "कोचिंग क्लासेस, 76 लाख से 2 करोड तक टर्न ओव्हर",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51105",
+  "businessName": "कोचिंग क्लासेस, 2 करोड से अधिक तक का टर्न ओव्हर",
+  "businessType": "OTHERS",
+  "fee": 7500
+},
+{
+  "itemCode": "51106",
+  "businessName": "कार ड्रायविंग स्कुल",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51107",
+  "businessName": "लेथ मशीन कार्य",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51108",
+  "businessName": "मोबाईल रिचार्ज एवं एसेसरीज",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51109",
+  "businessName": "लोहारी डेंटिग पेंटिंग कार्य 2,3 एवं 4 पहिया",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51110",
+  "businessName": "बिल्डर्स सभी प्रकार कार्य (प्रायवेट)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51111",
+  "businessName": "मोबाईल टॉवर कम्पनी",
+  "businessType": "OTHERS",
+  "fee": 10000
+},
+{
+  "itemCode": "51112",
+  "businessName": "टेक्टर पार्टस विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51113",
+  "businessName": "कम्प्युटर ट्रेनिंग सेंटर",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51114",
+  "businessName": "शेयर टर्मिनल",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51115",
+  "businessName": "मनी एक्चेंज",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51116",
+  "businessName": "आर.टी.ओ. बीमा एजेन्ट",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51201",
+  "businessName": "उपभोक्ता इलेक्ट्रानिक्स/ब्रान्डेड कन्जूमर स्टोर्स",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51202",
+  "businessName": "मल्टी ब्रान्ड हायपर मार्ट (बिग बाजार/रिलायन्स रिटेल आदि)",
+  "businessType": "OTHERS",
+  "fee": 13500
+},
+{
+  "itemCode": "19101",
+  "businessName": "उपभोक्ता वस्तुएं",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29101",
+  "businessName": "उपभोक्ता वस्तुएं",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39101",
+  "businessName": "उपभोक्ता वस्तुएं",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "19102",
+  "businessName": "हस्त शिल्प एवं हथकरघा उत्पाद",
+  "businessType": "MANUFACTURER",
+  "fee": 1000
+},
+{
+  "itemCode": "29102",
+  "businessName": "हस्त शिल्प एवं हथकरघा उत्पाद",
+  "businessType": "WHOLESALER",
+  "fee": 500
+},
+{
+  "itemCode": "51203",
+  "businessName": "बुटिक",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51204",
+  "businessName": "कालसेन्टर ( प्रति सीट)",
+  "businessType": "OTHERS",
+  "fee": 100
+},
+{
+  "itemCode": "51205",
+  "businessName": "दूरसंचार एक्सचेंज निजी",
+  "businessType": "OTHERS",
+  "fee": 9000
+},
+{
+  "itemCode": "51206",
+  "businessName": "कम्प्यूटर एडेड डिजाईन",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51207",
+  "businessName": "टेलीफोन सेट्स",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51208",
+  "businessName": "ऑनलाईन पोर्टल सामान/सेवाएं बेचने हेतु पेमेन्ट या कमीशन/ई-कामर्स सेवाएं",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51209",
+  "businessName": "बेक एण्ड डाटा प्रोसेसिंग/टेली कॉलिंग फार बैंक्स/टोलीकॉम",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51210",
+  "businessName": "व्यवसायिक केन्द्रों में होटल",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51211",
+  "businessName": "ईंजिनीयरिंग मदद सेवाएं/नेटवर्क मदद सेवाएं",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51212",
+  "businessName": "सर्वर मेनेजमेन्ट सेवाएं/डाटा सेन्टर",
+  "businessType": "OTHERS",
+  "fee": 10000
+},
+{
+  "itemCode": "51213",
+  "businessName": "ईंजिनीयरिंग प्रोजेक्ट मेनेजमेन्ट सेवाएं/कन्सलटेन्सी",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51214",
+  "businessName": "मुद्रा विनिमय सेवा",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51215",
+  "businessName": "मोबाईल बैंकिंग समाधान प्रदाता",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51216",
+  "businessName": "गैर बैंकिंग वित्तीय कम्पनियां और उनकी शाखाएं",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51217",
+  "businessName": "ऑनलाईन वित्तीय सेवाएं",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51218",
+  "businessName": "मल्टी लेवल मार्केटिंग कम्पनियां",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51219",
+  "businessName": "कार्बन ट्रेडिंग/कार्बन फाईनेन्स/इन्टमीडियरिस",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51220",
+  "businessName": "साहूकार (मनी लेंडर)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51221",
+  "businessName": "बैंको/वित्तीय कम्पनियों/अन्य वित्तीय सेवा के लिये वसूली एजेन्ट",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51222",
+  "businessName": "बीमा प्रीमियम संग्रह एजेन्सी",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51223",
+  "businessName": "कमीशन एजेन्ट अनाज के अलावा अन्य",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51224",
+  "businessName": "बीमा कम्पनियों के लिये तीसरे पक्ष के प्रशासको",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51225",
+  "businessName": "फाईनेन्सियल सेवाएं",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51226",
+  "businessName": "अमुसमेन्ट पार्कस/इन्टरटेनमेन्ट झोन्स इन माल्स/मल्टी स्टोरेड बिल्डिंग/इन्टरटेनमेन्ट प्लाजा",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51227",
+  "businessName": "सम्मेलन केन्द्र/व्यापार केन्द्र",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51228",
+  "businessName": "डिस्कोथेक या टीवी स्क्रीन के बिना किसी भी/मनोरंजन और संगीत आदि के आयटम के साथ चल रहे नृत्य हाल तल",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51229",
+  "businessName": "इनडोर विज्ञापन टीवी स्क्रीन दिखाता है ।",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51230",
+  "businessName": "क्लब गोल्फ क्लब/डर्बी/रेस कोर्स",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51231",
+  "businessName": "मॉल/रेस्टोरेन्ट में प्रोजेक्शन सिस्टम",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51232",
+  "businessName": "वीडियो गेम पार्लर",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51233",
+  "businessName": "वीडियो हॉल",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51234",
+  "businessName": "स्पा और मालिश केन्द्र",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51235",
+  "businessName": "लाईफ सेल के उपचारो",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51236",
+  "businessName": "चिकित्सा निदान रेडियोलॉजी अल्ट्रासाउन्ड/मेमो ग्राम/एम और आई केट स्केन/एक्सरे आदि",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "19103",
+  "businessName": "सर्जीकल एवं मेडिकल सामान",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29103",
+  "businessName": "सर्जीकल एवं मेडिकल सामान",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39103",
+  "businessName": "सर्जीकल एवं मेडिकल सामान",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "51237",
+  "businessName": "हेल्थ फिटनेस सामान",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51238",
+  "businessName": "संगीत/नृत्य/बर्तनो/सिलाई/कढ़ाई/ललित कला प्रशिक्षण",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51239",
+  "businessName": "व्यक्तित्व विकास/स्पोकन इंग्लिश संस्थानो",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51240",
+  "businessName": "कोचिंग-स्कूल व्यक्तिगत टीचर द्वारा घर में सामान्य विषय के छात्र",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51241",
+  "businessName": "ईन्जीनियरिंग/मेडिकल/एम.बी.ए./एम.सी.ए. के लिये कोचिंग सेन्टर",
+  "businessType": "OTHERS",
+  "fee": 4500
+},
+{
+  "itemCode": "51242",
+  "businessName": "प्रवासी शिक्षा और सम्बंधित प्लेसमेन्ट के छात्र परामर्श",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51243",
+  "businessName": "कोचिंग केन्द्र तकनीकि",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51244",
+  "businessName": "प्रदेश के बाहर के विश्वविद्यालयों के लर्निंग सेन्टर",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51245",
+  "businessName": "पत्राचार ट्यूटोरियल",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51246",
+  "businessName": "कॉलेज/निजी कॉलोजों के प्रशासनिक कार्यालय",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51247",
+  "businessName": "ऑनलाईन ट्युटोरियल",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51248",
+  "businessName": "मल्टीप्लेक्स के भीतर खाद्य सामग्री विक्रय",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51249",
+  "businessName": "हेल्थ सप्लीमेन्ट्स",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51250",
+  "businessName": "सिनेमा हॉल/माल में पापकॉर्न एवं अन्य",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51251",
+  "businessName": "चॉकलेट फूड प्रॉडक्ट्स",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51252",
+  "businessName": "ड्राय फ्रूट",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51253",
+  "businessName": "सोया",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51254",
+  "businessName": "सोप इत्यादि",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51255",
+  "businessName": "गेस्ट हाऊस/प्रतिष्ठानों कम्पनी के स्वामित्व वाले गेस्ट हाऊस",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51256",
+  "businessName": "सर्विस आपार्टमेन्ट प्रति फ्लेट",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51257",
+  "businessName": "आन्तरिक सज्जाकार (इन्टीरियर डेकोरेटर्स)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51258",
+  "businessName": "गद्दे एवं तकिये (शोरुम)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51259",
+  "businessName": "होम फर्निशिंग",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51260",
+  "businessName": "बिल्डिंग मटेरियल सप्लायर्स",
+  "businessType": "OTHERS",
+  "fee": 1500
+},
+{
+  "itemCode": "51261",
+  "businessName": "इलेक्ट्रिक मोटर्स",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51262",
+  "businessName": "इलेक्ट्रीकल सामान आदि के लिये बिक्री और सेवा",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51263",
+  "businessName": "सी.एन.एफ.एजेन्सीज",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51264",
+  "businessName": "कोल्ड स्टोरेज",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51265",
+  "businessName": "इवेन्ट मेनेजमेन्ट कम्पनियां",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51266",
+  "businessName": "भारी जमीनी खुदाई यंत्र",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51267",
+  "businessName": "हाउस कीपिंग सेवाएं",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51268",
+  "businessName": "एच.आर.कन्सलटेन्सी/प्लेसमेन्ट एजेन्सिया कम्पनियां",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51269",
+  "businessName": "मुवर्स एवं पेकर्स",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "51270",
+  "businessName": "टूर एवं ट्रेवल्स एजेन्ट,इन्टरनेशनल टूर्स और यात्रा एजेन्ट",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51271",
+  "businessName": "वेडिंग प्लानर",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51272",
+  "businessName": "वेल्डिंग और ढलाई-गैस/बिजली या जो भी प्रक्रिया द्वारा",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51273",
+  "businessName": "गैस/कुकिंग स्टोव बिक्री/मरम्मत",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51274",
+  "businessName": "फोटो फ्रेमिंग",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51275",
+  "businessName": "आर्किटेक्ट",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51276",
+  "businessName": "बुक बाईडिंग यांत्रिक छोङकर",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51277",
+  "businessName": "वाटर प्युरीफिकेशन सर्विसेस/आर.ओ.बिक्री एवं पानी साफ सेवाएँ",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "19104",
+  "businessName": "प्रसाधन सामग्री",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29104",
+  "businessName": "प्रसाधन सामग्री",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39104",
+  "businessName": "प्रसाधन सामग्री",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "51278",
+  "businessName": "मुद्रण/लेखन या मुद्रांकन के लिये इंक",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51279",
+  "businessName": "फ्लेक्स प्रिन्टिंग/मटेरियल विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "19105",
+  "businessName": "चिकित्सा गैस",
+  "businessType": "MANUFACTURER",
+  "fee": 3000
+},
+{
+  "itemCode": "29105",
+  "businessName": "चिकित्सा गैस",
+  "businessType": "WHOLESALER",
+  "fee": 2000
+},
+{
+  "itemCode": "39105",
+  "businessName": "चिकित्सा गैस",
+  "businessType": "RETAILER",
+  "fee": 1000
+},
+{
+  "itemCode": "51280",
+  "businessName": "परफ्यूम एवं डियोस",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "19106",
+  "businessName": "बैटरी",
+  "businessType": "MANUFACTURER",
+  "fee": 2000
+},
+{
+  "itemCode": "29106",
+  "businessName": "बैटरी",
+  "businessType": "WHOLESALER",
+  "fee": 1000
+},
+{
+  "itemCode": "39106",
+  "businessName": "बैटरी",
+  "businessType": "RETAILER",
+  "fee": 500
+},
+{
+  "itemCode": "51281",
+  "businessName": "खनन कम्पनी कार्यालय",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51282",
+  "businessName": "आयातित कार बिक्री शोरुम",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51283",
+  "businessName": "व्हील अलाईमेन्ट एवं बेलेंसिंग",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51284",
+  "businessName": "सीट कवर",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51285",
+  "businessName": "कार एसेसरीज",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51286",
+  "businessName": "मूवी सी.डी./आडियो सी.डी./डी.वी.डी/व्लू रे डिस्क आदि",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51287",
+  "businessName": "मेन्यु फेक्चरिंग इन इण्डस्ट्रीयल स्टेट",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "51288",
+  "businessName": "वुड कार्विंग/फर्नीचर जॉब वर्क .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51289",
+  "businessName": "पोटरी",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51290",
+  "businessName": "कृत्रिम फूल",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51291",
+  "businessName": "कम्पनी के प्रायवेट कार्यालय या एडमिनिस्ट्रेटिव कार्यालय",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51292",
+  "businessName": "लाक्स एवं सेफ",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "51293",
+  "businessName": "अग्निशमन सामान",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51294",
+  "businessName": "संगीत यंत्र",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "51295",
+  "businessName": "एस्ट्रोलॉजी",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "19107",
+  "businessName": "शौचालय का सामान",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "29107",
+  "businessName": "शौचालय का सामान",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "39107",
+  "businessName": "शौचालय का सामान",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "119108",
+  "businessName": "कॉटन यार्न कपास",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "229108",
+  "businessName": "कॉटन यार्न कपास",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "339108",
+  "businessName": "कॉटन यार्न कपास",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "119109",
+  "businessName": "बैग विक्रेता (सभी प्रकार)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "229109",
+  "businessName": "बैग विक्रेता (सभी प्रकार)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "339109",
+  "businessName": "बैग विक्रेता (सभी प्रकार)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "119110",
+  "businessName": "पैकेज्ड एवं ड्रिंकिंग वाटर/चिल्ड वाटर/पानी पाउच",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "229110",
+  "businessName": "पैकेज्ड एवं ड्रिंकिंग वाटर/चिल्ड वाटर/पानी पाउच",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "339110",
+  "businessName": "पैकेज्ड एवं ड्रिंकिंग वाटर/चिल्ड वाटर/पानी पाउच",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "119111",
+  "businessName": "दोना पत्तल डिस्पोजल सामान",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "229111",
+  "businessName": "दोना पत्तल डिस्पोजल सामान",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "339111",
+  "businessName": "दोना पत्तल डिस्पोजल सामान",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "119112",
+  "businessName": "कास्मेटिक एवं सौन्दर्य प्रसाधन सामग्री",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "229112",
+  "businessName": "कास्मेटिक एवं सौन्दर्य प्रसाधन सामग्री",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "339112",
+  "businessName": "कास्मेटिक एवं सौन्दर्य प्रसाधन सामग्री",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "119113",
+  "businessName": "सौलर उपकरण",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "229113",
+  "businessName": "सौलर उपकरण",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "339113",
+  "businessName": "सौलर उपकरण",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "119114",
+  "businessName": "स्टील फेब्रीकेशन /फर्नीचर",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "229114",
+  "businessName": "स्टील फेब्रीकेशन /फर्नीचर",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "339114",
+  "businessName": "स्टील फेब्रीकेशन /फर्नीचर",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "119115",
+  "businessName": "होम्योपेथी दवाई",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "229115",
+  "businessName": "होम्योपेथी दवाई",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "339115",
+  "businessName": "होम्योपेथी दवाई",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "119117",
+  "businessName": "आटा/बेसन",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "229117",
+  "businessName": "आटा/बेसन",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "339117",
+  "businessName": "आटा/बेसन",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "119118",
+  "businessName": "सिजनेवल आयटम (सभी प्रकार के)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "229118",
+  "businessName": "सिजनेवल आयटम (सभी प्रकार के)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "339118",
+  "businessName": "सिजनेवल आयटम (सभी प्रकार के)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "21402",
+  "businessName": "आतिशबाजी की कच्ची सामग्री.",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "21811",
+  "businessName": "इंग्लिश कवेलू .",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "24205",
+  "businessName": "धर्मशाला (सामाजिक)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "28929",
+  "businessName": "रेग्जीन,कपडे के बेग विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 300
+},
+{
+  "itemCode": "31402",
+  "businessName": "आतिशबाजी की कच्ची सामग्री .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "31811",
+  "businessName": "इंग्लिश कवेलू .",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "39021",
+  "businessName": "खुली चाय.",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "41030",
+  "businessName": "ज्वेलर्स (सोना चांदी) शो रूम 100 फीट से 200 फीट तक",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "41421",
+  "businessName": "टार (डामर) बिटुमेन(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "41422",
+  "businessName": "पेट्रोल पम्प(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "41622",
+  "businessName": "आटो व्हीकल सर्विस स्टेशन (2एंव 3 पहिया )(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 250
+},
+{
+  "itemCode": "41911",
+  "businessName": "सिलाई मशीन विक्रय",
+  "businessType": "OTHERS",
+  "fee": 600
+},
+{
+  "itemCode": "42116",
+  "businessName": "ब्यूटी पार्लर/हेयर सेलून 300 वर्गफीट से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "42139",
+  "businessName": "निजी स्कूल (मान्यता प्राप्त)1001से अधिक(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "49034",
+  "businessName": "टिफिन सेन्टर(400 वर्गफीट से ज्यादा)(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "49035",
+  "businessName": "होटल (ए श्रेणी )एअरकुल्ड/ए.सी.(अन्य)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "51296",
+  "businessName": "मैरिज गार्डन (1000 वर्ग मीटर तक)",
+  "businessType": "OTHERS",
+  "fee": 3500
+},
+{
+  "itemCode": "51297",
+  "businessName": "मैरिज गार्डन (1000 से 1500 वर्ग मीटर तक)",
+  "businessType": "OTHERS",
+  "fee": 7000
+},
+{
+  "itemCode": "51298",
+  "businessName": "मैरिज गार्डन (1500 से 2500 वर्ग मीटर तक )",
+  "businessType": "OTHERS",
+  "fee": 9000
+},
+{
+  "itemCode": "51299",
+  "businessName": "मैरिज गार्डन (2500 से 5000 वर्ग मीटर तक )",
+  "businessType": "OTHERS",
+  "fee": 12000
+},
+{
+  "itemCode": "51300",
+  "businessName": "मैरिज गार्डन (5000 वर्ग मीटर से अधिक )",
+  "businessType": "OTHERS",
+  "fee": 15000
+},
+{
+  "itemCode": "551301",
+  "businessName": "मार्केटिंग (सभी प्रकार की)",
+  "businessType": "OTHERS",
+  "fee": 1500
+},
+{
+  "itemCode": "551302",
+  "businessName": "आयात निर्यात कार्य",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551303",
+  "businessName": "ड्रामा ड्रेस (किराये पर)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "551304",
+  "businessName": "जनरल सप्लायर्स",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "551305",
+  "businessName": "गर्वमेन्ट सप्लायर्स",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "551306",
+  "businessName": "मोबाईल विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551307",
+  "businessName": "कम्प्यूटर लेपटॉप रिपेरिंग",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551308",
+  "businessName": "रेडिमेड जॉबवर्क",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551309",
+  "businessName": "फेब्रीकेशन जॉबवर्क",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551310",
+  "businessName": "जनरेटर विक्रेता/सर्विस/किराये पर देना",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551311",
+  "businessName": "सांची पाईन्ट (मान्यता प्राप्त)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "551312",
+  "businessName": "ऑटो पार्टस (टू व्हीलर से अधिक)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551313",
+  "businessName": "कम्प्युटर एम्ब्रायडरी (प्रति सेट)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551314",
+  "businessName": "इलेक्ट्रॉनिक तोल कांटा/ विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551315",
+  "businessName": "प्ले स्कूल",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551316",
+  "businessName": "पैकेजिंग मटेरियल",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551317",
+  "businessName": "सुपारी विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551318",
+  "businessName": "डायमन्ड ज्वेलरी विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551319",
+  "businessName": "सी.सी.टी.वी.कैमरे विक्रय एवं इन्सटॉलेशन",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551320",
+  "businessName": "डेकोरेटर्स (सभी प्रकार के)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "551321",
+  "businessName": "रेडियो एफ.एम.(मनोरंजन)",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "551322",
+  "businessName": "कम्प्यूटर टायपिंग",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "551323",
+  "businessName": "एम.पी.ऑनलाईन/किओस्क सेन्टर",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "551324",
+  "businessName": "कम्प्यूटर/मोबाईल ट्रेनिंस सेन्टर",
+  "businessType": "OTHERS",
+  "fee": 750
+},
+{
+  "itemCode": "551325",
+  "businessName": "नाम/नम्बर प्लेट (सभी प्रकार)",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "551326",
+  "businessName": "डी.जे. साउण्ड (विक्रेता/सर्विस/रिपेरिंग)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551327",
+  "businessName": "खाद्य प्रसस्करण (फुड प्रोसेसिंग)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551328",
+  "businessName": "एनालिटीकल लेब (मटेरियल टेस्टींग)",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551329",
+  "businessName": "ग्लो साईन बोर्ड",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551330",
+  "businessName": "कमोडिटी",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551331",
+  "businessName": "बार एफ. एल. 4-5",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "551332",
+  "businessName": "पैथालॉजी सेम्पल कलेक्शन सेन्टर",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551333",
+  "businessName": "ऑटो पार्ट्रस (4 व्हीलर एवं अधिक)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "551334",
+  "businessName": "जे.सी.बी.एवं भारी वाहन खुदाई यंत्र किराये पर",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "551335",
+  "businessName": "गोडाउन (1000 स्के.फीट से अधिक)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551336",
+  "businessName": "कांच डिजाईनिंग कार्य",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "551337",
+  "businessName": "माड्युलर किचन/एसेसरीज/विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551338",
+  "businessName": "4 व्हीलर वाहन शोरूम",
+  "businessType": "OTHERS",
+  "fee": 10000
+},
+{
+  "itemCode": "551339",
+  "businessName": "विडियो कॉन्फेंस हॉल",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551340",
+  "businessName": "एल्युमीनियम सेक्शन कार्य/विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551341",
+  "businessName": "ट्रेवल्स ऐजेन्सी (एजेन्ट छोड़कर)",
+  "businessType": "OTHERS",
+  "fee": 2000
+},
+{
+  "itemCode": "551342",
+  "businessName": "शेयर मार्केट एडवायजरी",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551343",
+  "businessName": "विज्ञापन बुकिंस ऐजेन्ट",
+  "businessType": "OTHERS",
+  "fee": 1000
+},
+{
+  "itemCode": "551344",
+  "businessName": "कोचिंग सेन्टर (सभी प्रतियोगिता परीक्षा हेतु)",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551345",
+  "businessName": "क्लब (मनोरंजन)/खेल गतिविधियां हेतु",
+  "businessType": "OTHERS",
+  "fee": 5000
+},
+{
+  "itemCode": "551346",
+  "businessName": "राशि रत्न विक्रेता",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "551347",
+  "businessName": "आर्युवेदिक/होम्योफेथी क्लीनिक",
+  "businessType": "OTHERS",
+  "fee": 500
+},
+{
+  "itemCode": "551348",
+  "businessName": "इंडस्ट्रीयल गैस / मटेरियल/सप्लायर्स",
+  "businessType": "OTHERS",
+  "fee": 3000
+},
+{
+  "itemCode": "551349",
+  "businessName": "फास्ट फुड रेस्टोरेन्ट नान ए.सी. (300 वर्गफीट से कम)",
+  "businessType": "OTHERS",
+  "fee": 1000
+}
+]
+}
