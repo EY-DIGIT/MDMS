@@ -878,6 +878,18 @@
 	{
       "format": "IM-TEMP-[YY]-[MM]-[DD]-[SEQ_EG_PT_ACK]",
       "idname": "pt.temp.propetyid.imc"
+    },
+	{
+	    "format": "PG-BI-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+	    "idname": "pt.bifurcation.receipt.id"
+	},
+	{
+	    "format": "PG-BI-[CITY]-[SEQ_EG_PT_MUTATION]",
+	    "idname": "pt.bifurcation.number"
+	},
+	{
+      "format": "RN-BI-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
+      "idname": "pt.bifurcations.receipt.id.imc"
     }
   ]
 }
