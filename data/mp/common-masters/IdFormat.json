@@ -889,7 +889,7 @@
 	},
 	{
       "format": "RN-BI-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
-      "idname": "pt.bifurcations.receipt.id.imc"
+      "idname": "pt.bifurcation.receipt.id.imc"
     }
   ]
 }
