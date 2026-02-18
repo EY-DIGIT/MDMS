@@ -21071,6 +21071,18 @@
         "serviceCode": "pt-calculator-v2",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5570,
+        "name": "PT Payment search",
+        "url": "/collection-services/payments/PT.BIFURCATION/_search",
+        "displayName": "PT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
     }
   ]
 }
