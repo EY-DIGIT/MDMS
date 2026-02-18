@@ -33893,6 +33893,18 @@
       "actionid": 5570,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 5571,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 5571,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }

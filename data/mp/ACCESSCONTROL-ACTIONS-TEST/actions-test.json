@@ -21083,6 +21083,18 @@
         "serviceCode": "",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 5571,
+      "name": "Count TradeLicense",
+      "url": "/tl-services/v1/_count",
+      "parentModule": "",
+      "displayName": "Count TradeLicense",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
