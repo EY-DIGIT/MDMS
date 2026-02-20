@@ -890,6 +890,10 @@
 	{
       "format": "RN-BI-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
       "idname": "pt.bifurcation.receipt.id.imc"
+    },
+	{
+      "format": "RN-TL-[YY]-[MM]-[DD]-[SEQ_COLL_RCPT_NUM]",
+      "idname": "tl.receipt.id.imc"
     }
   ]
 }
