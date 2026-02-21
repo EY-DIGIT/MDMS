@@ -95,7 +95,7 @@
     {
       "id": "10",
       "connectionType": "Non Metered",
-      "subType": "RateZone",
+      "subType": "RateZone5",
       "connectionSize": "0.50",
       "charges": 1000,
 	  "serviceCharges": 5,
