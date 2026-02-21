@@ -85,7 +85,7 @@
     {
       "id": "9",
       "connectionType": "Non Metered",
-      "subType": "BUC",
+      "subType": "BUILDINGUNDERCONSTRUCTION",
       "connectionSize": "0.50",
       "charges": 2500,
 	  "serviceCharges": 5,
