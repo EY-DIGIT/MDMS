@@ -62,7 +62,7 @@
       "id": "5",
       "usageType": "RESIDENTIAL",
       "subType": "RESIDENTIAL",
-      "subTypeDiscription": "Handicapped",
+      "subTypeDiscription": "Residential",
       "connectionType": "Non Metered",
       "calculationAttribute": "Water consumption",
       "connectionSize": "0.50",
