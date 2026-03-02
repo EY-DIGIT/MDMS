@@ -8,9 +8,9 @@
       "active": true
     },
     {
-    "name": "Tax",
-    "code": "REV",
-    "active": true
+      "name": "Tax",
+      "code": "REV",
+      "active": true
     },
     {
       "name": "Accounts",
@@ -50,6 +50,240 @@
     {
       "name": "Garbage",
       "code": "DEPT_3",
+      "active": true
+    },
+    { 
+      "name": "Building Permission Branch",
+      "code": "BPB", 
+      "active": true 
+    },
+    { 
+      "name": "Public Works", 
+      "code": "PWD", 
+      "active": true 
+    },
+    { 
+      "name": "Self-Finance", 
+      "code": "SFI", 
+      "active": true 
+    },
+    { "name": "Roads and Footpaths", 
+      "code": "RAF",
+       "active": true 
+    },
+    { 
+      "name": "Bridges and Flyovers", 
+      "code": "BAF", 
+      "active": true 
+    },
+    { 
+      "name": "Water Supply (Narmada Division One – Mandleshwar)", 
+      "code": "WSND1", 
+      "active": true 
+    },
+    { 
+      "name": "Water Supply (Narmada Division Two – Musakhedi)", 
+      "code": "WSND2", 
+      "active": true 
+    },
+    {
+      "name": "Water Distribution",
+      "code": "WDIS",
+      "active": true
+    },
+    {
+      "name": "Tube Well Drilling",
+      "code": "TWD",
+      "active": true
+    },
+    {
+      "name": "Yashwant Sagar Pumping Station",
+      "code": "YSPS",
+      "active": true
+    },
+    {
+      "name": "Sewerage Department",
+      "code": "SEW",
+      "active": true
+    },
+    {
+      "name": "Workshop Department",
+      "code": "WSD",
+      "active": true
+    },
+    {
+      "name": "Parks, Gardens and Traffic Islands",
+      "code": "PGTI",
+      "active": true
+    },
+    {
+      "name": "Sports Cell",
+      "code": "SPC",
+      "active": true
+    },
+    {
+      "name": "Zoo Maintenance",
+      "code": "ZOO",
+      "active": true
+    },
+    {
+      "name": "Urban Poverty Alleviation",
+      "code": "UPA",
+      "active": true
+    },
+    {
+      "name": "City Lighting Cell",
+      "code": "CLC",
+      "active": true
+    },
+    {
+      "name": "Solar City Cell",
+      "code": "SCC",
+      "active": true
+    },
+    {
+      "name": "Traffic and Transport Management",
+      "code": "TTM",
+      "active": true
+    },
+    {
+      "name": "AMRUT Scheme (Atal Mission for Rejuvenation and Urban Transformation)",
+      "code": "AMRUT",
+      "active": true
+    },
+    {
+      "name": "Pradhan Mantri Awas Yojana (Prime Minister’s Housing Scheme)",
+      "code": "PMAY",
+      "active": true
+    },
+    {
+      "name": "Swachh Bharat Mission (Clean India Mission)",
+      "code": "SBM",
+      "active": true
+    },
+    {
+      "name": "Public Health Information Centre",
+      "code": "PHIC",
+      "active": true
+    },
+    {
+      "name": "Waste Disposal Management",
+      "code": "WDM",
+      "active": true
+    },
+    {
+      "name": "Public Health",
+      "code": "PH",
+      "active": true
+    },
+    {
+      "name": "Street Cleaning",
+      "code": "STC",
+      "active": true
+    },
+    {
+      "name": "Solid Waste Management",
+      "code": "SWM",
+      "active": true
+    },
+    {
+      "name": "JNNURM (Jawaharlal Nehru National Urban Renewal Mission)",
+      "code": "JNNURM",
+      "active": true
+    },
+    {
+      "name": "UDAY Project",
+      "code": "UDAY",
+      "active": true
+    },
+    {
+      "name": "Smart City",
+      "code": "SMART",
+      "active": true
+    },
+    {
+      "name": "Public Relations Department",
+      "code": "PRD",
+      "active": true
+    },
+    {
+      "name": "Municipal Commissioner’s Office",
+      "code": "MCO",
+      "active": true
+    },
+    {
+      "name": "Legal Department",
+      "code": "LEG",
+      "active": true
+    },
+    {
+      "name": "Laboratory",
+      "code": "LAB",
+      "active": true
+    },
+    {
+      "name": "Right to Information (RTI)",
+      "code": "RTI",
+      "active": true
+    },
+    {
+      "name": "Budget, Financial Management and Accounts Department",
+      "code": "BFAD",
+      "active": true
+    },
+    {
+      "name": "Pension and Retirement Benefits",
+      "code": "PRB",
+      "active": true
+    },
+    {
+      "name": "Hardware and Network Management Cell",
+      "code": "HNMC",
+      "active": true
+    },
+    {
+      "name": "Materials / Stores",
+      "code": "STO",
+      "active": true
+    },
+    {
+      "name": "Urban Planning Section",
+      "code": "UPS",
+      "active": true
+    },
+    {
+      "name": "Property Tax Section",
+      "code": "PTS",
+      "active": true
+    },
+    {
+      "name": "Water Tax Section",
+      "code": "WTS",
+      "active": true
+    },
+    {
+      "name": "Advertisement Tax Section",
+      "code": "ATS",
+      "active": true
+    },
+    {
+      "name": "Other Taxes",
+      "code": "OTAX",
+      "active": true
+    },
+    {
+      "name": "License and Other Consumer Fee Section",
+      "code": "LCF",
+      "active": true
+    },
+    {
+      "name": "Assessment Department (Revenue)",
+      "code": "ADR",
+      "active": true
+    },
+    {
+      "name": "Market Revenue Department",
+      "code": "MRD",
       "active": true
     }
   ]
