@@ -1809,6 +1809,17 @@
       "isCitizen": true,
       "type": "Adhoc",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "PT.BIFURCATION",
+      "code": "PT.BIFURCATION",
+      "collectionModesNotAllowed": [
+        "DD","POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }

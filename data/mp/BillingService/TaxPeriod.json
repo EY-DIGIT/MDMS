@@ -1193,6 +1193,14 @@
       "service": "DEATH_CERT",
       "code": "DEATHCERT",
       "financialYear": "2019-30"
-    }
+    },
+    {
+      "fromDate": 1743460200000,
+      "toDate": 1774999199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.BIFURCATION",
+      "code": "PTBIFURCATION2025",
+      "financialYear": "2025-26"
+  }
   ]
 }

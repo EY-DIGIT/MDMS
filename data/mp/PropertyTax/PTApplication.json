@@ -1,7 +1,8 @@
 {
     "tenantId": "mp",
     "moduleName": "PropertyTax",
-    "PTApplication": [{
+    "PTApplication": [
+      {
         "creationReason": "MUTATION",
         "businessService": "PT.MUTATION",
         "action": "OPEN",
@@ -20,6 +21,12 @@
       }, {
         "creationReason": "LEGACY_ENTRY",
         "businessService": "PT.LEGACY",
+        "action": "OPEN",
+        "editAction": "REOPEN"
+      },
+      {
+        "creationReason": "BIFURCATION",
+        "businessService": "PT.BIFURCATION",
         "action": "OPEN",
         "editAction": "REOPEN"
       }

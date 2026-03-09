@@ -21071,6 +21071,30 @@
         "serviceCode": "pt-calculator-v2",
         "code": "null",
         "path": ""
-    }    
+    },
+    {
+        "id": 5570,
+        "name": "PT Payment search",
+        "url": "/collection-services/payments/PT.BIFURCATION/_search",
+        "displayName": "PT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 5571,
+      "name": "Count TradeLicense",
+      "url": "/tl-services/v1/_count",
+      "parentModule": "",
+      "displayName": "Count TradeLicense",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

@@ -2185,6 +2185,56 @@
     },
     {
       "category": "FEE",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Fees",
+      "code": "PT_BIFURCATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "REBATE",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Rebate",
+      "code": "PT_BIFURCATION_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Penalty",
+      "code": "PT_BIFURCATION_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.BIFURCATION",
+      "name": "Pt bifurcation adhoc rebate",
+      "code": "PT_BIFURCATION_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.BIFURCATION",
+      "name": "Pt bifurcation adhoc penalty",
+      "code": "PT_BIFURCATION_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "TL",
       "name": "TL Renewal Tax",
       "code": "TL_RENEWAL_TAX",
@@ -6019,6 +6069,45 @@
       "service": "PT.MUTATION",
       "name": "PT Mutation Fee Advertiesment",
       "code": "PT_MUTATION_FEE_ADVERTIESMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Fee Registry Doc",
+      "code": "PT_BIFURCATION_FEE_REGISTRY_DOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Fee Registry Vikray Patra",
+      "code": "PT_BIFURCATION_FEE_REGISTRY_VIKRAY_PATRA",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Fee Registry Abhilekh",
+      "code": "PT_BIFURCATION_FEE_REGISTRY_ABHILEKH",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    }, {
+      "category": "FEE",
+      "service": "PT.BIFURCATION",
+      "name": "PT Bifurcation Fee Advertiesment",
+      "code": "PT_BIFURCATION_FEE_ADVERTIESMENT",
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
