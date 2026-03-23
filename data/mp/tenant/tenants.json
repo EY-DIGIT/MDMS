@@ -7,6 +7,7 @@
       "name": "indore",
       "description": "indore",
       "logoId": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/state_logo_bg_img.png",
+      "headerLogo": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/image%2014.svg",
       "imageId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg.citya/logo.png",
       "domainUrl": "www.mccitya.in",
       "type": "CITY",
