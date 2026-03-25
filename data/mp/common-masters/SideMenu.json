@@ -232,7 +232,7 @@
                                     "Icon": "buildingMaroonIcon",
                                     "URL": {
                                         "employee": "",
-                                        "citizen": "/digit-ui/citizen/tl-home"
+                                        "citizen": "/digit-ui/citizen/tl/tradelicense/Actions"
                                     },
                                     "other_data": "Water services",
                                     "matadata": "Water metadata"
@@ -253,7 +253,7 @@
                                         "ROLE": [
                                             "employee"
                                         ],
-                                        "URL": "/digit-ui/employee/tl/new-application",
+                                        "URL": "/digit-ui/employee/tl/tradelicense/Actions",
                                         "Icon": "cashDesk"
                                     }
                                 }

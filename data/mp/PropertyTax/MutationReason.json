@@ -61,18 +61,8 @@
       "active": true
     },
     {
-      "name": "Authority Letter",
-      "code": "AUTHORITYLETTER",
-      "active": true
-    },
-    {
       "name": "Will (Registered/ Unregistered)",
       "code": "REGISTEREDUNREGISTEREDWILL",
-      "active": true
-    },
-    {
-      "name": "Dharanadhikar",
-      "code": "DHARANADHIKAR",
       "active": true
     },
     {
