@@ -1217,6 +1217,26 @@
       "code": "WS_AC",
       "name": "WS_AC",
       "description": "ADDITIONAL COMMISSIONER"
+    },
+    {
+      "code": "PROPERTY_OWNER_RC",
+      "name": "Property Owner Road Cutting",
+      "description": "Property Owner for Road Cutting"
+    },
+    {
+      "code": "DEPARTMENT_RC",
+      "name": "Department Road Cutting",
+      "description": "Department for Road Cutting"
+    },
+    {
+      "code": "SUB_ENGINEER_RC",
+      "name": "Sub Engineer Road Cutting",
+      "description": "Sub Engineer for Road Cutting"
+    },
+    {
+      "code": "ZONEOFFICER_RC",
+      "name": "Zoneofficer Road Cutting",
+      "description": "Zoneofficer for Road Cutting"
     }
   ]
 }
