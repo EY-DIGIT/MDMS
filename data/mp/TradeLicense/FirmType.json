@@ -1,0 +1,26 @@
+{
+    "tenantId": "mp",
+    "moduleName": "TradeLicense",
+    "FirmType": [
+        {
+            "code": "OWNERSHIP", 
+            "name": "Ownership",
+            "active": true
+        },
+        {
+            "code": "PROPRIETORSHIP", 
+            "name": "Proprietorship",
+            "active": true
+        },
+        {
+            "code": "PARTNERSHIP", 
+            "name": "Partnership",
+            "active": true
+        },
+        {
+            "code": "OTHERS", 
+            "name": "Others",
+            "active": true
+        }
+    ]
+}
