@@ -529,10 +529,14 @@
                                         "FSM_EDITOR_EMP",
                                         "FSM_ADMIN",
                                         "FSM_DSO",
-                                        "FSM_EMP_FSTPO"
+                                        "FSM_EMP_FSTPO",
+                                        "PROPERTY_OWNER_RC",
+                                        "DEPARTMENT_RC",
+                                        "SUB_ENGINEER_RC",
+                                        "ZONEOFFICER_RC"
                                     ],
                                     "Icon": "debris_icon",
-                                    "URL": "dashboard/citizen-services?service=7",
+                                    "URL": "dashboard/citizen-services?service=35",
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
                                     "isExternal": true
