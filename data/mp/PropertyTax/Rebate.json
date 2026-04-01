@@ -15,6 +15,13 @@
       "flatAmount": null,
       "fromFY": "2025-26",
       "endingDay": "30/06"
+    },
+    {
+      "rate": 6.25,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2026-27",
+      "endingDay": "30/06"
     }
   ]
   

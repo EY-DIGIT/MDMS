@@ -6,6 +6,27 @@
       "rate": 5,
       "minAmount": null,
       "flatAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/01/2027"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/02/2027"
+    },
+    {
+      "rate": 15,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/03/2027"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "flatAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1/01/2026"
     },
