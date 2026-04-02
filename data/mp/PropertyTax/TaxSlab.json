@@ -697,6 +697,30 @@
     "maxAmount": "Infinity",
     "rate": 10,
     "fromFY": "2025-26"
+  },
+  {
+    "minAmount": 0,
+    "maxAmount": 6000,
+    "rate": 0,
+    "fromFY": "2026-27"
+  },
+  {
+    "minAmount": 6001,
+    "maxAmount": 25000,
+    "rate": 6,
+    "fromFY": "2026-27"
+  },
+  {
+    "minAmount": 25001,
+    "maxAmount": 45000,
+    "rate": 8,
+    "fromFY": "2026-27"
+  },
+  {
+    "minAmount": 45001,
+    "maxAmount": "Infinity",
+    "rate": 10,
+    "fromFY": "2026-27"
   }
 ]
 }
