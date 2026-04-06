@@ -109,6 +109,16 @@
                                         ],
                                         "URL": "/digit-ui/employee/pt/ArrearCorrectionLandingPage",
                                         "Icon": "newPropertyIcon"
+                                    },
+									 "MIS_REPORTS": {
+                                        "Name": "MIS_REPORTS",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee",
+                                            "ARO"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/MisLandingPage",
+                                        "Icon": "newPropertyIcon"
                                     }
                                 }
                             },
