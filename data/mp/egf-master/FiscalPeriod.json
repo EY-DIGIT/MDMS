@@ -15,11 +15,33 @@
     },
     {
       "tenantId": "mp",
+      "module": "egf-master",
+      "finYearRange": "2026-27",
+      "name": "August 2026",
+      "startingDate": 1774981800000,
+      "endingDate": 1806517799000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false
+    },
+    {
+      "tenantId": "mp",
       "module": "PT",
       "finYearRange": "2025-26",
       "name": "August 2025",
       "startingDate": 1753996800000,
       "endingDate": 1756502399000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false
+    },
+    {
+      "tenantId": "mp",
+      "module": "PT",
+      "finYearRange": "2026-27",
+      "name": "August 2026",
+      "startingDate": 1774981800000,
+      "endingDate": 1806517799000,
       "active": true,
       "isActiveForPosting": true,
       "isClosed": false
