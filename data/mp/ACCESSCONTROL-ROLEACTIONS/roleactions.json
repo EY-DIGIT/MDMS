@@ -22106,6 +22106,12 @@
       "tenantId": "mp"
   },
   {
+      "rolecode": "DGRO",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "mp"
+  },
+  {
       "rolecode": "STADMIN",
       "actionid": 5010,
       "actioncode": "",
