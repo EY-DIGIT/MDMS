@@ -268,47 +268,6 @@
                                     }
                                 }
                             },
-                            "COMPLAINT": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "WS_CLERK",
-                                        "WS_APPROVER",
-                                        "WS_FIELD_INSPECTOR",
-                                        "WS_DOC_VERIFIER",
-                                        "WS_CEMP",
-                                        "citizen"
-                                    ],
-                                    "Icon": "water_1",
-                                    "URL": {
-                                        "employee": "",
-                                        "citizen": "/digit-ui/citizen/pgr-home"
-                                    },
-                                    "other_data": "Water services",
-                                    "matadata": "Water metadata"
-                                },
-                                "SUB_MENU": {
-                                    "SEARCH_APPLICATION": {
-                                        "Name": "SEARCH_APPLICATION",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "ARO",
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pgr/inbox",
-                                        "Icon": "namantranIcon"
-                                    },
-                                    "NEW_COMPLAINT": {
-                                        "Name": "NEW_COMPLAINT",
-                                        "ROLE": [
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pgr/complaint/create",
-                                        "Icon": "cashDesk"
-                                    }
-                                }
-                            },
 							 "REQUEST_FOR_LITTER_COLLECTION": {
                                 "metadata": {
                                     "ROLE": [
@@ -644,6 +603,47 @@
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
                                     "isExternal": false
+                                }
+                            },
+                            "COMPLAINT": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "WS_CLERK",
+                                        "WS_APPROVER",
+                                        "WS_FIELD_INSPECTOR",
+                                        "WS_DOC_VERIFIER",
+                                        "WS_CEMP",
+                                        "citizen"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/pgr-home"
+                                    },
+                                    "other_data": "Water services",
+                                    "matadata": "Water metadata"
+                                },
+                                "SUB_MENU": {
+                                    "SEARCH_APPLICATION": {
+                                        "Name": "SEARCH_APPLICATION",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pgr/inbox",
+                                        "Icon": "namantranIcon"
+                                    },
+                                    "NEW_COMPLAINT": {
+                                        "Name": "NEW_COMPLAINT",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pgr/complaint/create",
+                                        "Icon": "cashDesk"
+                                    }
                                 }
                             }
                         }
