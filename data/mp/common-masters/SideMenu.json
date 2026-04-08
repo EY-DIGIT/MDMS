@@ -248,16 +248,6 @@
                                     "matadata": "Water metadata"
                                 },
                                 "SUB_MENU": {
-                                    "SEARCH_APPLICATION": {
-                                        "Name": "SEARCH_APPLICATION",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "ARO",
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/tl/inbox",
-                                        "Icon": "namantranIcon"
-                                    },
                                     "NEW_TRADE_LICENSE": {
                                         "Name": "NEW_TRADE_LICENSE",
                                         "ROLE": [
