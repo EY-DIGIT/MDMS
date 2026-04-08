@@ -21095,6 +21095,17 @@
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
+    },
+    {
+        "id": 5572,
+        "name": "Property Mis Report",
+        "url": "/property-services/property/_ptmisreport",
+        "displayName": "Property Mis Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }
