@@ -1237,6 +1237,11 @@
       "code": "ZONEOFFICER_RC",
       "name": "Zoneofficer Road Cutting",
       "description": "Zoneofficer for Road Cutting"
+    },
+    {
+      "code": "CLERK_HOARDING",
+      "name": "Clerk (Hoarding Permission)",
+      "description": "Clerk for Hoarding Permission"
     }
   ]
 }
