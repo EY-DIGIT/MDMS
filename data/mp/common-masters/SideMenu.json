@@ -613,7 +613,8 @@
                                         "citizen": "/digit-ui/citizen/pgr-home"
                                     },
                                     "other_data": "Water services",
-                                    "matadata": "Water metadata"
+                                    "matadata": "Water metadata",
+                                     "isExternal": false
                                 },
                                 "SUB_MENU": {
                                     "SEARCH_APPLICATION": {
