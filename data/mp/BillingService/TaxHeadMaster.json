@@ -283,6 +283,16 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "TL",
+      "name": "tl service charge",
+      "code": "TL_SERVICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "REBATE",
       "service": "PT",
       "name": "pt debit decimal",
