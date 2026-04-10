@@ -21106,6 +21106,18 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5573,
+        "name": "Update TradeLicense status",
+        "url": "/tl-services/v1/_statusupdate",
+        "parentModule": "",
+        "displayName": "Update TradeLicense status",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "tl-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }
