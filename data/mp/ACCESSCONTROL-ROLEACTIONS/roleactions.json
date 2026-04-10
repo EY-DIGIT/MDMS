@@ -33947,6 +33947,12 @@
       "actionid": 5572,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 5566,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }
