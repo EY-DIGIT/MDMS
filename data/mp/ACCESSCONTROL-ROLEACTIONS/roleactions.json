@@ -33965,6 +33965,12 @@
       "actionid": 5573,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5574,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }
