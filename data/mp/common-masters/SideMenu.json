@@ -638,6 +638,36 @@
                                 }
                             }
                         }
+                    },
+                    "SIDEMENU_HRMS_SERVICES": {
+                        "metadata": {
+                            "ROLE": [
+                               
+                                "SUPERUSER",
+                                "HRMS_ADMIN"
+                            ],
+                            "Icon": "citizen",
+                            "URL": {
+                                "employee": "/digit-ui/employee/pt/citizen-services",
+                                "citizen": "/digit-ui/citizen/pt/citizen-services"
+                            },
+                            "other_data": "Citizen related requests",
+                            "metadata": "Citizen metadata"
+                        },
+                        "SUB_MENU": {
+                            "HRMS": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "HRMS_ADMIN"
+                                    ],
+                                    "Icon": "marriage_icon",
+                                    "URL": "/digit-ui/employee/hrms/create",
+                                    "other_data": "hrms",
+                                    "metadata": "hrms metadata",
+                                    "isExternal": false
+                                }
+                            }
+                        }
                     }
                 }
             }
