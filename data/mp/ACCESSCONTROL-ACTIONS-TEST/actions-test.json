@@ -21118,6 +21118,18 @@
         "serviceCode": "tl-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5574,
+        "name": "MIS Report TradeLicense",
+        "url": "/tl-services/v1/_tlstatussummary",
+        "parentModule": "",
+        "displayName": "MIS Report TradeLicense",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "tl-services",
+        "code": "null",
+        "path": ""
     }
   ]
 }
