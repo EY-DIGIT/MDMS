@@ -1252,6 +1252,16 @@
       "code": "CLERK_3_FV",
       "name": "Clerk (Shift 3) Funeral Van",
       "description": "Clerk for Funeral Van (Shift 3) "
+    },
+    {
+      "code": "PMAY_HOD",
+      "name": "HOD (PMAY)",
+      "description": "PMAY HOD "
+    },
+    {
+      "code": "PMAY_ACCOUNT_OFFICER",
+      "name": "Account Officer (PMAY)",
+      "description": "PMAY Account Officer "
     }
   ]
 }

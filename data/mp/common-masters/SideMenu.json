@@ -537,21 +537,23 @@
                                     "isExternal": true
                                 }
                             },
-							 "REQUEST_FOR_SHOP_SIGNAGE": {
+							 "PMAY": {
                                 "metadata": {
-                                    "Name": "Request For Shop Signage",
+                                    "Name": "PMAY",
                                     "ROLE": [
                                         "citizen",
                                         "FSM_CREATOR_EMP",
                                         "FSM_EDITOR_EMP",
                                         "FSM_ADMIN",
                                         "FSM_DSO",
-                                        "FSM_EMP_FSTPO"
+                                        "FSM_EMP_FSTPO",
+                                        "PMAY_HOD",
+                                        "PMAY_ACCOUNT_OFFICER"
                                     ],
-                                    "Icon": "amusement_icon",
-                                    "URL": "dashboard/citizen-services?service=32",
+                                    "Icon": "property_1",
+                                    "URL": "dashboard/citizen-services?service=36",
                                     "other_data": "Auditorium public request",
-                                    "metadata": "Auditorium metadata",
+                                    "metadata": "Pmay metadata",
                                     "isExternal": true
                                 }
                             },
