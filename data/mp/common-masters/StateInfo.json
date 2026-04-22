@@ -134,7 +134,7 @@
         "property_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Property.svg",
   "rental_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Rental.svg",
   "water_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Water.svg",
-  "created_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/created.svg",
+  "created": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/created.svg",
   "forwarded": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/forwarded.svg",
   "rejected_1": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rejected.svg",
   "total_applied": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/total%20applied.svg",
