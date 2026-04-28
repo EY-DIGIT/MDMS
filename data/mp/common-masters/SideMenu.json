@@ -494,7 +494,7 @@
                                         "SUB_ENGINEER_RC",
                                         "ZONEOFFICER_RC"
                                     ],
-                                    "Icon": "debris_icon",
+                                    "Icon": "road_cutting_icon",
                                     "URL": "dashboard/citizen-services?service=35",
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",
