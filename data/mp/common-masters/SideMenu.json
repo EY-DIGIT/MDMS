@@ -241,7 +241,7 @@
                                     ],
                                     "Icon": "buildingMaroonIcon",
                                     "URL": {
-                                        "employee": "",
+                                        "employee": "/digit-ui/employee/tl/tradelicense/Actions",
                                         "citizen": "/digit-ui/citizen/tl/tradelicense/Actions"
                                     },
                                     "other_data": "Water services",
