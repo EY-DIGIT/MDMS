@@ -246,16 +246,7 @@
                                     },
                                     "other_data": "Water services",
                                     "matadata": "Water metadata"
-                                },
-                                "SUB_MENU": {
-                                    "NEW_TRADE_LICENSE": {
-                                        "Name": "NEW_TRADE_LICENSE",
-                                        "ROLE": [
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/tl/tradelicense/Actions",
-                                        "Icon": "cashDesk"
-                                    }
+                                
                                 }
                             },
 							 "REQUEST_FOR_LITTER_COLLECTION": {
