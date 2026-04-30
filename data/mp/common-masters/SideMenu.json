@@ -119,6 +119,24 @@
                                         ],
                                         "URL": "/digit-ui/employee/pt/MisLandingPage",
                                         "Icon": "newPropertyIcon"
+                                    },
+                                     "NAMANTARAN_CASHDESK": {
+                                        "Name": "NAMANTARAN_CASHDESK",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee",
+                                            "ARO"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
+                                        "Icon": "newPropertyIcon"
+                                    },
+                                     "DASHBOARD": {
+                                        "Name": "DASHBOARD",
+                                        "ROLE": [
+                                            "COMMISSIONER"
+                                        ],
+                                        "URL": "digit-ui/employee/dashboard-property",
+                                        "Icon": "newPropertyIcon"
                                     }
                                 }
                             },
@@ -241,21 +259,12 @@
                                     ],
                                     "Icon": "buildingMaroonIcon",
                                     "URL": {
-                                        "employee": "",
+                                        "employee": "/digit-ui/employee/tl/tradelicense/Actions",
                                         "citizen": "/digit-ui/citizen/tl/tradelicense/Actions"
                                     },
                                     "other_data": "Water services",
                                     "matadata": "Water metadata"
-                                },
-                                "SUB_MENU": {
-                                    "NEW_TRADE_LICENSE": {
-                                        "Name": "NEW_TRADE_LICENSE",
-                                        "ROLE": [
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/tl/tradelicense/Actions",
-                                        "Icon": "cashDesk"
-                                    }
+                                
                                 }
                             },
 							 "REQUEST_FOR_LITTER_COLLECTION": {
@@ -494,7 +503,7 @@
                                         "SUB_ENGINEER_RC",
                                         "ZONEOFFICER_RC"
                                     ],
-                                    "Icon": "debris_icon",
+                                    "Icon": "road_cutting_icon",
                                     "URL": "dashboard/citizen-services?service=35",
                                     "other_data": "Debris collection request",
                                     "metadata": "Debris metadata",

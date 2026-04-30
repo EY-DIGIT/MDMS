@@ -21130,6 +21130,17 @@
         "serviceCode": "tl-services",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 5575,
+        "name": "Collection Update Reciept",
+        "url": "/collection-services/payments/_updateFileStoreId",
+        "displayName": "Update paymentt",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "COLLECTION",
+        "code": "null",
+        "path": ""
     }
   ]
 }
