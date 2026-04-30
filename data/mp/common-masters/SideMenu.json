@@ -119,6 +119,16 @@
                                         ],
                                         "URL": "/digit-ui/employee/pt/MisLandingPage",
                                         "Icon": "newPropertyIcon"
+                                    },
+                                     "NAMANTARAN_CASHDESK": {
+                                        "Name": "NAMANTARAN_CASHDESK",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee",
+                                            "ARO"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
+                                        "Icon": "newPropertyIcon"
                                     }
                                 }
                             },
