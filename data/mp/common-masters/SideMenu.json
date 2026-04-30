@@ -115,7 +115,8 @@
                                         "ROLE": [
                                             "billcollector",
                                             "employee",
-                                            "ARO"
+                                            "ARO",
+											"COMMISSIONER"
                                         ],
                                         "URL": "/digit-ui/employee/pt/MisLandingPage",
                                         "Icon": "newPropertyIcon"
