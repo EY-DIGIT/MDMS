@@ -136,7 +136,7 @@
                                         "ROLE": [
                                             "COMMISSIONER"
                                         ],
-                                        "URL": "digit-ui/employee/dashboard-property",
+                                        "URL": "/digit-ui/employee/dashboard-property",
                                         "Icon": "newPropertyIcon"
                                     }
                                 }
