@@ -53,7 +53,7 @@
                                             "ARO",
                                             "employee"
                                         ],
-                                        "URL": "/digit-ui/employee/pt/namantaran/landing",
+                                        "URL": "digit-ui/employee/pt/namantaran/landing",
                                         "Icon": "namantranIcon"
                                     },
                                     "CASHDESK": {
