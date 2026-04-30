@@ -33983,6 +33983,24 @@
       "actionid": 5574,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5544,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5575,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }

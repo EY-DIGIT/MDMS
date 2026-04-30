@@ -160,7 +160,8 @@
         "inr": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/ph_currency-inr.svg",
         "revenue_selected": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/revenue%20selected.svg",
         "revenue": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/revenue.svg",
-        "water_tanker_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/water%20tanker%20icon%20(2).svg"
+        "water_tanker_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/water%20tanker%20icon%20(2).svg",
+        "road_cutting_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/road-Cutting.svg"
       }
     }
   ]
