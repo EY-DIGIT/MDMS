@@ -129,6 +129,14 @@
                                         ],
                                         "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
                                         "Icon": "newPropertyIcon"
+                                    },
+                                     "DASHBOARD": {
+                                        "Name": "DASHBOARD",
+                                        "ROLE": [
+                                            "COMMISSIONER"
+                                        ],
+                                        "URL": "digit-ui/employee/dashboard-property",
+                                        "Icon": "newPropertyIcon"
                                     }
                                 }
                             },
