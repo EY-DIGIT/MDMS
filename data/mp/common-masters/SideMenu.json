@@ -138,6 +138,17 @@
                                         ],
                                         "URL": "/digit-ui/employee/dashboard-property",
                                         "Icon": "newPropertyIcon"
+                                    },
+									 "BULK_REPORT": {
+                                        "Name": "BULK_REPORT",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee",
+                                            "ARO",
+											"COMMISSIONER"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/PropertyTaxBillPrinting",
+                                        "Icon": "newPropertyIcon"
                                     }
                                 }
                             },
