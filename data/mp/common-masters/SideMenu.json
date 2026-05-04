@@ -124,9 +124,7 @@
                                      "NAMANTARAN_CASHDESK": {
                                         "Name": "NAMANTARAN_CASHDESK",
                                         "ROLE": [
-                                            "billcollector",
-                                            "employee",
-                                            "ARO"
+                                            "CASHIER"
                                         ],
                                         "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
                                         "Icon": "newPropertyIcon"
