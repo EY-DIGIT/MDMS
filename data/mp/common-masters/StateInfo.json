@@ -164,7 +164,8 @@
         "revenue_selected": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/revenue%20selected.svg",
         "revenue": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/revenue.svg",
         "water_tanker_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/water%20tanker%20icon%20(2).svg",
-        "road_cutting_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/road-Cutting.svg"
+        "road_cutting_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/road-Cutting.svg",
+        "other_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/grid_view.svg"
       }
     }
   ]
