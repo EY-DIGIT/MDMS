@@ -124,9 +124,7 @@
                                      "NAMANTARAN_CASHDESK": {
                                         "Name": "NAMANTARAN_CASHDESK",
                                         "ROLE": [
-                                            "billcollector",
-                                            "employee",
-                                            "ARO"
+                                            "CASHIER"
                                         ],
                                         "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
                                         "Icon": "newPropertyIcon"
@@ -137,6 +135,17 @@
                                             "COMMISSIONER"
                                         ],
                                         "URL": "/digit-ui/employee/dashboard-property",
+                                        "Icon": "newPropertyIcon"
+                                    },
+									 "BULK_REPORT": {
+                                        "Name": "BULK_REPORT",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee",
+                                            "ARO",
+											"COMMISSIONER"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/PropertyTaxBillPrinting",
                                         "Icon": "newPropertyIcon"
                                     }
                                 }
