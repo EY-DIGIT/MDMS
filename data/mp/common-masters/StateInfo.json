@@ -165,7 +165,22 @@
         "revenue": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/revenue.svg",
         "water_tanker_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/water%20tanker%20icon%20(2).svg",
         "road_cutting_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/road-Cutting.svg",
-        "other_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/grid_view.svg"
+        "other_icon": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/grid_view.svg",
+        "water_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/water.svg",
+        "notification_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/notification.svg",
+        "message_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/message.svg",
+        "ledger_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/ledger.svg",
+        "hand_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/hand.svg",
+        "link_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/link.svg",
+        "home1_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/home1.svg",
+        "grievance_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/greivance.svg",
+        "commercial_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/commercial.svg",
+        "citizenservices_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/citizenservices.svg",
+        "certificate_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/certificate.svg",
+        "waterCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/waterCardIcon.svg",
+        "sewerageCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/sewerageCardIcon.svg",
+        "propertyCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/propertyCardIcon.svg",
+        "tradeCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/TradeCardIcon.svg"
       }
     }
   ]
