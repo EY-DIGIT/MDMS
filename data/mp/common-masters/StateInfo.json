@@ -162,7 +162,22 @@
         "revenue": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/revenue.svg",
         "water_tanker_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/water%20tanker%20icon%20(2).svg",
         "road_cutting_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/road-Cutting.svg",
-        "other_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/grid_view.svg"
+        "other_icon": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/grid_view.svg",
+        "water_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/water.svg",
+        "notification_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/notification.svg",
+        "message_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/message.svg",
+        "ledger_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/ledger.svg",
+        "hand_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/hand.svg",
+        "link_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/link.svg",
+        "home1_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/home1.svg",
+        "grievance_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/greivance.svg",
+        "commercial_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/commercial.svg",
+        "citizenservices_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/citizenservices.svg",
+        "certificate_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/certificate.svg",
+        "waterCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/waterCardIcon.svg",
+        "sewerageCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/sewerageCardIcon.svg",
+        "propertyCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/propertyCardIcon.svg",
+        "tradeCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/TradeCardIcon.svg"
       }
     }
   ]
