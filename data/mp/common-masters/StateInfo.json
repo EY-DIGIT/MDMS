@@ -182,7 +182,10 @@
         "propertyCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/propertyCardIcon.svg",
         "tradeCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/TradeCardIcon.svg",
         "rental_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental_dash.svg",
-        "grievance_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Grievance.svg"
+        "grievance_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Grievance.svg",
+        "calculator_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/calculator.svg",
+        "metro_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/metro.svg",
+        "MPlogo_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/MPlogo.svg"
       }
     }
   ]
