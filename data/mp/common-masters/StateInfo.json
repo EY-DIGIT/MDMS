@@ -179,7 +179,10 @@
         "propertyCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/propertyCardIcon.svg",
         "tradeCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/TradeCardIcon.svg",
         "rental_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental_dash.svg",
-        "grievance_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Grievance.svg"
+        "grievance_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Grievance.svg",
+        "calculator_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/calculator.svg",
+        "metro_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/metro.svg",
+        "MPlogo_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/MPlogo.svg"
       }
     }
   ]
