@@ -180,7 +180,9 @@
         "waterCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/waterCardIcon.svg",
         "sewerageCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/sewerageCardIcon.svg",
         "propertyCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/propertyCardIcon.svg",
-        "tradeCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/TradeCardIcon.svg"
+        "tradeCardIcon_dashboard": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/TradeCardIcon.svg",
+        "rental_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/rental_dash.svg",
+        "grievance_dash": "https://tfstate4kmlu.blob.core.windows.net/imc-uat-assets/Grievance.svg"
       }
     }
   ]
