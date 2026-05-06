@@ -177,7 +177,9 @@
         "waterCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/waterCardIcon.svg",
         "sewerageCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/sewerageCardIcon.svg",
         "propertyCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/propertyCardIcon.svg",
-        "tradeCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/TradeCardIcon.svg"
+        "tradeCardIcon_dashboard": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/TradeCardIcon.svg",
+        "rental_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/rental_dash.svg",
+        "grievance_dash": "https://devtfstatep7f19.blob.core.windows.net/imc-dev-assets/Grievance.svg"
       }
     }
   ]
