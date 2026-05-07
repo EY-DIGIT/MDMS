@@ -236,7 +236,7 @@
       "serviceCode": "IllegalShopsOnFootPath",
       "name": "Illegal shops on footpath",
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "DEPT_6",
+      "department": "BPB",
       "slaHours": 336,
       "menuPath": "LandViolations",
       "active": true
@@ -245,7 +245,7 @@
       "serviceCode": "IllegalConstructions",
       "name": "Illegal constructions",
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "DEPT_6",
+      "department": "BPB",
       "slaHours": 336,
       "menuPath": "LandViolations",
       "active": true
@@ -254,7 +254,7 @@
       "serviceCode": "IllegalParking",
       "name": "Illegal parking",
       "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "DEPT_6",
+      "department": "BPB",
       "slaHours": 336,
       "menuPath": "LandViolations",
       "active": true
