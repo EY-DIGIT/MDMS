@@ -63,7 +63,7 @@
       "serviceCode": "OverflowingOrBlockedDrain",
       "name": "Overflowing/Blocked drain",
       "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "Drains",
       "active": true
@@ -72,7 +72,7 @@
       "serviceCode": "illegalDischargeOfSewage",
       "name": "Illegal discharge of sewage",
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true
@@ -81,7 +81,7 @@
       "serviceCode": "BlockOrOverflowingSewage",
       "name": "Block / Overflowing sewage",
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true,
@@ -91,7 +91,7 @@
       "serviceCode": "ShortageOfWater",
       "name": "Shortage of water",
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true
@@ -100,7 +100,7 @@
       "serviceCode": "NoWaterSupply",
       "name": "No water supply",
       "keywords": "water, supply, connection, drink, tap",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true
@@ -109,7 +109,7 @@
       "serviceCode": "DirtyWaterSupply",
       "name": "Dirty water supply",
       "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true
@@ -118,7 +118,7 @@
       "serviceCode": "BrokenWaterPipeOrLeakage",
       "name": "Broken water pipe / Leakage",
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true,
@@ -128,7 +128,7 @@
       "serviceCode": "WaterPressureisVeryLess",
       "name": "Water pressure is very less",
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true
@@ -137,7 +137,7 @@
       "serviceCode": "DamagedRoad",
       "name": "Damaged road",
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
       "active": true
@@ -146,7 +146,7 @@
       "serviceCode": "WaterLoggedRoad",
       "name": "Water logged road",
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
       "active": true
@@ -155,7 +155,7 @@
       "serviceCode": "ManholeCoverMissingOrDamaged",
       "name": "Manhole cover is missing/damaged",
       "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
       "active": true
@@ -164,7 +164,7 @@
       "serviceCode": "DamagedOrBlockedFootpath",
       "name": "Damaged/blocked footpath",
       "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
       "active": true
@@ -173,7 +173,7 @@
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
       "name": "Construction material lying on the road",
       "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
-      "department": "DEPT_4",
+      "department": "SEW",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
       "active": true
