@@ -140,10 +140,8 @@
 									 "BULK_REPORT": {
                                         "Name": "BULK_REPORT",
                                         "ROLE": [
-                                            "billcollector",
                                             "employee",
-                                            "ARO",
-											"COMMISSIONER"
+                                            "ARO"
                                         ],
                                         "URL": "/digit-ui/employee/pt/PropertyTaxBillPrinting",
                                         "Icon": "newPropertyIcon"

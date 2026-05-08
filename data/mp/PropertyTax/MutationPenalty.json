@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "MutationPenalty": [
     {
-      "rate": 10,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2018-19",
@@ -11,7 +11,7 @@
       "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 20,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2015-16",
@@ -20,7 +20,7 @@
 
     },
     {
-      "rate": 20,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2018-19",
@@ -28,7 +28,7 @@
       "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 20,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
@@ -36,7 +36,7 @@
       "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 20,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2020-21",
@@ -44,7 +44,7 @@
       "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 20,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2025-26",
