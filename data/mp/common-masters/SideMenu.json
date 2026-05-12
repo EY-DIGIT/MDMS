@@ -655,6 +655,42 @@
                                         "Icon": "cashDesk"
                                     }
                                 }
+                            },
+                            "HOARDING_PERMISSSION": {
+                                "metadata": {
+                                    "Name": "Hoarding Permission",
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "amusement_icon",
+                                    "URL": "dashboard/citizen-services?service=32",
+                                    "other_data": "Hoarding Permission",
+                                    "metadata": "Hoarding Permission metadata",
+                                    "isExternal": true
+                                }
+                            },
+                            "HOARDING_VENDOR_REGISTRATION": {
+                                "metadata": {
+                                    "Name": "Hoarding Vendor Registration",
+                                    "ROLE": [
+                                        "citizen",
+                                        "FSM_CREATOR_EMP",
+                                        "FSM_EDITOR_EMP",
+                                        "FSM_ADMIN",
+                                        "FSM_DSO",
+                                        "FSM_EMP_FSTPO"
+                                    ],
+                                    "Icon": "amusement_icon",
+                                    "URL": "dashboard/citizen-services?service=38",
+                                    "other_data": "Hoarding Vendor Registration",
+                                    "metadata": "Hoarding Vendor Registration metadata",
+                                    "isExternal": true
+                                }
                             }
                         }
                     },
