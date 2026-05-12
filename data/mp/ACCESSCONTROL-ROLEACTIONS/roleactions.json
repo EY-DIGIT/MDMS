@@ -34007,6 +34007,18 @@
       "actionid": 5564,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "COMMISSIONER",
+      "actionid": 5576,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5576,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }
