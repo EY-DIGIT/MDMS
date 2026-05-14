@@ -1244,6 +1244,11 @@
       "description": "Clerk for Hoarding Permission"
     },
     {
+      "code": "CLERK_1_FV",
+      "name": "Clerk (Shift 1) Funeral Van",
+      "description": "Clerk for Funeral Van (Shift 1) "
+    },
+    {
       "code": "CLERK_2_FV",
       "name": "Clerk (Shift 2) Funeral Van",
       "description": "Clerk for Funeral Van (Shift 2) "
