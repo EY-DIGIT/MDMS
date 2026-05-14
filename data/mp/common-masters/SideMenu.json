@@ -665,7 +665,8 @@
                                         "FSM_EDITOR_EMP",
                                         "FSM_ADMIN",
                                         "FSM_DSO",
-                                        "FSM_EMP_FSTPO"
+                                        "FSM_EMP_FSTPO",
+                                        "CLERK_HOARDING"
                                     ],
                                     "Icon": "amusement_icon",
                                     "URL": "dashboard/citizen-services?service=32",
@@ -683,7 +684,8 @@
                                         "FSM_EDITOR_EMP",
                                         "FSM_ADMIN",
                                         "FSM_DSO",
-                                        "FSM_EMP_FSTPO"
+                                        "FSM_EMP_FSTPO",
+                                        "CLERK_HOARDING"
                                     ],
                                     "Icon": "amusement_icon",
                                     "URL": "dashboard/citizen-services?service=38",
