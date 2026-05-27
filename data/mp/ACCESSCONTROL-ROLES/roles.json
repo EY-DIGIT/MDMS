@@ -1267,6 +1267,16 @@
       "code": "PMAY_ACCOUNT_OFFICER",
       "name": "Account Officer (PMAY)",
       "description": "PMAY Account Officer "
+    },
+    {
+      "code": "SBM_SUPERVISOR_MT",
+      "name": "SBM Supervisor (Mobile Toilet)",
+      "description": "First reviewer for CTPT mobile toilet requests"
+    },
+    {
+      "code": "CSI_MT",
+      "name": "CSI (Mobile Toilet)",
+      "description": "Field completion role for CTPT mobile toilet requests"
     }
   ]
 }
