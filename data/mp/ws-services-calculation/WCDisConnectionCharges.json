@@ -91,6 +91,96 @@
 	  "serviceCharges": 0,
       "formCharges": 0,
       "financialYear": "2025-26"
+    },
+    {
+      "id": "10",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "0.50",
+      "charges": 150,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "11",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "0.75",
+      "charges": 200,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "12",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "1",
+      "charges": 250,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "13",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "1.50",
+      "charges": 275,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "14",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "2",
+      "charges": 325,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "15",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "3",
+      "charges": 350,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "16",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "4",
+      "charges": 400,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "17",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "6",
+      "charges": 500,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "18",
+      "connectionType": "",
+      "subType": "",
+      "connectionSize": "8",
+      "charges": 500,
+	  "serviceCharges": 0,
+      "formCharges": 0,
+      "financialYear": "2026-27"
     }
   ]
 }

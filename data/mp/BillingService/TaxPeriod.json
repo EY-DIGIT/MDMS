@@ -5,6 +5,14 @@
     {
       "fromDate": 1711909800000,
       "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WC2026",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1901212199000,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2024",

@@ -181,6 +181,186 @@
 	  "serviceCharges": 5,
       "formCharges": 50,
       "financialYear": "2025-26"
+    },
+    {
+      "id": "19",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "0.50",
+      "charges": 2500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "20",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "0.75",
+      "charges": 3750,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "21",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "1",
+      "charges": 5000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "22",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "1.50",
+      "charges": 15000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "23",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "2",
+      "charges": 20000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "24",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "3",
+      "charges": 30000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "25",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "4",
+      "charges": 45000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "26",
+      "connectionType": "Non Metered",
+      "subType": "NA",
+      "connectionSize": "6",
+      "charges": 90000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "27",
+      "connectionType": "Non Metered",
+      "subType": "BUILDINGUNDERCONSTRUCTION",
+      "connectionSize": "0.50",
+      "charges": 2500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "28",
+      "connectionType": "Non Metered",
+      "subType": "RateZone5",
+      "connectionSize": "0.50",
+      "charges": 1000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "29",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "0.50",
+      "charges": 2500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "30",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "0.75",
+      "charges": 3750,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "31",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "1",
+      "charges": 10000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "32",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "1.50",
+      "charges": 22500,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "33",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "2",
+      "charges": 40000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "34",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "3",
+      "charges": 90000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "35",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "4",
+      "charges": 160000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
+    },
+    {
+      "id": "36",
+      "connectionType": "Metered",
+      "subType": "NA",
+      "connectionSize": "6",
+      "charges": 360000,
+	  "serviceCharges": 5,
+      "formCharges": 50,
+      "financialYear": "2026-27"
     }
   ]
 }
