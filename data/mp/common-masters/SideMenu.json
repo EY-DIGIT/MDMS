@@ -28,6 +28,235 @@
                             "metadata": "Citizen metadata"
                         },
                         "SUB_MENU": {
+                            "PROPERTY": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "BILL_COLLECTOR_RENTAL",
+                                        "ARO_RENTAL",
+                                        "DC_RENTAL",
+                                        "Bill_Collector_Rental",
+                                        "citizen"
+                                    ],
+                                    "Icon": "property_1",
+                                    "URL": {
+                                        "employee": "/revenue/property",
+                                        "citizen": "/digit-ui/citizen/pt/property/Actions"
+                                    },
+                                    "other_data": "Property related services",
+                                    "matadata": "Property metadata",
+                                    "isExternal": false
+                                },
+                                "SUB_MENU": {
+                                    "NAMANTARAN": {
+                                        "Name": "NAMANTARAN",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/namantaran/landing",
+                                        "Icon": "namantranIcon"
+                                    },
+                                    "CASHDESK": {
+                                        "Name": "CASHDESK",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/search",
+                                        "Icon": "cashDesk"
+                                    },
+									 "COLLECTION_REPORT": {
+                                        "Name": "COLLECTION_REPORT",
+                                        "ROLE": [
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/ReportCashier",
+                                        "Icon": "cashDesk"
+                                    },
+									  "CHANGE_IN_PROPERTY": {
+                                        "Name": "CHANGE_IN_PROPERTY",
+                                        "ROLE": [
+                                            "billcollector",
+											"employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/SearchChangePropertyApp",
+                                        "Icon": "changeIcon"
+                                    },
+
+									 "PROPERTY_TAX_CALCULATOR": {
+                                        "Name": "PROPERTY_TAX_CALCULATOR",
+                                        "ROLE": [
+                                            "billcollector",
+											"employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/PTCalculator",
+                                        "Icon": "changeIcon"
+                                    },
+                                  
+                                    "NEW_PROPERTY": {
+                                        "Name": "NEW_PROPERTY",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/PropertyLandingPage",
+                                        "Icon": "newPropertyIcon"
+                                    },
+									 "ARREAR_CORRECTION_POSTING": {
+                                        "Name": "ARREAR_CORRECTION_POSTING",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/ArrearCorrectionLandingPage",
+                                        "Icon": "newPropertyIcon"
+                                    },
+									 "MIS_REPORTS": {
+                                        "Name": "MIS_REPORTS",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "employee",
+                                            "ARO",
+											"COMMISSIONER"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/MisLandingPage",
+                                        "Icon": "newPropertyIcon"
+                                    },
+                                     "NAMANTARAN_CASHDESK": {
+                                        "Name": "NAMANTARAN_CASHDESK",
+                                        "ROLE": [
+                                            "CASHIER"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
+                                        "Icon": "newPropertyIcon"
+                                    },
+                                     "DASHBOARD": {
+                                        "Name": "DASHBOARD",
+                                        "ROLE": [
+                                            "COMMISSIONER"
+                                        ],
+                                        "URL": "/digit-ui/employee/dashboard-property",
+                                        "Icon": "newPropertyIcon"
+                                    },
+									 "BULK_REPORT": {
+                                        "Name": "BULK_REPORT",
+                                        "ROLE": [
+                                            "employee",
+                                            "ARO"
+                                        ],
+                                        "URL": "/digit-ui/employee/pt/PropertyTaxBillPrinting",
+                                        "Icon": "newPropertyIcon"
+                                    }
+                                }
+                            },
+                            "RENTAL": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "BILL_COLLECTOR_RENTAL",
+                                        "ARO_RENTAL",
+                                        "DC_RENTAL",
+                                        "Bill_Collector_Rental",
+                                        "citizen"
+                                    ],
+                                    "Icon": "rental_1",
+                                    "URL": {
+                                        "citizen": "dashboard/rental",
+                                        "employee": "dashboard/rental"
+                                    },
+                                    "other_data": "Rental services",
+                                    "matadata": "Rental metadata",
+                                    "isExternal": false
+                                },
+                                 "SUB_MENU": {
+                                    "MARKET": {
+                                        "Name": "MARKET",
+                                        "ROLE": [
+                                            "billcollector",
+                                            "ARO",
+                                            "employee",
+                                            "citizen"
+                                        ],
+                                        "URL": "dashboard/rental",
+                                        "Icon": "rental_1"
+                                    },
+                                    "GUMTI": {
+                                        "Name": "GUMTI",
+                                        "ROLE": [
+                                            "employee",
+                                            "citizen"
+                                        ],
+                                        "URL": "dashboard/rental-gumti",
+                                        "Icon": "rental_1"
+                                    }
+									 
+                                  
+                                   
+									
+                                }
+                            },
+                            "WATER": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "employee",
+                                        "citizen"
+                                    ],
+                                    "Icon": "water_1",
+                                    "URL": {
+                                        "employee": "",
+                                        "citizen": "/digit-ui/citizen/ws/water/Actions"
+                                    },
+                                    "other_data": "Water services",
+                                    "matadata": "Water metadata",
+                                    "isExternal": false
+                                },
+                                "SUB_MENU": {
+								  "NEW_WS_LANDING": {
+									"Name": "NEW_WS_LANDING",
+									"ROLE": [
+									  "billcollector",
+									  "ARO",
+									  "employee"
+									],
+									"URL": "/digit-ui/employee/ws/WaterLandingPage",
+									"Icon": "newWaterIcon"
+								  },
+								  "CASHDESK": {
+									"Name": "CASHDESK",
+									"ROLE": [
+									  "BILLCOUNTER",
+									  "employee"
+									],
+									"URL": "/digit-ui/employee/ws/searchTax",
+									"Icon": "cashDesk"
+								  }
+								}
+                            },
+							 "REQUEST_FOR_LITTER_COLLECTION": {
+                                "metadata": {
+                                    "ROLE": [
+                                        "SUPERUSER",
+                                        "employee",
+                                        "BILL_COLLECTOR_RENTAL",
+                                        "ARO_RENTAL",
+                                        "DC_RENTAL",
+                                        "Bill_Collector_Rental"
+                                       
+                                    ],
+                                    "Icon": "litter_collection_icon",
+                                    "URL": {
+                                        "citizen": "",
+                                        "employee": "dashboard/citizen-services?service=30"
+                                    },
+                                    "other_data": "Rental services",
+                                    "matadata": "Rental metadata",
+                                    "isExternal": true
+                                },
+                                "SUB_MENU": {}
+                            },
                             "MARRIAGE": {
                                 "metadata": {
                                     "ROLE": [
@@ -200,26 +429,6 @@
                                     "isExternal": true
                                 }
                             },
-							 "PMAY": {
-                                "metadata": {
-                                    "Name": "PMAY",
-                                    "ROLE": [
-                                        "citizen",
-                                        "FSM_CREATOR_EMP",
-                                        "FSM_EDITOR_EMP",
-                                        "FSM_ADMIN",
-                                        "FSM_DSO",
-                                        "FSM_EMP_FSTPO",
-                                        "PMAY_HOD",
-                                        "PMAY_ACCOUNT_OFFICER"
-                                    ],
-                                    "Icon": "property_1",
-                                    "URL": "dashboard/citizen-services?service=36",
-                                    "other_data": "Auditorium public request",
-                                    "metadata": "Pmay metadata",
-                                    "isExternal": true
-                                }
-                            },
                             "DEATH": {
                                 "metadata": {
                                     "ROLE": [
@@ -339,278 +548,6 @@
                                     "metadata": "Hoarding Vendor Registration metadata",
                                     "isExternal": true
                                 }
-                            },
-                            "PROPERTY": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "BILL_COLLECTOR_RENTAL",
-                                        "ARO_RENTAL",
-                                        "DC_RENTAL",
-                                        "Bill_Collector_Rental",
-                                        "citizen"
-                                    ],
-                                    "Icon": "property_1",
-                                    "URL": {
-                                        "employee": "/revenue/property",
-                                        "citizen": "/digit-ui/citizen/pt/property/Actions"
-                                    },
-                                    "other_data": "Property related services",
-                                    "matadata": "Property metadata",
-                                    "isExternal": false
-                                },
-                                "SUB_MENU": {
-                                    "NAMANTARAN": {
-                                        "Name": "NAMANTARAN",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "ARO",
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/namantaran/landing",
-                                        "Icon": "namantranIcon"
-                                    },
-                                    "CASHDESK": {
-                                        "Name": "CASHDESK",
-                                        "ROLE": [
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/search",
-                                        "Icon": "cashDesk"
-                                    },
-									 "COLLECTION_REPORT": {
-                                        "Name": "COLLECTION_REPORT",
-                                        "ROLE": [
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/ReportCashier",
-                                        "Icon": "cashDesk"
-                                    },
-									  "CHANGE_IN_PROPERTY": {
-                                        "Name": "CHANGE_IN_PROPERTY",
-                                        "ROLE": [
-                                            "billcollector",
-											"employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/SearchChangePropertyApp",
-                                        "Icon": "changeIcon"
-                                    },
-
-									 "PROPERTY_TAX_CALCULATOR": {
-                                        "Name": "PROPERTY_TAX_CALCULATOR",
-                                        "ROLE": [
-                                            "billcollector",
-											"employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/PTCalculator",
-                                        "Icon": "changeIcon"
-                                    },
-                                  
-                                    "NEW_PROPERTY": {
-                                        "Name": "NEW_PROPERTY",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/PropertyLandingPage",
-                                        "Icon": "newPropertyIcon"
-                                    },
-									 "ARREAR_CORRECTION_POSTING": {
-                                        "Name": "ARREAR_CORRECTION_POSTING",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "employee"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/ArrearCorrectionLandingPage",
-                                        "Icon": "newPropertyIcon"
-                                    },
-									 "MIS_REPORTS": {
-                                        "Name": "MIS_REPORTS",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "employee",
-                                            "ARO",
-											"COMMISSIONER"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/MisLandingPage",
-                                        "Icon": "newPropertyIcon"
-                                    },
-                                     "NAMANTARAN_CASHDESK": {
-                                        "Name": "NAMANTARAN_CASHDESK",
-                                        "ROLE": [
-                                            "CASHIER"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/namantaran/cashDeskSearch",
-                                        "Icon": "newPropertyIcon"
-                                    },
-                                     "DASHBOARD": {
-                                        "Name": "DASHBOARD",
-                                        "ROLE": [
-                                            "COMMISSIONER"
-                                        ],
-                                        "URL": "/digit-ui/employee/dashboard-property",
-                                        "Icon": "newPropertyIcon"
-                                    },
-									 "BULK_REPORT": {
-                                        "Name": "BULK_REPORT",
-                                        "ROLE": [
-                                            "employee",
-                                            "ARO"
-                                        ],
-                                        "URL": "/digit-ui/employee/pt/PropertyTaxBillPrinting",
-                                        "Icon": "newPropertyIcon"
-                                    }
-                                }
-                            },
-                            "RENTAL": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "BILL_COLLECTOR_RENTAL",
-                                        "ARO_RENTAL",
-                                        "DC_RENTAL",
-                                        "Bill_Collector_Rental",
-                                        "citizen"
-                                    ],
-                                    "Icon": "rental_1",
-                                    "URL": {
-                                        "citizen": "dashboard/rental",
-                                        "employee": "dashboard/rental"
-                                    },
-                                    "other_data": "Rental services",
-                                    "matadata": "Rental metadata",
-                                    "isExternal": false
-                                },
-                                 "SUB_MENU": {
-                                    "MARKET": {
-                                        "Name": "MARKET",
-                                        "ROLE": [
-                                            "billcollector",
-                                            "ARO",
-                                            "employee",
-                                            "citizen"
-                                        ],
-                                        "URL": "dashboard/rental",
-                                        "Icon": "rental_1"
-                                    },
-                                    "GUMTI": {
-                                        "Name": "GUMTI",
-                                        "ROLE": [
-                                            "employee",
-                                            "citizen"
-                                        ],
-                                        "URL": "dashboard/rental-gumti",
-                                        "Icon": "rental_1"
-                                    }
-									 
-                                  
-                                   
-									
-                                }
-                            },
-                            "FINANCE": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "BILL_COLLECTOR_RENTAL",
-                                        "ARO_RENTAL",
-                                        "DC_RENTAL",
-                                        "Bill_Collector_Rental"
-                                    ],
-                                    "Icon": "rental_1",
-                                    "URL": {
-                                        "citizen": "employee/services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
-                                        "employee": "employee/services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action"
-                                    },
-                                    "other_data": "Rental services",
-                                    "matadata": "Rental metadata",
-                                    "isExternal": true
-                                },
-                                "SUB_MENU": {}
-                            },
-                            "WATER": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "employee",
-                                        "citizen"
-                                    ],
-                                    "Icon": "water_1",
-                                    "URL": {
-                                        "employee": "",
-                                        "citizen": "/digit-ui/citizen/ws/water/Actions"
-                                    },
-                                    "other_data": "Water services",
-                                    "matadata": "Water metadata",
-                                    "isExternal": false
-                                },
-                                "SUB_MENU": {
-								  "NEW_WS_LANDING": {
-									"Name": "NEW_WS_LANDING",
-									"ROLE": [
-									  "billcollector",
-									  "ARO",
-									  "employee"
-									],
-									"URL": "/digit-ui/employee/ws/WaterLandingPage",
-									"Icon": "newWaterIcon"
-								  },
-								  "CASHDESK": {
-									"Name": "CASHDESK",
-									"ROLE": [
-									  "BILLCOUNTER",
-									  "employee"
-									],
-									"URL": "/digit-ui/employee/ws/searchTax",
-									"Icon": "cashDesk"
-								  }
-								}
-                            },
-                            "TRADE_LICENSE": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "WS_CLERK",
-                                        "WS_APPROVER",
-                                        "WS_FIELD_INSPECTOR",
-                                        "WS_DOC_VERIFIER",
-                                        "WS_CEMP",
-                                        "citizen"
-                                    ],
-                                    "Icon": "buildingMaroonIcon",
-                                    "URL": {
-                                        "employee": "/digit-ui/employee/tl/tradelicense/Actions",
-                                        "citizen": "/digit-ui/citizen/tl/tradelicense/Actions"
-                                    },
-                                    "other_data": "Water services",
-                                    "matadata": "Water metadata"
-                                
-                                }
-                            },
-							 "REQUEST_FOR_LITTER_COLLECTION": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "BILL_COLLECTOR_RENTAL",
-                                        "ARO_RENTAL",
-                                        "DC_RENTAL",
-                                        "Bill_Collector_Rental"
-                                       
-                                    ],
-                                    "Icon": "litter_collection_icon",
-                                    "URL": {
-                                        "citizen": "",
-                                        "employee": "dashboard/citizen-services?service=30"
-                                    },
-                                    "other_data": "Rental services",
-                                    "matadata": "Rental metadata",
-                                    "isExternal": true
-                                },
-                                "SUB_MENU": {}
                             }
                         }
                     },
