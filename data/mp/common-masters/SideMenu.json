@@ -4,9 +4,8 @@
     "SideMenu": [
         {
               "HOME": {
-                "SIDE_MENU": {
-                    
-                    "SIDEMENU_SERVICES": {
+                "SIDE_MENU": {        
+                    "SIDEMENU_CITIZEN_SERVICES": {
                         "metadata": {
                             "ROLE": [
                                 "citizen",
