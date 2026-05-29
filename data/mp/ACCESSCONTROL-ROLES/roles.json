@@ -1277,6 +1277,11 @@
       "code": "CSI_MT",
       "name": "CSI (Mobile Toilet)",
       "description": "Field completion role for CTPT mobile toilet requests"
+    },
+    {
+      "code": "ADMIN_TC",
+      "name": "Tree Cutting Admin",
+      "description": "Admin role for Tree Cutting inspector-zone assignments and rate master management"
     }
   ]
 }
