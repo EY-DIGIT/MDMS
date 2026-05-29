@@ -234,28 +234,6 @@
 								  }
 								}
                             },
-							 "REQUEST_FOR_LITTER_COLLECTION": {
-                                "metadata": {
-                                    "ROLE": [
-                                        "SUPERUSER",
-                                        "employee",
-                                        "BILL_COLLECTOR_RENTAL",
-                                        "ARO_RENTAL",
-                                        "DC_RENTAL",
-                                        "Bill_Collector_Rental"
-                                       
-                                    ],
-                                    "Icon": "litter_collection_icon",
-                                    "URL": {
-                                        "citizen": "",
-                                        "employee": "dashboard/citizen-services?service=30"
-                                    },
-                                    "other_data": "Rental services",
-                                    "matadata": "Rental metadata",
-                                    "isExternal": true
-                                },
-                                "SUB_MENU": {}
-                            },
                             "MARRIAGE": {
                                 "metadata": {
                                     "ROLE": [
